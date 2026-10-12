@@ -1,0 +1,35 @@
+City,Zone,Division,Corridor Name,Interchange,Station Name,Layout
+Chennai,12,159,Corridor 1 Green Line,Sub Urban South Line,Chennai Airport,Elevated
+Chennai,12,159,Corridor 1 Green Line,No,Meenambakkam,Elevated
+Chennai,Cantonment,Cantonment,Corridor 1 Green Line,No,Nanganallur road,Elevated
+Chennai,Cantonment,Cantonment,Corridor 1 Green Line,CMRL Blue line,Alandur,Elevated
+Chennai,12,160,Corridor 1 Green Line,Sub Urban South Line,Gindy,Elevated
+Chennai,13,170,Corridor 1 Green Line,No,Liltle mount,Elevated
+Chennai,13,171,Corridor 1 Green Line,No,Saidapet,Underground
+Chennai,9,122,Corridor 1 Green Line,No,Nandanam,Underground
+Chennai,9,122,Corridor 1 Green Line,No,Teynampet,Underground
+Chennai,9,117,Corridor 1 Green Line,No,AG-DMS,Underground
+Chennai,9,111,Corridor 1 Green Line,No,Thousand Lights,Underground
+Chennai,5,63,Corridor 1 Green Line,No,LIC,Underground
+Chennai,5,59,Corridor 1 Green Line,No,Government Estate,Underground
+Chennai,5,58,Corridor 1 Green Line,"Sub-Urban South Line,North Line, West Line, MRTS Line: CMRL Blue line",Chennai Central,Underground
+Chennai,5,60,Corridor 1 Green Line,No,Highcourt,Underground
+Chennai,5,55,Corridor 1 Green Line,No,Manadi,Underground
+Chennai,5,52,Corridor 1 Green Line,No,Washermenpet,Underground
+Chennai,12,162,Corridor 2 Blue line,Sub Urban South Line,St Thomas Mount,Elevated
+Chennai,Cantonment,Cantonment,Corridor 2 Blue line,CMRL Green Line,Alandur,Elevated
+Chennai,13,170,Corridor 2 Blue line,No,Ekkattuthanqal,Elevated
+Chennai,10,132,Corridor 2 Blue line,No,Ashok Nagar KK Nagar,Elevated
+Chennai,10,130,Corridor 2 Blue line,No,Vadapalani,Elevated
+Chennai,8,108,Corridor 2 Blue line,No,Arumbakkam,Elevated
+Chennai,10,127,Corridor 2 Blue line,No,CMBT,Elevated
+Chennai,10,127,Corridor 2 Blue line,No,Koyembedu,Elevated
+Chennai,8,99,Corridor 2 Blue line,No,Thirumangalam,Underground
+Chennai,8,100,Corridor 2 Blue line,No,Anna Nagar Tower,Underground
+Chennai,8,101,Corridor 2 Blue line,No,Anna Nagar East,Underground
+Chennai,8,102,Corridor 2 Blue line,No,Shenoy Nagar,Underground
+Chennai,8,103,Corridor 2 Blue line,No,Pachaiyappa's College,Underground
+Chennai,8,103,Corridor 2 Blue line,No,Kilpauk,Underground
+Chennai,8,104,Corridor 2 Blue line,No,Nehru Fark,Underground
+Chennai,5,58,Corridor 2 Blue line,Sub Urban South Line ,Egmore,Underground
+Chennai,5,58,Corridor 2 Blue line,Sub Urban South Line; North Line; West Line; MRTS Line CMRL Green line,Central Metro,Underground

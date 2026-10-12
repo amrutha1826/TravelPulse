@@ -1,0 +1,387 @@
+bus_id,operator,bus_type,origin_city,origin_state,destination_city,destination_state,departure_time,arrival_time,duration_hours,distance_km,fare_inr,frequency
+BUS-1001,KSRTC,Airavat Club Class,Bangalore,Karnataka,Chennai,Tamil Nadu,06:00,12:23,5.7,343,1119,Every 30min
+BUS-1002,KSRTC,Airavat Club Class,Bangalore,Karnataka,Chennai,Tamil Nadu,23:00,05:02,5.5,342,1232,Every 30min
+BUS-1003,KSRTC,Airavat Multi-Axle,Bangalore,Karnataka,Chennai,Tamil Nadu,14:00,20:16,6.6,360,927,Every 30min
+BUS-1004,KSRTC,Airavat Multi-Axle,Bangalore,Karnataka,Chennai,Tamil Nadu,23:00,05:13,6.6,340,824,Every 30min
+BUS-1005,KSRTC,Airavat Multi-Axle,Bangalore,Karnataka,Chennai,Tamil Nadu,11:00,17:22,6.3,346,879,Every 30min
+BUS-1006,SETC,Ultra Deluxe,Bangalore,Karnataka,Chennai,Tamil Nadu,09:00,16:02,6.9,351,578,Hourly
+BUS-1007,SETC,Ultra Deluxe,Bangalore,Karnataka,Chennai,Tamil Nadu,15:30,22:55,7.0,343,517,Hourly
+BUS-1008,SETC,Ultra Deluxe,Bangalore,Karnataka,Chennai,Tamil Nadu,20:00,03:02,7.3,359,609,Hourly
+BUS-1009,SETC,Ultra Deluxe,Bangalore,Karnataka,Chennai,Tamil Nadu,19:00,02:18,6.6,347,544,Hourly
+BUS-1010,SRS Travels,AC Sleeper,Bangalore,Karnataka,Chennai,Tamil Nadu,08:00,15:27,6.6,348,1011,4 per day
+BUS-1011,SRS Travels,AC Sleeper,Bangalore,Karnataka,Chennai,Tamil Nadu,21:30,04:50,6.7,351,1210,4 per day
+BUS-1012,SRS Travels,AC Sleeper,Bangalore,Karnataka,Chennai,Tamil Nadu,12:00,19:21,7.4,360,1023,4 per day
+BUS-1013,SRS Travels,AC Sleeper,Bangalore,Karnataka,Chennai,Tamil Nadu,08:00,15:19,7.0,347,1144,4 per day
+BUS-1014,KPN Travels,Volvo Multi-Axle,Bangalore,Karnataka,Chennai,Tamil Nadu,21:30,03:42,6.9,357,884,6 per day
+BUS-1015,KPN Travels,Volvo Multi-Axle,Bangalore,Karnataka,Chennai,Tamil Nadu,14:00,20:21,6.8,341,899,6 per day
+BUS-1016,KPN Travels,Volvo Multi-Axle,Bangalore,Karnataka,Chennai,Tamil Nadu,14:00,20:26,6.3,348,816,6 per day
+BUS-1017,Orange Travels,AC Sleeper,Bangalore,Karnataka,Chennai,Tamil Nadu,12:00,19:29,7.9,350,962,3 per day
+BUS-1018,Orange Travels,AC Sleeper,Bangalore,Karnataka,Chennai,Tamil Nadu,12:00,19:20,7.9,360,849,3 per day
+BUS-1019,VRL Travels,Volvo AC,Bangalore,Karnataka,Chennai,Tamil Nadu,10:00,16:08,6.7,357,891,4 per day
+BUS-1020,VRL Travels,Volvo AC,Bangalore,Karnataka,Chennai,Tamil Nadu,15:30,21:53,6.9,352,1025,4 per day
+BUS-1021,VRL Travels,Volvo AC,Bangalore,Karnataka,Chennai,Tamil Nadu,19:00,01:07,6.1,355,1149,4 per day
+BUS-1022,VRL Travels,Volvo AC,Bangalore,Karnataka,Chennai,Tamil Nadu,08:00,14:24,6.1,360,864,4 per day
+BUS-1023,VRL Travels,Volvo AC,Bangalore,Karnataka,Chennai,Tamil Nadu,11:00,17:25,6.6,352,1054,4 per day
+BUS-1024,National Travels,AC Seater,Bangalore,Karnataka,Chennai,Tamil Nadu,21:30,04:46,7.1,340,647,5 per day
+BUS-1025,National Travels,AC Seater,Bangalore,Karnataka,Chennai,Tamil Nadu,09:00,16:21,7.3,360,780,5 per day
+BUS-1026,National Travels,AC Seater,Bangalore,Karnataka,Chennai,Tamil Nadu,18:00,01:03,6.7,340,656,5 per day
+BUS-1027,National Travels,AC Seater,Bangalore,Karnataka,Chennai,Tamil Nadu,15:30,22:46,7.0,343,755,5 per day
+BUS-1028,National Travels,AC Seater,Bangalore,Karnataka,Chennai,Tamil Nadu,17:00,00:26,7.1,344,729,5 per day
+BUS-1029,Parveen Travels,AC Sleeper,Bangalore,Karnataka,Chennai,Tamil Nadu,11:00,18:17,7.4,340,908,3 per day
+BUS-1030,Parveen Travels,AC Sleeper,Bangalore,Karnataka,Chennai,Tamil Nadu,18:00,01:15,7.4,349,684,3 per day
+BUS-1031,Parveen Travels,AC Sleeper,Bangalore,Karnataka,Chennai,Tamil Nadu,14:00,21:01,7.1,342,737,3 per day
+BUS-1032,Parveen Travels,AC Sleeper,Bangalore,Karnataka,Chennai,Tamil Nadu,08:00,15:23,6.6,357,796,3 per day
+BUS-1033,TSRTC,Garuda Plus,Hyderabad,Telangana,Chennai,Tamil Nadu,10:00,20:21,10.0,788,1488,6 per day
+BUS-1034,TSRTC,Garuda Plus,Hyderabad,Telangana,Chennai,Tamil Nadu,22:30,08:57,10.5,797,1547,6 per day
+BUS-1035,TSRTC,Garuda Plus,Hyderabad,Telangana,Chennai,Tamil Nadu,12:00,22:22,10.5,800,1415,6 per day
+BUS-1036,APSRTC,Super Luxury,Hyderabad,Telangana,Chennai,Tamil Nadu,21:30,08:58,10.6,787,1105,8 per day
+BUS-1037,APSRTC,Super Luxury,Hyderabad,Telangana,Chennai,Tamil Nadu,08:00,19:10,11.1,798,941,8 per day
+BUS-1038,APSRTC,Super Luxury,Hyderabad,Telangana,Chennai,Tamil Nadu,14:00,01:00,11.1,787,958,8 per day
+BUS-1039,APSRTC,Super Luxury,Hyderabad,Telangana,Chennai,Tamil Nadu,08:00,19:28,10.8,796,945,8 per day
+BUS-1040,Jabbar Travels,Volvo Multi-Axle,Hyderabad,Telangana,Chennai,Tamil Nadu,15:30,01:51,10.5,798,1393,4 per day
+BUS-1041,Jabbar Travels,Volvo Multi-Axle,Hyderabad,Telangana,Chennai,Tamil Nadu,23:30,09:45,10.5,793,1292,4 per day
+BUS-1042,Jabbar Travels,Volvo Multi-Axle,Hyderabad,Telangana,Chennai,Tamil Nadu,12:00,22:03,10.4,793,1230,4 per day
+BUS-1043,Orange Travels,AC Sleeper,Hyderabad,Telangana,Chennai,Tamil Nadu,21:30,08:57,11.2,800,1282,3 per day
+BUS-1044,Orange Travels,AC Sleeper,Hyderabad,Telangana,Chennai,Tamil Nadu,09:00,20:01,10.8,783,1164,3 per day
+BUS-1045,Orange Travels,AC Sleeper,Hyderabad,Telangana,Chennai,Tamil Nadu,14:00,01:06,10.9,793,1088,3 per day
+BUS-1046,Orange Travels,AC Sleeper,Hyderabad,Telangana,Chennai,Tamil Nadu,11:00,22:08,11.4,782,1186,3 per day
+BUS-1047,Orange Travels,AC Sleeper,Hyderabad,Telangana,Chennai,Tamil Nadu,21:30,08:55,11.1,781,1330,3 per day
+BUS-1048,Kaveri Travels,AC Seater,Hyderabad,Telangana,Chennai,Tamil Nadu,06:00,17:02,11.8,785,1015,3 per day
+BUS-1049,Kaveri Travels,AC Seater,Hyderabad,Telangana,Chennai,Tamil Nadu,21:00,08:15,11.9,781,894,3 per day
+BUS-1050,Kaveri Travels,AC Seater,Hyderabad,Telangana,Chennai,Tamil Nadu,11:00,22:12,11.4,794,765,3 per day
+BUS-1051,Kaveri Travels,AC Seater,Hyderabad,Telangana,Chennai,Tamil Nadu,17:00,04:13,11.7,797,953,3 per day
+BUS-1052,Kaveri Travels,AC Seater,Hyderabad,Telangana,Chennai,Tamil Nadu,22:00,09:04,11.2,781,816,3 per day
+BUS-1053,Kaveri Travels,AC Seater,Hyderabad,Telangana,Chennai,Tamil Nadu,23:30,10:53,11.7,781,911,3 per day
+BUS-1054,SRS Travels,AC Sleeper,Hyderabad,Telangana,Chennai,Tamil Nadu,23:30,09:45,10.9,785,1301,2 per day
+BUS-1055,SRS Travels,AC Sleeper,Hyderabad,Telangana,Chennai,Tamil Nadu,07:30,18:00,10.9,782,1303,2 per day
+BUS-1056,SETC,Ultra Deluxe,Madurai,Tamil Nadu,Chennai,Tamil Nadu,08:00,16:21,7.9,470,720,Every 30min
+BUS-1057,SETC,Ultra Deluxe,Madurai,Tamil Nadu,Chennai,Tamil Nadu,14:00,22:18,8.1,465,668,Every 30min
+BUS-1058,SETC,Ultra Deluxe,Madurai,Tamil Nadu,Chennai,Tamil Nadu,23:30,07:48,8.4,458,654,Every 30min
+BUS-1059,SETC,Ultra Deluxe,Madurai,Tamil Nadu,Chennai,Tamil Nadu,18:00,02:07,7.6,472,604,Every 30min
+BUS-1060,SETC,Ultra Deluxe,Madurai,Tamil Nadu,Chennai,Tamil Nadu,17:00,01:14,8.3,454,614,Every 30min
+BUS-1061,SETC,Ultra Deluxe,Madurai,Tamil Nadu,Chennai,Tamil Nadu,06:00,14:14,8.1,455,673,Every 30min
+BUS-1062,SETC,AC Sleeper,Madurai,Tamil Nadu,Chennai,Tamil Nadu,23:00,07:06,8.1,463,901,6 per day
+BUS-1063,SETC,AC Sleeper,Madurai,Tamil Nadu,Chennai,Tamil Nadu,08:00,16:28,8.3,466,830,6 per day
+BUS-1064,KPN Travels,Volvo AC,Madurai,Tamil Nadu,Chennai,Tamil Nadu,17:00,00:19,7.8,468,973,4 per day
+BUS-1065,KPN Travels,Volvo AC,Madurai,Tamil Nadu,Chennai,Tamil Nadu,06:00,13:21,7.3,455,930,4 per day
+BUS-1066,KPN Travels,Volvo AC,Madurai,Tamil Nadu,Chennai,Tamil Nadu,10:00,17:08,7.1,469,751,4 per day
+BUS-1067,KPN Travels,Volvo AC,Madurai,Tamil Nadu,Chennai,Tamil Nadu,10:00,17:08,7.2,462,794,4 per day
+BUS-1068,KPN Travels,Volvo AC,Madurai,Tamil Nadu,Chennai,Tamil Nadu,12:00,19:21,7.3,467,884,4 per day
+BUS-1069,KPN Travels,Volvo AC,Madurai,Tamil Nadu,Chennai,Tamil Nadu,15:30,22:58,7.1,472,954,4 per day
+BUS-1070,Parveen Travels,AC Sleeper,Madurai,Tamil Nadu,Chennai,Tamil Nadu,15:30,23:31,8.3,472,680,3 per day
+BUS-1071,Parveen Travels,AC Sleeper,Madurai,Tamil Nadu,Chennai,Tamil Nadu,15:30,23:35,8.1,465,857,3 per day
+BUS-1072,Parveen Travels,AC Sleeper,Madurai,Tamil Nadu,Chennai,Tamil Nadu,23:00,07:00,8.4,456,706,3 per day
+BUS-1073,Parveen Travels,AC Sleeper,Madurai,Tamil Nadu,Chennai,Tamil Nadu,23:00,07:01,8.1,456,880,3 per day
+BUS-1074,Parveen Travels,AC Sleeper,Madurai,Tamil Nadu,Chennai,Tamil Nadu,21:00,05:04,7.9,453,690,3 per day
+BUS-1075,SRS Travels,Non-AC Sleeper,Madurai,Tamil Nadu,Chennai,Tamil Nadu,12:00,21:21,8.6,469,462,4 per day
+BUS-1076,SRS Travels,Non-AC Sleeper,Madurai,Tamil Nadu,Chennai,Tamil Nadu,21:00,06:19,9.4,459,537,4 per day
+BUS-1077,SRS Travels,Non-AC Sleeper,Madurai,Tamil Nadu,Chennai,Tamil Nadu,11:00,20:25,9.4,452,546,4 per day
+BUS-1078,SRS Travels,Non-AC Sleeper,Madurai,Tamil Nadu,Chennai,Tamil Nadu,11:00,20:23,9.3,465,563,4 per day
+BUS-1079,SETC,Ultra Deluxe,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,15:30,23:35,7.6,496,760,Every 1hr
+BUS-1080,SETC,Ultra Deluxe,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,22:00,06:07,8.4,506,636,Every 1hr
+BUS-1081,SETC,Ultra Deluxe,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,17:00,01:26,7.7,495,762,Every 1hr
+BUS-1082,SETC,AC Sleeper,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,20:00,04:10,8.1,503,886,4 per day
+BUS-1083,SETC,AC Sleeper,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,19:00,03:20,8.7,512,952,4 per day
+BUS-1084,SETC,AC Sleeper,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,18:00,02:30,8.9,503,815,4 per day
+BUS-1085,KPN Travels,Volvo Multi-Axle,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,23:30,08:00,7.5,514,1030,5 per day
+BUS-1086,KPN Travels,Volvo Multi-Axle,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,21:00,05:11,7.8,514,961,5 per day
+BUS-1087,KPN Travels,Volvo Multi-Axle,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,22:30,06:33,8.1,503,869,5 per day
+BUS-1088,Parveen Travels,AC Sleeper,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,21:00,05:00,8.8,501,855,3 per day
+BUS-1089,Parveen Travels,AC Sleeper,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,19:00,03:13,8.7,505,740,3 per day
+BUS-1090,Jabbar Travels,AC Seater,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,18:00,03:21,9.2,504,773,3 per day
+BUS-1091,Jabbar Travels,AC Seater,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,22:30,07:39,8.8,504,735,3 per day
+BUS-1092,Jabbar Travels,AC Seater,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,23:00,08:04,9.2,507,635,3 per day
+BUS-1093,Jabbar Travels,AC Seater,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,11:00,20:19,8.9,495,714,3 per day
+BUS-1094,Jabbar Travels,AC Seater,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,17:00,02:09,9.3,514,639,3 per day
+BUS-1095,Jabbar Travels,AC Seater,Coimbatore,Tamil Nadu,Chennai,Tamil Nadu,18:00,03:14,9.2,511,687,3 per day
+BUS-1096,SETC,Deluxe,Trichy,Tamil Nadu,Chennai,Tamil Nadu,11:00,17:21,6.5,340,393,Every 1hr
+BUS-1097,SETC,Deluxe,Trichy,Tamil Nadu,Chennai,Tamil Nadu,18:00,00:02,6.8,329,492,Every 1hr
+BUS-1098,SETC,Deluxe,Trichy,Tamil Nadu,Chennai,Tamil Nadu,14:00,20:25,6.0,327,409,Every 1hr
+BUS-1099,SETC,Deluxe,Trichy,Tamil Nadu,Chennai,Tamil Nadu,22:00,04:19,6.1,333,497,Every 1hr
+BUS-1100,SETC,Deluxe,Trichy,Tamil Nadu,Chennai,Tamil Nadu,23:30,05:36,6.4,332,479,Every 1hr
+BUS-1101,SETC,AC Sleeper,Trichy,Tamil Nadu,Chennai,Tamil Nadu,10:00,17:20,7.4,323,792,4 per day
+BUS-1102,SETC,AC Sleeper,Trichy,Tamil Nadu,Chennai,Tamil Nadu,21:00,04:07,7.5,336,677,4 per day
+BUS-1103,SETC,AC Sleeper,Trichy,Tamil Nadu,Chennai,Tamil Nadu,21:30,04:31,7.4,323,762,4 per day
+BUS-1104,KPN Travels,AC Seater,Trichy,Tamil Nadu,Chennai,Tamil Nadu,10:00,16:25,6.5,337,593,3 per day
+BUS-1105,KPN Travels,AC Seater,Trichy,Tamil Nadu,Chennai,Tamil Nadu,18:00,00:30,6.4,336,645,3 per day
+BUS-1106,KPN Travels,AC Seater,Trichy,Tamil Nadu,Chennai,Tamil Nadu,21:00,03:26,6.4,325,673,3 per day
+BUS-1107,KPN Travels,AC Seater,Trichy,Tamil Nadu,Chennai,Tamil Nadu,22:00,04:14,6.2,340,556,3 per day
+BUS-1108,KPN Travels,AC Seater,Trichy,Tamil Nadu,Chennai,Tamil Nadu,15:30,21:54,6.5,327,649,3 per day
+BUS-1109,SETC,Super Deluxe,Salem,Tamil Nadu,Chennai,Tamil Nadu,21:30,02:32,5.2,340,425,Every 1hr
+BUS-1110,SETC,Super Deluxe,Salem,Tamil Nadu,Chennai,Tamil Nadu,18:00,23:28,5.1,337,404,Every 1hr
+BUS-1111,SETC,Super Deluxe,Salem,Tamil Nadu,Chennai,Tamil Nadu,20:00,01:22,5.2,343,358,Every 1hr
+BUS-1112,SETC,Super Deluxe,Salem,Tamil Nadu,Chennai,Tamil Nadu,21:00,02:10,5.4,336,405,Every 1hr
+BUS-1113,SETC,Ultra Deluxe,Salem,Tamil Nadu,Chennai,Tamil Nadu,20:00,01:28,5.9,330,540,6 per day
+BUS-1114,SETC,Ultra Deluxe,Salem,Tamil Nadu,Chennai,Tamil Nadu,23:30,04:42,5.9,339,496,6 per day
+BUS-1115,SETC,Ultra Deluxe,Salem,Tamil Nadu,Chennai,Tamil Nadu,20:00,01:27,5.8,347,558,6 per day
+BUS-1116,SETC,Ultra Deluxe,Salem,Tamil Nadu,Chennai,Tamil Nadu,23:00,04:25,5.2,337,515,6 per day
+BUS-1117,SETC,Ultra Deluxe,Salem,Tamil Nadu,Chennai,Tamil Nadu,15:30,20:43,5.4,342,497,6 per day
+BUS-1118,KPN Travels,AC Seater,Salem,Tamil Nadu,Chennai,Tamil Nadu,21:30,02:59,5.6,330,488,4 per day
+BUS-1119,KPN Travels,AC Seater,Salem,Tamil Nadu,Chennai,Tamil Nadu,20:00,01:18,5.0,350,560,4 per day
+BUS-1120,KPN Travels,AC Seater,Salem,Tamil Nadu,Chennai,Tamil Nadu,21:00,02:04,5.2,338,610,4 per day
+BUS-1121,SETC,Express,Pondicherry,Puducherry,Chennai,Tamil Nadu,18:00,21:06,3.3,162,197,Every 30min
+BUS-1122,SETC,Express,Pondicherry,Puducherry,Chennai,Tamil Nadu,15:30,18:54,3.4,152,227,Every 30min
+BUS-1123,SETC,Express,Pondicherry,Puducherry,Chennai,Tamil Nadu,22:00,01:00,3.1,161,214,Every 30min
+BUS-1124,SETC,Express,Pondicherry,Puducherry,Chennai,Tamil Nadu,14:00,17:20,4.0,151,174,Every 30min
+BUS-1125,SETC,Express,Pondicherry,Puducherry,Chennai,Tamil Nadu,06:00,09:30,3.8,169,184,Every 30min
+BUS-1126,SETC,Deluxe,Pondicherry,Puducherry,Chennai,Tamil Nadu,14:00,17:04,2.6,156,277,Every 1hr
+BUS-1127,SETC,Deluxe,Pondicherry,Puducherry,Chennai,Tamil Nadu,21:30,00:52,2.9,169,259,Every 1hr
+BUS-1128,SETC,Deluxe,Pondicherry,Puducherry,Chennai,Tamil Nadu,09:00,12:24,3.5,153,306,Every 1hr
+BUS-1129,Parveen Travels,AC Seater,Pondicherry,Puducherry,Chennai,Tamil Nadu,06:00,09:29,3.2,162,330,4 per day
+BUS-1130,Parveen Travels,AC Seater,Pondicherry,Puducherry,Chennai,Tamil Nadu,20:00,23:30,2.6,170,372,4 per day
+BUS-1131,Parveen Travels,AC Seater,Pondicherry,Puducherry,Chennai,Tamil Nadu,14:00,17:03,2.8,169,370,4 per day
+BUS-1132,Parveen Travels,AC Seater,Pondicherry,Puducherry,Chennai,Tamil Nadu,09:00,12:25,3.3,161,400,4 per day
+BUS-1133,Parveen Travels,AC Seater,Pondicherry,Puducherry,Chennai,Tamil Nadu,23:00,02:13,2.6,170,366,4 per day
+BUS-1134,Parveen Travels,AC Seater,Pondicherry,Puducherry,Chennai,Tamil Nadu,18:00,21:00,3.3,153,386,4 per day
+BUS-1135,SETC,Ultra Deluxe,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,19:00,06:20,11.0,624,893,4 per day
+BUS-1136,SETC,Ultra Deluxe,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,21:00,08:05,11.5,628,856,4 per day
+BUS-1137,SETC,Ultra Deluxe,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,23:00,10:24,10.9,638,796,4 per day
+BUS-1138,SETC,Ultra Deluxe,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,15:30,02:40,11.3,622,884,4 per day
+BUS-1139,SETC,Ultra Deluxe,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,15:30,02:58,11.3,638,788,4 per day
+BUS-1140,SETC,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,20:00,07:10,11.9,625,944,3 per day
+BUS-1141,SETC,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,22:00,09:06,11.3,628,1052,3 per day
+BUS-1142,SETC,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,15:30,02:47,11.9,622,938,3 per day
+BUS-1143,SETC,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,14:00,01:23,11.6,627,1069,3 per day
+BUS-1144,SETC,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,22:00,09:20,11.4,620,1169,3 per day
+BUS-1145,SETC,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,08:00,19:09,11.7,629,1008,3 per day
+BUS-1146,KPN Travels,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,19:00,06:15,10.8,637,1016,2 per day
+BUS-1147,KPN Travels,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,18:00,05:11,10.8,628,1060,2 per day
+BUS-1148,KPN Travels,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,14:00,01:03,10.8,637,1066,2 per day
+BUS-1149,KPN Travels,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,11:00,22:06,11.0,638,914,2 per day
+BUS-1150,KPN Travels,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,22:30,09:49,10.6,626,934,2 per day
+BUS-1151,KPN Travels,AC Sleeper,Tirunelveli,Tamil Nadu,Chennai,Tamil Nadu,17:00,04:07,10.8,637,958,2 per day
+BUS-1152,SETC,Ultra Deluxe,Kanyakumari,Tamil Nadu,Chennai,Tamil Nadu,15:30,03:31,12.1,704,1028,3 per day
+BUS-1153,SETC,Ultra Deluxe,Kanyakumari,Tamil Nadu,Chennai,Tamil Nadu,22:00,10:03,12.1,715,1000,3 per day
+BUS-1154,SETC,Ultra Deluxe,Kanyakumari,Tamil Nadu,Chennai,Tamil Nadu,22:00,10:14,12.5,708,856,3 per day
+BUS-1155,SETC,AC Sleeper,Kanyakumari,Tamil Nadu,Chennai,Tamil Nadu,09:00,21:26,12.5,718,1043,2 per day
+BUS-1156,SETC,AC Sleeper,Kanyakumari,Tamil Nadu,Chennai,Tamil Nadu,07:30,19:34,12.6,709,1073,2 per day
+BUS-1157,SETC,AC Sleeper,Kanyakumari,Tamil Nadu,Chennai,Tamil Nadu,08:00,20:07,12.8,719,1062,2 per day
+BUS-1158,SETC,AC Sleeper,Kanyakumari,Tamil Nadu,Chennai,Tamil Nadu,14:00,02:24,12.5,714,1208,2 per day
+BUS-1159,SETC,AC Sleeper,Kanyakumari,Tamil Nadu,Chennai,Tamil Nadu,17:00,05:27,12.4,718,1231,2 per day
+BUS-1160,SETC,Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,07:30,14:49,6.6,346,512,6 per day
+BUS-1161,SETC,Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,12:00,19:08,6.7,345,471,6 per day
+BUS-1162,SETC,Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,23:00,06:02,6.9,359,403,6 per day
+BUS-1163,SETC,Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,22:00,05:09,6.8,349,386,6 per day
+BUS-1164,SETC,Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,21:30,04:32,7.4,360,475,6 per day
+BUS-1165,SETC,Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,23:30,06:51,6.7,343,491,6 per day
+BUS-1166,SETC,Ultra Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,14:00,20:20,6.3,344,492,4 per day
+BUS-1167,SETC,Ultra Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,08:00,14:01,6.3,358,494,4 per day
+BUS-1168,SETC,Ultra Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,17:00,23:14,6.7,352,488,4 per day
+BUS-1169,SETC,Ultra Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,15:30,21:46,6.4,359,556,4 per day
+BUS-1170,SETC,Ultra Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,07:30,13:58,6.3,348,538,4 per day
+BUS-1171,SETC,Ultra Deluxe,Thanjavur,Tamil Nadu,Chennai,Tamil Nadu,06:00,12:02,6.7,358,505,4 per day
+BUS-1172,SETC,Express,Vellore,Tamil Nadu,Chennai,Tamil Nadu,06:00,09:24,2.8,131,189,Every 30min
+BUS-1173,SETC,Express,Vellore,Tamil Nadu,Chennai,Tamil Nadu,11:00,14:15,2.9,138,181,Every 30min
+BUS-1174,SETC,Express,Vellore,Tamil Nadu,Chennai,Tamil Nadu,11:00,14:18,3.3,132,176,Every 30min
+BUS-1175,SETC,Express,Vellore,Tamil Nadu,Chennai,Tamil Nadu,22:00,01:11,2.8,133,175,Every 30min
+BUS-1176,SETC,Express,Vellore,Tamil Nadu,Chennai,Tamil Nadu,11:00,14:10,3.0,142,175,Every 30min
+BUS-1177,SETC,Express,Vellore,Tamil Nadu,Chennai,Tamil Nadu,23:00,02:01,2.8,140,177,Every 30min
+BUS-1178,SETC,Deluxe,Vellore,Tamil Nadu,Chennai,Tamil Nadu,20:00,22:27,3.0,147,251,Hourly
+BUS-1179,SETC,Deluxe,Vellore,Tamil Nadu,Chennai,Tamil Nadu,21:30,23:43,2.5,149,216,Hourly
+BUS-1180,APSRTC,Super Luxury,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,21:30,00:54,3.3,134,259,Every 30min
+BUS-1181,APSRTC,Super Luxury,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,17:00,20:14,3.5,130,334,Every 30min
+BUS-1182,APSRTC,Super Luxury,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,14:00,17:22,3.6,147,269,Every 30min
+BUS-1183,APSRTC,Super Luxury,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,21:00,00:02,3.8,133,275,Every 30min
+BUS-1184,APSRTC,Super Luxury,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,21:30,01:00,3.8,145,265,Every 30min
+BUS-1185,APSRTC,Garuda,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,22:30,01:52,3.3,145,419,6 per day
+BUS-1186,APSRTC,Garuda,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,14:00,17:14,2.9,149,456,6 per day
+BUS-1187,APSRTC,Garuda,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,22:30,01:53,3.4,138,501,6 per day
+BUS-1188,APSRTC,Garuda,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,21:00,00:10,3.0,130,508,6 per day
+BUS-1189,SETC,Express,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,17:00,20:26,4.0,145,256,Hourly
+BUS-1190,SETC,Express,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,10:00,13:14,3.3,147,252,Hourly
+BUS-1191,SETC,Express,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,23:00,02:12,3.3,136,246,Hourly
+BUS-1192,SETC,Express,Tirupati,Andhra Pradesh,Chennai,Tamil Nadu,14:00,17:18,3.9,143,241,Hourly
+BUS-1193,KSRTC Kerala,Super Fast,Kochi,Kerala,Chennai,Tamil Nadu,18:00,06:23,12.4,702,892,4 per day
+BUS-1194,KSRTC Kerala,Super Fast,Kochi,Kerala,Chennai,Tamil Nadu,20:00,08:21,12.2,694,978,4 per day
+BUS-1195,KSRTC Kerala,AC Sleeper,Kochi,Kerala,Chennai,Tamil Nadu,07:30,19:34,12.6,693,1300,2 per day
+BUS-1196,KSRTC Kerala,AC Sleeper,Kochi,Kerala,Chennai,Tamil Nadu,21:30,09:33,12.5,694,1310,2 per day
+BUS-1197,KSRTC Kerala,AC Sleeper,Kochi,Kerala,Chennai,Tamil Nadu,21:00,09:27,12.2,705,1360,2 per day
+BUS-1198,KSRTC Kerala,AC Sleeper,Kochi,Kerala,Chennai,Tamil Nadu,15:30,03:40,12.4,692,1348,2 per day
+BUS-1199,KSRTC Kerala,AC Sleeper,Kochi,Kerala,Chennai,Tamil Nadu,18:00,06:27,12.5,700,1367,2 per day
+BUS-1200,KPN Travels,AC Sleeper,Kochi,Kerala,Chennai,Tamil Nadu,23:00,11:01,11.7,699,1242,3 per day
+BUS-1201,KPN Travels,AC Sleeper,Kochi,Kerala,Chennai,Tamil Nadu,14:00,02:23,12.5,710,1052,3 per day
+BUS-1202,KPN Travels,AC Sleeper,Kochi,Kerala,Chennai,Tamil Nadu,09:00,21:14,11.8,690,1079,3 per day
+BUS-1203,KPN Travels,AC Sleeper,Kochi,Kerala,Chennai,Tamil Nadu,07:30,19:40,11.8,701,1306,3 per day
+BUS-1204,KPN Travels,AC Sleeper,Kochi,Kerala,Chennai,Tamil Nadu,21:00,09:04,11.9,695,1107,3 per day
+BUS-1205,KSRTC Kerala,Super Fast,Trivandrum,Kerala,Chennai,Tamil Nadu,11:00,03:02,15.9,777,1136,3 per day
+BUS-1206,KSRTC Kerala,Super Fast,Trivandrum,Kerala,Chennai,Tamil Nadu,22:00,14:29,15.7,790,1127,3 per day
+BUS-1207,KSRTC Kerala,Super Fast,Trivandrum,Kerala,Chennai,Tamil Nadu,15:30,07:44,15.5,784,1019,3 per day
+BUS-1208,KSRTC Kerala,AC Sleeper,Trivandrum,Kerala,Chennai,Tamil Nadu,23:00,15:05,16.9,788,1308,2 per day
+BUS-1209,KSRTC Kerala,AC Sleeper,Trivandrum,Kerala,Chennai,Tamil Nadu,17:00,09:20,16.7,784,1707,2 per day
+BUS-1210,KSRTC Kerala,AC Sleeper,Trivandrum,Kerala,Chennai,Tamil Nadu,17:00,09:06,16.9,773,1724,2 per day
+BUS-1211,KSRTC Kerala,AC Sleeper,Trivandrum,Kerala,Chennai,Tamil Nadu,14:00,06:12,16.6,779,1532,2 per day
+BUS-1212,KSRTC,Airavat,Mangalore,Karnataka,Chennai,Tamil Nadu,20:00,08:08,12.4,671,1022,3 per day
+BUS-1213,KSRTC,Airavat,Mangalore,Karnataka,Chennai,Tamil Nadu,22:00,10:26,11.8,677,1345,3 per day
+BUS-1214,VRL Travels,AC Sleeper,Mangalore,Karnataka,Chennai,Tamil Nadu,19:00,08:07,13.1,674,1145,2 per day
+BUS-1215,VRL Travels,AC Sleeper,Mangalore,Karnataka,Chennai,Tamil Nadu,09:00,22:28,12.5,684,1142,2 per day
+BUS-1216,VRL Travels,AC Sleeper,Mangalore,Karnataka,Chennai,Tamil Nadu,07:30,20:48,12.6,679,1055,2 per day
+BUS-1217,VRL Travels,AC Sleeper,Mangalore,Karnataka,Chennai,Tamil Nadu,18:00,07:23,12.7,687,1072,2 per day
+BUS-1218,VRL Travels,AC Sleeper,Mangalore,Karnataka,Chennai,Tamil Nadu,19:00,08:16,12.8,675,1100,2 per day
+BUS-1219,VRL Travels,AC Sleeper,Mangalore,Karnataka,Chennai,Tamil Nadu,15:30,04:59,13.0,679,1207,2 per day
+BUS-1220,KSRTC,Rajahamsa,Mysore,Karnataka,Chennai,Tamil Nadu,09:00,17:14,7.6,477,911,4 per day
+BUS-1221,KSRTC,Rajahamsa,Mysore,Karnataka,Chennai,Tamil Nadu,20:00,04:30,8.1,472,882,4 per day
+BUS-1222,KSRTC,Rajahamsa,Mysore,Karnataka,Chennai,Tamil Nadu,20:00,04:00,7.6,481,743,4 per day
+BUS-1223,KSRTC,Rajahamsa,Mysore,Karnataka,Chennai,Tamil Nadu,15:30,23:48,8.1,481,771,4 per day
+BUS-1224,SRS Travels,AC Sleeper,Mysore,Karnataka,Chennai,Tamil Nadu,14:00,22:15,8.9,487,771,3 per day
+BUS-1225,SRS Travels,AC Sleeper,Mysore,Karnataka,Chennai,Tamil Nadu,18:00,02:29,8.6,490,929,3 per day
+BUS-1226,APSRTC,Super Luxury,Vijayawada,Andhra Pradesh,Chennai,Tamil Nadu,17:00,01:20,7.6,431,680,6 per day
+BUS-1227,APSRTC,Super Luxury,Vijayawada,Andhra Pradesh,Chennai,Tamil Nadu,17:00,01:15,7.7,447,619,6 per day
+BUS-1228,APSRTC,Super Luxury,Vijayawada,Andhra Pradesh,Chennai,Tamil Nadu,10:00,18:12,8.2,447,690,6 per day
+BUS-1229,APSRTC,Super Luxury,Vijayawada,Andhra Pradesh,Chennai,Tamil Nadu,21:00,05:18,7.7,443,750,6 per day
+BUS-1230,APSRTC,Super Luxury,Vijayawada,Andhra Pradesh,Chennai,Tamil Nadu,09:00,17:26,7.9,438,697,6 per day
+BUS-1231,Orange Travels,AC Sleeper,Vijayawada,Andhra Pradesh,Chennai,Tamil Nadu,19:00,03:06,9.0,441,884,3 per day
+BUS-1232,Orange Travels,AC Sleeper,Vijayawada,Andhra Pradesh,Chennai,Tamil Nadu,09:00,17:21,8.9,450,864,3 per day
+BUS-1233,APSRTC,Garuda Plus,Vizag,Andhra Pradesh,Chennai,Tamil Nadu,07:30,21:42,14.5,804,1305,3 per day
+BUS-1234,APSRTC,Garuda Plus,Vizag,Andhra Pradesh,Chennai,Tamil Nadu,08:00,22:21,14.1,790,1279,3 per day
+BUS-1235,APSRTC,Garuda Plus,Vizag,Andhra Pradesh,Chennai,Tamil Nadu,07:30,21:55,14.5,808,1330,3 per day
+BUS-1236,APSRTC,Garuda Plus,Vizag,Andhra Pradesh,Chennai,Tamil Nadu,12:00,02:02,14.1,808,1538,3 per day
+BUS-1237,Jabbar Travels,AC Sleeper,Vizag,Andhra Pradesh,Chennai,Tamil Nadu,14:00,04:10,14.8,809,1407,2 per day
+BUS-1238,Jabbar Travels,AC Sleeper,Vizag,Andhra Pradesh,Chennai,Tamil Nadu,06:00,20:08,14.1,794,1439,2 per day
+BUS-1239,Jabbar Travels,AC Sleeper,Vizag,Andhra Pradesh,Chennai,Tamil Nadu,23:00,13:08,14.1,790,1416,2 per day
+BUS-1240,VRL Travels,Volvo Multi-Axle,Mumbai,Maharashtra,Chennai,Tamil Nadu,06:00,00:11,17.7,1280,2391,2 per day
+BUS-1241,VRL Travels,Volvo Multi-Axle,Mumbai,Maharashtra,Chennai,Tamil Nadu,06:00,00:05,17.6,1283,2045,2 per day
+BUS-1242,VRL Travels,Volvo Multi-Axle,Mumbai,Maharashtra,Chennai,Tamil Nadu,22:30,16:33,18.0,1281,2362,2 per day
+BUS-1243,Paulo Travels,AC Sleeper,Mumbai,Maharashtra,Chennai,Tamil Nadu,23:30,18:33,18.7,1289,1971,Daily
+BUS-1244,Paulo Travels,AC Sleeper,Mumbai,Maharashtra,Chennai,Tamil Nadu,07:30,02:53,19.4,1286,2169,Daily
+BUS-1245,Paulo Travels,AC Sleeper,Mumbai,Maharashtra,Chennai,Tamil Nadu,17:00,12:14,18.5,1285,2086,Daily
+BUS-1246,Paulo Travels,AC Sleeper,Mumbai,Maharashtra,Chennai,Tamil Nadu,20:00,15:13,19.0,1284,2111,Daily
+BUS-1247,Paulo Travels,AC Sleeper,Mumbai,Maharashtra,Chennai,Tamil Nadu,08:00,03:28,19.1,1272,1748,Daily
+BUS-1248,Paulo Travels,AC Sleeper,Mumbai,Maharashtra,Chennai,Tamil Nadu,10:00,05:08,19.1,1280,2074,Daily
+BUS-1249,Neeta Travels,AC Sleeper,Mumbai,Maharashtra,Chennai,Tamil Nadu,22:30,16:39,18.6,1273,2070,Daily
+BUS-1250,Neeta Travels,AC Sleeper,Mumbai,Maharashtra,Chennai,Tamil Nadu,09:00,03:27,18.9,1287,2197,Daily
+BUS-1251,Neeta Travels,AC Sleeper,Mumbai,Maharashtra,Chennai,Tamil Nadu,12:00,06:13,18.2,1280,2069,Daily
+BUS-1252,Neeta Travels,AC Sleeper,Mumbai,Maharashtra,Chennai,Tamil Nadu,21:30,15:42,18.1,1283,2047,Daily
+BUS-1253,Neeta Travels,AC Sleeper,Mumbai,Maharashtra,Chennai,Tamil Nadu,18:00,12:21,19.0,1285,1945,Daily
+BUS-1254,VRL Travels,AC Sleeper,Pune,Maharashtra,Chennai,Tamil Nadu,08:00,00:26,15.9,1151,1576,2 per day
+BUS-1255,VRL Travels,AC Sleeper,Pune,Maharashtra,Chennai,Tamil Nadu,10:00,02:17,16.5,1157,1562,2 per day
+BUS-1256,Neeta Travels,AC Sleeper,Pune,Maharashtra,Chennai,Tamil Nadu,09:00,01:13,16.7,1153,1625,Daily
+BUS-1257,Neeta Travels,AC Sleeper,Pune,Maharashtra,Chennai,Tamil Nadu,07:30,00:00,16.3,1143,1591,Daily
+BUS-1258,Neeta Travels,AC Sleeper,Pune,Maharashtra,Chennai,Tamil Nadu,23:30,15:46,16.7,1147,1553,Daily
+BUS-1259,Neeta Travels,AC Sleeper,Pune,Maharashtra,Chennai,Tamil Nadu,09:00,01:11,16.4,1148,1876,Daily
+BUS-1260,Paulo Travels,AC Sleeper,Goa,Goa,Chennai,Tamil Nadu,14:00,04:25,14.1,909,1468,3 per week
+BUS-1261,Paulo Travels,AC Sleeper,Goa,Goa,Chennai,Tamil Nadu,23:00,13:00,14.2,898,1549,3 per week
+BUS-1262,Paulo Travels,AC Sleeper,Goa,Goa,Chennai,Tamil Nadu,06:00,20:05,14.3,900,1397,3 per week
+BUS-1263,Paulo Travels,AC Sleeper,Goa,Goa,Chennai,Tamil Nadu,19:00,09:00,13.6,902,1356,3 per week
+BUS-1264,Paulo Travels,AC Sleeper,Goa,Goa,Chennai,Tamil Nadu,08:00,22:04,14.5,892,1608,3 per week
+BUS-1265,Paulo Travels,AC Sleeper,Goa,Goa,Chennai,Tamil Nadu,22:30,12:36,14.0,895,1444,3 per week
+BUS-1266,VRL Travels,Volvo AC,Goa,Goa,Chennai,Tamil Nadu,17:00,07:23,14.9,909,1515,3 per week
+BUS-1267,VRL Travels,Volvo AC,Goa,Goa,Chennai,Tamil Nadu,08:00,22:28,14.2,909,1385,3 per week
+BUS-1268,VRL Travels,Volvo AC,Goa,Goa,Chennai,Tamil Nadu,07:30,21:51,14.4,903,1399,3 per week
+BUS-1269,VRL Travels,Volvo AC,Goa,Goa,Chennai,Tamil Nadu,22:00,12:19,14.3,906,1572,3 per week
+BUS-1270,VRL Travels,AC Sleeper,Hubli,Karnataka,Chennai,Tamil Nadu,19:00,07:13,12.2,758,1059,2 per day
+BUS-1271,VRL Travels,AC Sleeper,Hubli,Karnataka,Chennai,Tamil Nadu,22:00,10:16,11.5,752,1260,2 per day
+BUS-1272,KSRTC,Airavat,Hubli,Karnataka,Chennai,Tamil Nadu,07:30,19:30,12.9,744,911,3 per day
+BUS-1273,KSRTC,Airavat,Hubli,Karnataka,Chennai,Tamil Nadu,15:30,03:39,12.0,753,948,3 per day
+BUS-1274,KSRTC,Airavat,Hubli,Karnataka,Chennai,Tamil Nadu,11:00,23:04,12.7,756,964,3 per day
+BUS-1275,KSRTC,Airavat,Hubli,Karnataka,Chennai,Tamil Nadu,23:00,11:26,12.4,752,1050,3 per day
+BUS-1276,KSRTC,Airavat,Hubli,Karnataka,Chennai,Tamil Nadu,07:30,19:43,12.9,750,855,3 per day
+BUS-1277,KSRTC,Airavat,Hubli,Karnataka,Chennai,Tamil Nadu,23:30,11:43,12.7,753,1022,3 per day
+BUS-1278,SETC,Super Deluxe,Ooty,Tamil Nadu,Chennai,Tamil Nadu,09:00,19:12,9.8,569,556,3 per day
+BUS-1279,SETC,Super Deluxe,Ooty,Tamil Nadu,Chennai,Tamil Nadu,21:30,07:56,9.9,563,686,3 per day
+BUS-1280,SETC,Super Deluxe,Ooty,Tamil Nadu,Chennai,Tamil Nadu,09:00,19:07,9.9,552,637,3 per day
+BUS-1281,SETC,Super Deluxe,Ooty,Tamil Nadu,Chennai,Tamil Nadu,20:00,06:27,9.8,560,613,3 per day
+BUS-1282,KPN Travels,AC Seater,Ooty,Tamil Nadu,Chennai,Tamil Nadu,08:00,17:16,9.5,556,831,2 per day
+BUS-1283,KPN Travels,AC Seater,Ooty,Tamil Nadu,Chennai,Tamil Nadu,19:00,04:11,9.8,554,854,2 per day
+BUS-1284,KPN Travels,AC Seater,Ooty,Tamil Nadu,Chennai,Tamil Nadu,14:00,23:03,9.2,569,715,2 per day
+BUS-1285,SETC,Ultra Deluxe,Kodaikanal,Tamil Nadu,Chennai,Tamil Nadu,08:00,18:05,10.1,534,794,3 per day
+BUS-1286,SETC,Ultra Deluxe,Kodaikanal,Tamil Nadu,Chennai,Tamil Nadu,23:30,09:54,10.2,538,716,3 per day
+BUS-1287,SETC,Ultra Deluxe,Kodaikanal,Tamil Nadu,Chennai,Tamil Nadu,18:00,04:27,9.8,534,798,3 per day
+BUS-1288,KPN Travels,AC Sleeper,Kodaikanal,Tamil Nadu,Chennai,Tamil Nadu,22:00,08:14,10.8,538,935,2 per day
+BUS-1289,KPN Travels,AC Sleeper,Kodaikanal,Tamil Nadu,Chennai,Tamil Nadu,07:30,17:41,10.3,534,901,2 per day
+BUS-1290,SETC,Deluxe,Erode,Tamil Nadu,Chennai,Tamil Nadu,07:30,13:41,6.1,382,439,Every 1hr
+BUS-1291,SETC,Deluxe,Erode,Tamil Nadu,Chennai,Tamil Nadu,22:30,04:42,6.6,381,395,Every 1hr
+BUS-1292,SETC,Ultra Deluxe,Erode,Tamil Nadu,Chennai,Tamil Nadu,23:30,05:50,6.1,396,453,4 per day
+BUS-1293,SETC,Ultra Deluxe,Erode,Tamil Nadu,Chennai,Tamil Nadu,10:00,16:30,5.6,390,434,4 per day
+BUS-1294,SETC,Ultra Deluxe,Erode,Tamil Nadu,Chennai,Tamil Nadu,08:00,14:16,5.5,394,521,4 per day
+BUS-1295,SETC,Ultra Deluxe,Erode,Tamil Nadu,Chennai,Tamil Nadu,21:30,03:46,5.7,391,503,4 per day
+BUS-1296,SETC,Ultra Deluxe,Erode,Tamil Nadu,Chennai,Tamil Nadu,17:00,23:12,5.8,399,486,4 per day
+BUS-1297,SETC,Deluxe,Tirupur,Tamil Nadu,Chennai,Tamil Nadu,18:00,01:02,7.1,432,427,6 per day
+BUS-1298,SETC,Deluxe,Tirupur,Tamil Nadu,Chennai,Tamil Nadu,17:00,00:08,7.2,439,480,6 per day
+BUS-1299,KPN Travels,AC Seater,Tirupur,Tamil Nadu,Chennai,Tamil Nadu,18:00,01:02,6.6,431,614,3 per day
+BUS-1300,KPN Travels,AC Seater,Tirupur,Tamil Nadu,Chennai,Tamil Nadu,17:00,00:30,7.2,424,628,3 per day
+BUS-1301,KPN Travels,AC Seater,Tirupur,Tamil Nadu,Chennai,Tamil Nadu,08:00,15:09,7.1,430,610,3 per day
+BUS-1302,SETC,Ultra Deluxe,Nagercoil,Tamil Nadu,Chennai,Tamil Nadu,22:30,10:32,11.9,691,887,3 per day
+BUS-1303,SETC,Ultra Deluxe,Nagercoil,Tamil Nadu,Chennai,Tamil Nadu,06:00,18:11,12.5,690,801,3 per day
+BUS-1304,SETC,Ultra Deluxe,Nagercoil,Tamil Nadu,Chennai,Tamil Nadu,22:00,10:06,11.6,682,780,3 per day
+BUS-1305,SETC,AC Sleeper,Nagercoil,Tamil Nadu,Chennai,Tamil Nadu,09:00,21:16,12.8,696,1189,2 per day
+BUS-1306,SETC,AC Sleeper,Nagercoil,Tamil Nadu,Chennai,Tamil Nadu,07:30,19:51,12.8,684,1046,2 per day
+BUS-1307,SETC,AC Sleeper,Nagercoil,Tamil Nadu,Chennai,Tamil Nadu,20:00,08:04,12.8,699,988,2 per day
+BUS-1308,SETC,AC Sleeper,Nagercoil,Tamil Nadu,Chennai,Tamil Nadu,11:00,23:23,12.4,687,1079,2 per day
+BUS-1309,SETC,Deluxe,Kumbakonam,Tamil Nadu,Chennai,Tamil Nadu,17:00,23:24,5.9,297,376,6 per day
+BUS-1310,SETC,Deluxe,Kumbakonam,Tamil Nadu,Chennai,Tamil Nadu,14:00,20:09,6.3,286,398,6 per day
+BUS-1311,SETC,Deluxe,Kumbakonam,Tamil Nadu,Chennai,Tamil Nadu,19:00,01:21,6.5,294,396,6 per day
+BUS-1312,SETC,Deluxe,Kumbakonam,Tamil Nadu,Chennai,Tamil Nadu,17:00,23:24,6.0,285,337,6 per day
+BUS-1313,SETC,Deluxe,Kumbakonam,Tamil Nadu,Chennai,Tamil Nadu,12:00,18:25,6.4,281,360,6 per day
+BUS-1314,SETC,Ultra Deluxe,Rameswaram,Tamil Nadu,Chennai,Tamil Nadu,19:00,05:17,10.2,576,791,3 per day
+BUS-1315,SETC,Ultra Deluxe,Rameswaram,Tamil Nadu,Chennai,Tamil Nadu,09:00,19:09,9.7,574,612,3 per day
+BUS-1316,SETC,Ultra Deluxe,Rameswaram,Tamil Nadu,Chennai,Tamil Nadu,22:30,08:34,9.6,567,769,3 per day
+BUS-1317,SETC,Ultra Deluxe,Rameswaram,Tamil Nadu,Chennai,Tamil Nadu,21:30,07:58,9.5,561,668,3 per day
+BUS-1318,SETC,Ultra Deluxe,Rameswaram,Tamil Nadu,Chennai,Tamil Nadu,20:00,06:16,9.9,562,673,3 per day
+BUS-1319,KSRTC,Airavat,Bangalore,Karnataka,Hyderabad,Telangana,14:00,00:00,9.6,580,1040,6 per day
+BUS-1320,KSRTC,Airavat,Bangalore,Karnataka,Hyderabad,Telangana,18:00,04:25,9.5,575,983,6 per day
+BUS-1321,KSRTC,Airavat,Bangalore,Karnataka,Hyderabad,Telangana,10:00,20:24,9.9,560,1167,6 per day
+BUS-1322,KSRTC,Airavat,Bangalore,Karnataka,Hyderabad,Telangana,08:00,18:00,10.3,577,1019,6 per day
+BUS-1323,Orange Travels,AC Sleeper,Bangalore,Karnataka,Hyderabad,Telangana,22:30,08:43,10.3,569,883,4 per day
+BUS-1324,Orange Travels,AC Sleeper,Bangalore,Karnataka,Hyderabad,Telangana,09:00,19:01,10.6,579,921,4 per day
+BUS-1325,Orange Travels,AC Sleeper,Bangalore,Karnataka,Hyderabad,Telangana,21:30,07:32,10.9,579,883,4 per day
+BUS-1326,Orange Travels,AC Sleeper,Bangalore,Karnataka,Hyderabad,Telangana,23:00,09:00,10.6,564,1039,4 per day
+BUS-1327,Orange Travels,AC Sleeper,Bangalore,Karnataka,Hyderabad,Telangana,17:00,03:13,10.4,578,850,4 per day
+BUS-1328,Orange Travels,AC Sleeper,Bangalore,Karnataka,Hyderabad,Telangana,21:00,07:05,10.1,571,1049,4 per day
+BUS-1329,VRL Travels,Volvo Multi-Axle,Mumbai,Maharashtra,Bangalore,Karnataka,22:30,14:47,16.5,987,1803,4 per day
+BUS-1330,VRL Travels,Volvo Multi-Axle,Mumbai,Maharashtra,Bangalore,Karnataka,06:00,22:12,15.5,982,2001,4 per day
+BUS-1331,Paulo Travels,AC Sleeper,Mumbai,Maharashtra,Bangalore,Karnataka,15:30,08:53,17.3,981,1367,3 per day
+BUS-1332,Paulo Travels,AC Sleeper,Mumbai,Maharashtra,Bangalore,Karnataka,14:00,07:23,16.6,988,1675,3 per day
+BUS-1333,Paulo Travels,AC Sleeper,Mumbai,Maharashtra,Bangalore,Karnataka,18:00,11:04,17.0,990,1381,3 per day
+BUS-1334,Paulo Travels,AC Sleeper,Mumbai,Maharashtra,Bangalore,Karnataka,11:00,04:26,17.0,985,1733,3 per day
+BUS-1335,MSRTC,Shivneri,Mumbai,Maharashtra,Hyderabad,Telangana,10:00,22:02,12.4,701,1277,6 per day
+BUS-1336,MSRTC,Shivneri,Mumbai,Maharashtra,Hyderabad,Telangana,17:00,05:06,11.7,701,1035,6 per day
+BUS-1337,MSRTC,Shivneri,Mumbai,Maharashtra,Hyderabad,Telangana,18:00,06:29,11.9,717,1131,6 per day
+BUS-1338,VRL Travels,AC Sleeper,Mumbai,Maharashtra,Hyderabad,Telangana,15:30,03:31,12.2,711,1183,4 per day
+BUS-1339,VRL Travels,AC Sleeper,Mumbai,Maharashtra,Hyderabad,Telangana,07:30,19:57,12.3,711,1151,4 per day
+BUS-1340,VRL Travels,AC Sleeper,Mumbai,Maharashtra,Hyderabad,Telangana,21:00,09:28,12.4,712,1067,4 per day
+BUS-1341,VRL Travels,AC Sleeper,Mumbai,Maharashtra,Hyderabad,Telangana,18:00,06:05,12.5,716,1098,4 per day
+BUS-1342,VRL Travels,AC Sleeper,Mumbai,Maharashtra,Hyderabad,Telangana,15:30,03:55,12.4,713,962,4 per day
+BUS-1343,MSRTC,Shivneri,Mumbai,Maharashtra,Pune,Maharashtra,11:00,14:17,3.1,150,375,Every 15min
+BUS-1344,MSRTC,Shivneri,Mumbai,Maharashtra,Pune,Maharashtra,17:00,20:09,3.7,145,393,Every 15min
+BUS-1345,MSRTC,Shivneri,Mumbai,Maharashtra,Pune,Maharashtra,21:30,00:41,3.7,151,393,Every 15min
+BUS-1346,MSRTC,Shivneri,Mumbai,Maharashtra,Pune,Maharashtra,21:00,00:08,3.8,141,416,Every 15min
+BUS-1347,MSRTC,Shivneri,Mumbai,Maharashtra,Pune,Maharashtra,08:00,11:21,3.4,145,416,Every 15min
+BUS-1348,MSRTC,Shivneri,Mumbai,Maharashtra,Pune,Maharashtra,06:00,09:04,3.7,154,441,Every 15min
+BUS-1349,Neeta Travels,AC Seater,Mumbai,Maharashtra,Pune,Maharashtra,10:00,13:02,3.6,151,460,Hourly
+BUS-1350,Neeta Travels,AC Seater,Mumbai,Maharashtra,Pune,Maharashtra,20:00,23:30,3.6,154,510,Hourly
+BUS-1351,KSRTC,Rajahamsa,Bangalore,Karnataka,Mysore,Karnataka,19:00,22:14,3.1,156,377,Every 15min
+BUS-1352,KSRTC,Rajahamsa,Bangalore,Karnataka,Mysore,Karnataka,19:00,22:12,2.8,143,330,Every 15min
+BUS-1353,KSRTC,Rajahamsa,Bangalore,Karnataka,Mysore,Karnataka,06:00,09:23,3.0,157,317,Every 15min
+BUS-1354,KSRTC,Rajahamsa,Bangalore,Karnataka,Mysore,Karnataka,09:00,12:08,3.2,146,378,Every 15min
+BUS-1355,SRS Travels,AC Seater,Bangalore,Karnataka,Mysore,Karnataka,17:00,20:22,3.0,143,449,Hourly
+BUS-1356,SRS Travels,AC Seater,Bangalore,Karnataka,Mysore,Karnataka,10:00,13:27,2.7,154,348,Hourly
+BUS-1357,SRS Travels,AC Seater,Bangalore,Karnataka,Mysore,Karnataka,08:00,11:25,3.3,150,421,Hourly
+BUS-1358,SRS Travels,AC Seater,Bangalore,Karnataka,Mysore,Karnataka,19:00,22:22,3.0,149,347,Hourly
+BUS-1359,SRS Travels,AC Seater,Bangalore,Karnataka,Mysore,Karnataka,11:00,14:22,3.2,145,425,Hourly
+BUS-1360,SRS Travels,AC Seater,Bangalore,Karnataka,Mysore,Karnataka,19:00,22:16,3.5,144,366,Hourly
+BUS-1361,KSRTC,Airavat,Bangalore,Karnataka,Goa,Goa,22:00,08:00,10.1,564,958,4 per day
+BUS-1362,KSRTC,Airavat,Bangalore,Karnataka,Goa,Goa,23:00,09:04,9.6,559,1033,4 per day
+BUS-1363,KSRTC,Airavat,Bangalore,Karnataka,Goa,Goa,20:00,06:22,10.0,563,1065,4 per day
+BUS-1364,VRL Travels,AC Sleeper,Bangalore,Karnataka,Goa,Goa,08:00,18:04,10.6,564,1255,3 per day
+BUS-1365,VRL Travels,AC Sleeper,Bangalore,Karnataka,Goa,Goa,21:30,07:51,10.1,567,1105,3 per day
+BUS-1366,VRL Travels,AC Sleeper,Bangalore,Karnataka,Goa,Goa,23:30,09:35,10.1,566,1188,3 per day
+BUS-1367,VRL Travels,AC Sleeper,Bangalore,Karnataka,Goa,Goa,07:30,17:56,10.2,555,975,3 per day
+BUS-1368,VRL Travels,AC Sleeper,Bangalore,Karnataka,Goa,Goa,11:00,21:10,10.2,566,1243,3 per day
+BUS-1369,VRL Travels,AC Sleeper,Bangalore,Karnataka,Goa,Goa,17:00,03:27,10.2,567,961,3 per day
+BUS-1370,KSRTC Kerala,Super Fast,Kochi,Kerala,Bangalore,Karnataka,10:00,18:20,8.0,566,752,6 per day
+BUS-1371,KSRTC Kerala,Super Fast,Kochi,Kerala,Bangalore,Karnataka,11:00,19:18,7.7,569,905,6 per day
+BUS-1372,KSRTC Kerala,Super Fast,Kochi,Kerala,Bangalore,Karnataka,18:00,02:26,7.5,550,901,6 per day
+BUS-1373,KSRTC Kerala,Super Fast,Kochi,Kerala,Bangalore,Karnataka,08:00,16:01,8.3,558,907,6 per day
+BUS-1374,SRS Travels,AC Sleeper,Kochi,Kerala,Bangalore,Karnataka,23:30,07:43,8.0,570,931,4 per day
+BUS-1375,SRS Travels,AC Sleeper,Kochi,Kerala,Bangalore,Karnataka,23:00,07:09,8.3,557,938,4 per day
+BUS-1376,SRS Travels,AC Sleeper,Kochi,Kerala,Bangalore,Karnataka,20:00,04:09,8.7,555,887,4 per day
+BUS-1377,TSRTC,Super Luxury,Hyderabad,Telangana,Vijayawada,Andhra Pradesh,21:00,02:15,4.8,264,494,Every 30min
+BUS-1378,TSRTC,Super Luxury,Hyderabad,Telangana,Vijayawada,Andhra Pradesh,18:00,23:27,5.2,271,532,Every 30min
+BUS-1379,TSRTC,Super Luxury,Hyderabad,Telangana,Vijayawada,Andhra Pradesh,20:00,01:04,5.0,263,539,Every 30min
+BUS-1380,TSRTC,Super Luxury,Hyderabad,Telangana,Vijayawada,Andhra Pradesh,18:00,23:07,4.8,267,494,Every 30min
+BUS-1381,TSRTC,Super Luxury,Hyderabad,Telangana,Vijayawada,Andhra Pradesh,10:00,15:03,5.4,279,432,Every 30min
+BUS-1382,APSRTC,Express,Hyderabad,Telangana,Vijayawada,Andhra Pradesh,14:00,19:30,5.2,270,443,Hourly
+BUS-1383,APSRTC,Express,Hyderabad,Telangana,Vijayawada,Andhra Pradesh,23:30,04:53,5.8,275,377,Hourly
+BUS-1384,APSRTC,Express,Hyderabad,Telangana,Vijayawada,Andhra Pradesh,22:30,03:44,5.3,260,399,Hourly
+BUS-1385,APSRTC,Express,Hyderabad,Telangana,Vijayawada,Andhra Pradesh,08:00,13:30,5.5,267,387,Hourly
+BUS-1386,APSRTC,Express,Hyderabad,Telangana,Vijayawada,Andhra Pradesh,12:00,17:18,5.1,275,382,Hourly

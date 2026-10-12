@@ -1,0 +1,79 @@
+city_name,state,latitude,longitude,is_major_hub,has_airport,has_railway_station,has_bus_terminal,airport_code
+Chennai,Tamil Nadu,13.0827,80.2707,True,True,True,True,MAA
+Delhi,Delhi,28.6139,77.209,True,True,True,True,DEL
+Mumbai,Maharashtra,19.076,72.8777,True,True,True,True,BOM
+Bangalore,Karnataka,12.9716,77.5946,True,True,True,True,BLR
+Hyderabad,Telangana,17.385,78.4867,True,True,True,True,HYD
+Kolkata,West Bengal,22.5726,88.3639,True,True,True,True,CCU
+Ahmedabad,Gujarat,23.0225,72.5714,True,True,True,True,AMD
+Pune,Maharashtra,18.5204,73.8567,True,True,True,True,PNQ
+Jaipur,Rajasthan,26.9124,75.7873,True,True,True,True,JAI
+Lucknow,Uttar Pradesh,26.8467,80.9462,True,True,True,True,LKO
+Kochi,Kerala,9.9312,76.2673,True,True,True,True,COK
+Trivandrum,Kerala,8.5241,76.9366,True,True,True,True,TRV
+Goa,Goa,15.2993,74.124,True,True,True,True,GOI
+Chandigarh,Chandigarh,30.7333,76.7794,True,True,True,True,IXC
+Bhopal,Madhya Pradesh,23.2599,77.4126,True,True,True,True,BHO
+Indore,Madhya Pradesh,22.7196,75.8577,True,True,True,True,IDR
+Nagpur,Maharashtra,21.1458,79.0882,True,True,True,True,NAG
+Patna,Bihar,25.6093,85.1376,True,True,True,True,PAT
+Ranchi,Jharkhand,23.3441,85.3096,True,True,True,True,IXR
+Bhubaneswar,Odisha,20.2961,85.8245,True,True,True,True,BBI
+Guwahati,Assam,26.1445,91.7362,True,True,True,True,GAU
+Dehradun,Uttarakhand,30.3165,78.0322,True,True,True,True,DED
+Varanasi,Uttar Pradesh,25.3176,82.9739,True,True,True,True,VNS
+Amritsar,Punjab,31.634,74.8723,True,True,True,True,ATQ
+Srinagar,J&K,34.0837,74.7973,True,True,True,True,SXR
+Visakhapatnam,Andhra Pradesh,17.6868,83.2185,True,True,True,True,VTZ
+Vijayawada,Andhra Pradesh,16.5062,80.648,True,False,True,True,
+Tirupati,Andhra Pradesh,13.6288,79.4192,True,True,True,True,TIR
+Coimbatore,Tamil Nadu,11.0168,76.9558,True,True,True,True,CJB
+Madurai,Tamil Nadu,9.9252,78.1198,True,True,True,True,IXM
+Trichy,Tamil Nadu,10.7905,78.7047,True,True,True,True,TRZ
+Salem,Tamil Nadu,11.6643,78.146,True,False,True,True,
+Pondicherry,Puducherry,11.9416,79.8083,True,False,True,True,
+Vellore,Tamil Nadu,12.9165,79.1325,True,False,True,True,
+Thanjavur,Tamil Nadu,10.787,79.1378,False,False,True,True,
+Mangalore,Karnataka,12.9141,74.856,True,True,True,True,IXE
+Mysore,Karnataka,12.2958,76.6394,True,True,True,True,MYQ
+Hubli,Karnataka,15.3647,75.124,True,True,True,True,HBX
+Raipur,Chhattisgarh,21.2514,81.6296,True,True,True,True,RPR
+Jodhpur,Rajasthan,26.2389,73.0243,True,True,True,True,JDH
+Udaipur,Rajasthan,24.5854,73.7125,True,True,True,True,UDR
+Surat,Gujarat,21.1702,72.8311,True,True,True,True,STV
+Vadodara,Gujarat,22.3072,73.1812,True,True,True,True,BDQ
+Rajkot,Gujarat,22.3039,70.8022,True,True,True,True,RAJ
+Thiruvananthapuram,Kerala,8.5241,76.9366,True,True,True,True,TRV
+Kozhikode,Kerala,11.2588,75.7804,True,True,True,True,CCJ
+Agra,Uttar Pradesh,27.1767,78.0081,True,True,True,True,AGR
+Kanpur,Uttar Pradesh,26.4499,80.3319,True,False,True,True,
+Allahabad,Uttar Pradesh,25.4358,81.8463,True,False,True,True,
+Jammu,J&K,32.7266,74.857,True,True,True,True,IXJ
+Leh,Ladakh,34.1526,77.5771,False,True,False,False,IXL
+Imphal,Manipur,24.817,93.9368,True,True,True,True,IMF
+Shillong,Meghalaya,25.5788,91.8933,True,True,True,True,SHL
+Agartala,Tripura,23.8315,91.2868,True,True,True,True,IXA
+Dibrugarh,Assam,27.4728,94.912,True,True,True,True,DIB
+Bagdogra,West Bengal,26.6812,88.3286,True,True,True,True,IXB
+Cooch Behar,West Bengal,26.3217,89.4453,False,False,True,True,
+Tirunelveli,Tamil Nadu,8.7139,77.7567,True,False,True,True,
+Kanyakumari,Tamil Nadu,8.0883,77.5385,False,False,True,True,
+Ooty,Tamil Nadu,11.4102,76.695,False,False,False,True,
+Kodaikanal,Tamil Nadu,10.2381,77.4892,False,False,False,True,
+Erode,Tamil Nadu,11.341,77.7172,False,False,True,True,
+Tirupur,Tamil Nadu,11.1085,77.3411,False,False,True,True,
+Nagercoil,Tamil Nadu,8.1833,77.4119,False,False,True,True,
+Kumbakonam,Tamil Nadu,10.9617,79.3881,False,False,True,True,
+Rameswaram,Tamil Nadu,9.2876,79.3129,False,False,True,True,
+Tuticorin,Tamil Nadu,8.7642,78.1348,True,True,True,True,TCR
+Dindigul,Tamil Nadu,10.3624,77.9695,False,False,True,True,
+Karur,Tamil Nadu,10.9601,78.0766,False,False,True,True,
+Hosur,Tamil Nadu,12.7409,77.8253,False,False,True,True,
+Dharmapuri,Tamil Nadu,12.1211,78.1582,False,False,True,True,
+Krishnagiri,Tamil Nadu,12.5186,78.2137,False,False,True,True,
+Cuddalore,Tamil Nadu,11.748,79.7714,False,False,True,True,
+Chidambaram,Tamil Nadu,11.399,79.691,False,False,True,True,
+Villupuram,Tamil Nadu,11.9401,79.4861,False,False,True,True,
+Arakkonam,Tamil Nadu,13.0846,79.6714,False,False,True,True,
+Kanchipuram,Tamil Nadu,12.8342,79.7036,False,False,True,True,
+Mahabalipuram,Tamil Nadu,12.6269,80.1927,False,False,False,True,

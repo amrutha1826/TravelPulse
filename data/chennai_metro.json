@@ -1,0 +1,56 @@
+{
+  "lines": [
+    {
+      "line_id": "BLUE",
+      "line_name": "Blue Line (Line 1)",
+      "color": "#1E40AF",
+      "stations": [
+        {"name": "Wimco Nagar Depot", "lat": 13.1782, "lon": 80.3065, "is_interchange": false},
+        {"name": "Wimco Nagar", "lat": 13.1695, "lon": 80.3032, "is_interchange": false},
+        {"name": "Tiruvottiyur", "lat": 13.1615, "lon": 80.3015, "is_interchange": false},
+        {"name": "Tollgate", "lat": 13.1365, "lon": 80.2942, "is_interchange": false},
+        {"name": "New Washermanpet", "lat": 13.1255, "lon": 80.2885, "is_interchange": false},
+        {"name": "Washermanpet", "lat": 13.1075, "lon": 80.2855, "is_interchange": false},
+        {"name": "Mannadi", "lat": 13.0945, "lon": 80.2862, "is_interchange": false},
+        {"name": "High Court", "lat": 13.0878, "lon": 80.2870, "is_interchange": false},
+        {"name": "Puratchi Thalaivar Dr. M.G.R Central (Chennai Central)", "lat": 13.0827, "lon": 80.2755, "is_interchange": true},
+        {"name": "Government Estate", "lat": 13.0685, "lon": 80.2742, "is_interchange": false},
+        {"name": "LIC", "lat": 13.0615, "lon": 80.2645, "is_interchange": false},
+        {"name": "Thousand Lights", "lat": 13.0558, "lon": 80.2535, "is_interchange": false},
+        {"name": "AG-DMS", "lat": 13.0485, "lon": 80.2485, "is_interchange": false},
+        {"name": "Teynampet", "lat": 13.0415, "lon": 80.2435, "is_interchange": false},
+        {"name": "Nandanam", "lat": 13.0315, "lon": 80.2395, "is_interchange": false},
+        {"name": "Saidapet", "lat": 13.0235, "lon": 80.2245, "is_interchange": false},
+        {"name": "Little Mount", "lat": 13.0165, "lon": 80.2205, "is_interchange": false},
+        {"name": "Guindy", "lat": 13.0078, "lon": 80.2135, "is_interchange": false},
+        {"name": "Arignar Anna Alandur (Alandur)", "lat": 13.0042, "lon": 80.2015, "is_interchange": true},
+        {"name": "Nanganallur Road", "lat": 12.9945, "lon": 80.1905, "is_interchange": false},
+        {"name": "Meenambakkam", "lat": 12.9865, "lon": 80.1785, "is_interchange": false},
+        {"name": "Chennai International Airport", "lat": 12.9815, "lon": 80.1645, "is_interchange": false}
+      ]
+    },
+    {
+      "line_id": "GREEN",
+      "line_name": "Green Line (Line 2)",
+      "color": "#16A34A",
+      "stations": [
+        {"name": "Puratchi Thalaivar Dr. M.G.R Central (Chennai Central)", "lat": 13.0827, "lon": 80.2755, "is_interchange": true},
+        {"name": "Egmore", "lat": 13.0738, "lon": 80.2605, "is_interchange": false},
+        {"name": "Nehru Park", "lat": 13.0785, "lon": 80.2515, "is_interchange": false},
+        {"name": "Kilpauk Medical College (Kilpauk)", "lat": 13.0792, "lon": 80.2425, "is_interchange": false},
+        {"name": "Pachaiyappa College", "lat": 13.0775, "lon": 80.2315, "is_interchange": false},
+        {"name": "Shenoy Nagar", "lat": 13.0788, "lon": 80.2245, "is_interchange": false},
+        {"name": "Anna Nagar East", "lat": 13.0855, "lon": 80.2185, "is_interchange": false},
+        {"name": "Anna Nagar Tower", "lat": 13.0862, "lon": 80.2105, "is_interchange": false},
+        {"name": "Thirumangalam", "lat": 13.0845, "lon": 80.1985, "is_interchange": false},
+        {"name": "Koyambedu (CMBT)", "lat": 13.0695, "lon": 80.1945, "is_interchange": false},
+        {"name": "Arumbakkam", "lat": 13.0625, "lon": 80.2035, "is_interchange": false},
+        {"name": "Vadapalani", "lat": 13.0537, "lon": 80.2131, "is_interchange": false},
+        {"name": "Ashok Nagar", "lat": 13.0375, "lon": 80.2115, "is_interchange": false},
+        {"name": "Ekkattuthangal", "lat": 13.0195, "lon": 80.2055, "is_interchange": false},
+        {"name": "Arignar Anna Alandur (Alandur)", "lat": 13.0042, "lon": 80.2015, "is_interchange": true},
+        {"name": "St. Thomas Mount", "lat": 13.0042, "lon": 80.1925, "is_interchange": false}
+      ]
+    }
+  ]
+}

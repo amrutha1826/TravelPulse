@@ -1,0 +1,1313 @@
+flight_number,airline,origin_code,origin_city,destination_code,destination_city,departure_time,arrival_time,duration,stops,cabin_class,price_inr
+IN-4606,IndiGo,DEL,Delhi,BOM,Mumbai,07:15,08:32,1h 17m,0,Economy,8967
+IN-9774,IndiGo,DEL,Delhi,BOM,Mumbai,13:00,14:03,3h 50m,1,Economy,8439
+IN-9295,IndiGo,DEL,Delhi,BOM,Mumbai,06:55,09:18,2h 23m,0,Economy,7936
+VI-9754,Vistara,DEL,Delhi,BLR,Bengaluru,08:00,10:37,2h 37m,0,Economy,7962
+VI-9754,Vistara,DEL,Delhi,BLR,Bengaluru,08:00,10:37,2h 37m,0,Business,23968
+AI-3627,Air India,DEL,Delhi,BLR,Bengaluru,10:05,11:16,1h 11m,0,Economy,7440
+AI-3627,Air India,DEL,Delhi,BLR,Bengaluru,10:05,11:16,1h 11m,0,Business,28058
+AI-4433,AI Express,DEL,Delhi,BLR,Bengaluru,01:55,03:53,1h 58m,0,Economy,7600
+IN-9144,IndiGo,DEL,Delhi,BLR,Bengaluru,09:50,12:09,2h 19m,0,Economy,7462
+SP-1239,SpiceJet,DEL,Delhi,CCU,Kolkata,01:50,03:19,1h 29m,0,Economy,5153
+AI-1754,Air India,DEL,Delhi,CCU,Kolkata,12:20,14:18,1h 58m,0,Economy,7488
+AI-1754,Air India,DEL,Delhi,CCU,Kolkata,12:20,14:18,1h 58m,0,Business,20546
+AK-3532,Akasa Air,DEL,Delhi,CCU,Kolkata,21:20,23:49,2h 29m,0,Economy,5084
+AI-2903,AI Express,DEL,Delhi,CCU,Kolkata,17:55,19:26,1h 31m,0,Economy,7608
+SP-9225,SpiceJet,DEL,Delhi,MAA,Chennai,07:50,09:31,1h 41m,0,Economy,4958
+AI-625,Air India,DEL,Delhi,MAA,Chennai,10:30,12:04,3h 44m,1,Economy,11616
+AI-625,Air India,DEL,Delhi,MAA,Chennai,10:30,12:04,3h 44m,1,Business,32744
+VI-6582,Vistara,DEL,Delhi,MAA,Chennai,20:35,21:53,1h 18m,0,Economy,6520
+VI-6582,Vistara,DEL,Delhi,MAA,Chennai,20:35,21:53,1h 18m,0,Business,23585
+AI-4404,AI Express,DEL,Delhi,MAA,Chennai,23:45,01:39,1h 54m,0,Economy,7771
+AK-3693,Akasa Air,DEL,Delhi,MAA,Chennai,04:40,06:43,3h 52m,1,Economy,6109
+SP-7016,SpiceJet,DEL,Delhi,HYD,Hyderabad,19:05,20:54,1h 49m,0,Economy,8334
+AI-4219,AI Express,DEL,Delhi,HYD,Hyderabad,17:00,19:27,2h 27m,0,Economy,8898
+AK-5673,Akasa Air,DEL,Delhi,HYD,Hyderabad,03:20,05:15,1h 55m,0,Economy,4526
+SP-4415,SpiceJet,DEL,Delhi,HYD,Hyderabad,16:10,18:14,2h 4m,0,Economy,6944
+AI-6226,Air India,DEL,Delhi,PNQ,Pune,05:40,08:19,2h 39m,0,Economy,7262
+AI-6226,Air India,DEL,Delhi,PNQ,Pune,05:40,08:19,2h 39m,0,Business,18161
+VI-419,Vistara,DEL,Delhi,AMD,Ahmedabad,03:25,06:17,2h 52m,0,Economy,6804
+VI-419,Vistara,DEL,Delhi,AMD,Ahmedabad,03:25,06:17,2h 52m,0,Business,20148
+IN-4046,IndiGo,DEL,Delhi,AMD,Ahmedabad,18:05,19:15,1h 10m,0,Economy,6842
+AI-2160,AI Express,DEL,Delhi,COK,Kochi,04:50,06:50,2h 0m,0,Economy,4176
+AI-7032,AI Express,DEL,Delhi,GOI,Goa,06:40,09:16,2h 36m,0,Economy,4323
+SP-5207,SpiceJet,DEL,Delhi,GOI,Goa,12:50,15:13,2h 23m,0,Economy,7184
+IN-4161,IndiGo,DEL,Delhi,JAI,Jaipur,07:05,08:48,4h 28m,1,Economy,7239
+AI-217,Air India,DEL,Delhi,JAI,Jaipur,02:55,05:15,4h 32m,1,Economy,4840
+AI-217,Air India,DEL,Delhi,JAI,Jaipur,02:55,05:15,4h 32m,1,Business,12614
+AK-8053,Akasa Air,DEL,Delhi,LKO,Lucknow,06:40,07:56,1h 16m,0,Economy,7114
+AI-7849,Air India,DEL,Delhi,GAU,Guwahati,13:15,14:27,3h 36m,1,Economy,6990
+AI-7849,Air India,DEL,Delhi,GAU,Guwahati,13:15,14:27,3h 36m,1,Business,21785
+SP-987,SpiceJet,DEL,Delhi,GAU,Guwahati,21:50,00:12,4h 35m,1,Economy,7640
+AI-3239,Air India,DEL,Delhi,PAT,Patna,06:40,08:37,4h 26m,1,Economy,5821
+AI-3239,Air India,DEL,Delhi,PAT,Patna,06:40,08:37,4h 26m,1,Business,16733
+VI-9116,Vistara,DEL,Delhi,BBI,Bhubaneswar,03:00,05:23,2h 23m,0,Economy,6924
+VI-9116,Vistara,DEL,Delhi,BBI,Bhubaneswar,03:00,05:23,2h 23m,0,Business,17463
+AI-2824,Air India,DEL,Delhi,TRV,Thiruvananthapuram,13:35,15:36,2h 1m,0,Economy,5142
+AI-2824,Air India,DEL,Delhi,TRV,Thiruvananthapuram,13:35,15:36,2h 1m,0,Business,19815
+VI-135,Vistara,DEL,Delhi,IXC,Chandigarh,12:20,15:18,2h 58m,0,Economy,5363
+VI-135,Vistara,DEL,Delhi,IXC,Chandigarh,12:20,15:18,2h 58m,0,Business,15702
+AI-3211,Air India,DEL,Delhi,SXR,Srinagar,09:15,10:22,1h 7m,0,Economy,5720
+AI-3211,Air India,DEL,Delhi,SXR,Srinagar,09:15,10:22,1h 7m,0,Business,14823
+AK-1036,Akasa Air,DEL,Delhi,SXR,Srinagar,01:45,03:46,2h 1m,0,Economy,6992
+IN-8420,IndiGo,DEL,Delhi,IXB,Bagdogra,02:10,03:18,1h 8m,0,Economy,6265
+VI-2064,Vistara,DEL,Delhi,VNS,Varanasi,18:15,20:29,2h 14m,0,Economy,6036
+VI-2064,Vistara,DEL,Delhi,VNS,Varanasi,18:15,20:29,2h 14m,0,Business,15832
+AK-3446,Akasa Air,DEL,Delhi,IXJ,Jammu,21:55,23:35,1h 40m,0,Economy,5121
+AI-5015,Air India,DEL,Delhi,IXJ,Jammu,14:25,17:23,2h 58m,0,Economy,3797
+AI-5015,Air India,DEL,Delhi,IXJ,Jammu,14:25,17:23,2h 58m,0,Business,9545
+IN-8908,IndiGo,DEL,Delhi,RPR,Raipur,06:40,08:13,3h 34m,1,Economy,6069
+AK-2684,Akasa Air,DEL,Delhi,RNC,Ranchi,14:40,17:10,2h 30m,0,Economy,6805
+SP-8766,SpiceJet,DEL,Delhi,RNC,Ranchi,00:50,03:34,2h 44m,0,Economy,7316
+AI-4433,Air India,DEL,Delhi,NAG,Nagpur,03:05,05:40,2h 35m,0,Economy,4615
+AI-4433,Air India,DEL,Delhi,NAG,Nagpur,03:05,05:40,2h 35m,0,Business,13487
+SP-5717,SpiceJet,DEL,Delhi,IDR,Indore,06:50,09:11,2h 21m,0,Economy,5570
+AK-932,Akasa Air,BOM,Mumbai,DEL,Delhi,02:50,04:44,1h 54m,0,Economy,4861
+IN-5564,IndiGo,BOM,Mumbai,DEL,Delhi,04:50,06:23,1h 33m,0,Economy,8119
+AI-7107,AI Express,BOM,Mumbai,DEL,Delhi,17:00,18:14,2h 48m,1,Economy,7838
+AK-9643,Akasa Air,BOM,Mumbai,DEL,Delhi,17:10,19:05,3h 30m,1,Economy,8771
+AK-3541,Akasa Air,BOM,Mumbai,DEL,Delhi,21:15,23:40,5h 14m,1,Economy,10918
+SP-2632,SpiceJet,BOM,Mumbai,DEL,Delhi,07:10,09:52,2h 42m,0,Economy,7877
+AI-5542,Air India,BOM,Mumbai,BLR,Bengaluru,13:50,16:40,2h 50m,0,Economy,6532
+AI-5542,Air India,BOM,Mumbai,BLR,Bengaluru,13:50,16:40,2h 50m,0,Business,18944
+SP-1871,SpiceJet,BOM,Mumbai,BLR,Bengaluru,12:00,14:49,2h 49m,0,Economy,6134
+VI-5828,Vistara,BOM,Mumbai,BLR,Bengaluru,09:15,10:43,3h 40m,1,Economy,7898
+VI-5828,Vistara,BOM,Mumbai,BLR,Bengaluru,09:15,10:43,3h 40m,1,Business,23045
+AK-5853,Akasa Air,BOM,Mumbai,CCU,Kolkata,20:40,22:31,1h 51m,0,Economy,8892
+AK-552,Akasa Air,BOM,Mumbai,CCU,Kolkata,03:20,04:42,1h 22m,0,Economy,6674
+IN-1876,IndiGo,BOM,Mumbai,CCU,Kolkata,19:30,21:14,1h 44m,0,Economy,7069
+AI-8479,AI Express,BOM,Mumbai,MAA,Chennai,03:30,06:25,2h 55m,0,Economy,6586
+IN-7244,IndiGo,BOM,Mumbai,MAA,Chennai,00:40,03:38,2h 58m,0,Economy,6114
+AK-7166,Akasa Air,BOM,Mumbai,MAA,Chennai,02:50,05:47,2h 57m,0,Economy,7071
+SP-2141,SpiceJet,BOM,Mumbai,MAA,Chennai,23:20,01:24,2h 4m,0,Economy,7845
+AK-6692,Akasa Air,BOM,Mumbai,MAA,Chennai,22:20,00:30,4h 28m,1,Economy,10305
+SP-2951,SpiceJet,BOM,Mumbai,MAA,Chennai,19:45,21:23,1h 38m,0,Economy,4503
+AK-3543,Akasa Air,BOM,Mumbai,HYD,Hyderabad,13:45,16:02,2h 17m,0,Economy,8309
+VI-7344,Vistara,BOM,Mumbai,HYD,Hyderabad,21:15,23:20,2h 5m,0,Economy,5890
+VI-7344,Vistara,BOM,Mumbai,HYD,Hyderabad,21:15,23:20,2h 5m,0,Business,20545
+AK-8545,Akasa Air,BOM,Mumbai,HYD,Hyderabad,21:50,00:09,2h 19m,0,Economy,6424
+SP-5185,SpiceJet,BOM,Mumbai,HYD,Hyderabad,07:15,08:33,4h 6m,1,Economy,8478
+IN-7561,IndiGo,BOM,Mumbai,HYD,Hyderabad,13:50,16:03,2h 13m,0,Economy,7645
+VI-4097,Vistara,BOM,Mumbai,PNQ,Pune,04:50,07:18,4h 52m,1,Economy,7793
+VI-4097,Vistara,BOM,Mumbai,PNQ,Pune,04:50,07:18,4h 52m,1,Business,22040
+SP-8586,SpiceJet,BOM,Mumbai,PNQ,Pune,14:00,16:11,2h 11m,0,Economy,6974
+VI-2284,Vistara,BOM,Mumbai,AMD,Ahmedabad,14:50,16:57,2h 7m,0,Economy,5938
+VI-2284,Vistara,BOM,Mumbai,AMD,Ahmedabad,14:50,16:57,2h 7m,0,Business,17671
+AI-8370,AI Express,BOM,Mumbai,COK,Kochi,13:40,15:37,1h 57m,0,Economy,6546
+VI-7473,Vistara,BOM,Mumbai,COK,Kochi,08:15,11:02,2h 47m,0,Economy,6636
+VI-7473,Vistara,BOM,Mumbai,COK,Kochi,08:15,11:02,2h 47m,0,Business,24330
+SP-4019,SpiceJet,BOM,Mumbai,GOI,Goa,08:35,09:44,1h 9m,0,Economy,4460
+AK-5602,Akasa Air,BOM,Mumbai,GOI,Goa,10:40,11:50,4h 8m,1,Economy,6231
+SP-3605,SpiceJet,BOM,Mumbai,JAI,Jaipur,02:30,04:22,1h 52m,0,Economy,5408
+IN-3488,IndiGo,BOM,Mumbai,LKO,Lucknow,13:30,16:25,2h 55m,0,Economy,7375
+SP-420,SpiceJet,BOM,Mumbai,LKO,Lucknow,18:30,20:31,4h 20m,1,Economy,6551
+AI-9047,AI Express,BOM,Mumbai,GAU,Guwahati,19:15,21:17,2h 2m,0,Economy,5285
+VI-575,Vistara,BOM,Mumbai,GAU,Guwahati,12:25,14:50,2h 25m,0,Economy,5156
+VI-575,Vistara,BOM,Mumbai,GAU,Guwahati,12:25,14:50,2h 25m,0,Business,18490
+AI-8851,Air India,BOM,Mumbai,PAT,Patna,00:30,02:45,2h 15m,0,Economy,3611
+AI-8851,Air India,BOM,Mumbai,PAT,Patna,00:30,02:45,2h 15m,0,Business,9482
+VI-2323,Vistara,BOM,Mumbai,PAT,Patna,14:10,15:16,1h 6m,0,Economy,4840
+VI-2323,Vistara,BOM,Mumbai,PAT,Patna,14:10,15:16,1h 6m,0,Business,13636
+AK-6311,Akasa Air,BOM,Mumbai,BBI,Bhubaneswar,08:30,10:02,1h 32m,0,Economy,5426
+IN-8937,IndiGo,BOM,Mumbai,BBI,Bhubaneswar,01:25,02:53,1h 28m,0,Economy,6699
+IN-4151,IndiGo,BOM,Mumbai,TRV,Thiruvananthapuram,06:00,08:19,2h 19m,0,Economy,4017
+SP-1974,SpiceJet,BOM,Mumbai,IXC,Chandigarh,18:15,20:14,1h 59m,0,Economy,6641
+AK-2849,Akasa Air,BOM,Mumbai,IXC,Chandigarh,19:45,22:20,2h 35m,0,Economy,6685
+AK-1871,Akasa Air,BOM,Mumbai,SXR,Srinagar,18:00,20:58,2h 58m,0,Economy,6274
+VI-3349,Vistara,BOM,Mumbai,IXB,Bagdogra,02:45,05:13,2h 28m,0,Economy,4494
+VI-3349,Vistara,BOM,Mumbai,IXB,Bagdogra,02:45,05:13,2h 28m,0,Business,11921
+AK-9937,Akasa Air,BOM,Mumbai,IXB,Bagdogra,03:45,06:25,5h 34m,1,Economy,7559
+IN-8389,IndiGo,BOM,Mumbai,VNS,Varanasi,20:25,21:26,1h 1m,0,Economy,6868
+VI-1829,Vistara,BOM,Mumbai,VNS,Varanasi,13:25,15:46,2h 21m,0,Economy,5383
+VI-1829,Vistara,BOM,Mumbai,VNS,Varanasi,13:25,15:46,2h 21m,0,Business,19168
+AI-8648,Air India,BOM,Mumbai,IXJ,Jammu,20:20,22:38,2h 18m,0,Economy,5704
+AI-8648,Air India,BOM,Mumbai,IXJ,Jammu,20:20,22:38,2h 18m,0,Business,20887
+VI-7236,Vistara,BOM,Mumbai,IXJ,Jammu,23:45,01:19,1h 34m,0,Economy,4505
+VI-7236,Vistara,BOM,Mumbai,IXJ,Jammu,23:45,01:19,1h 34m,0,Business,16876
+AK-7485,Akasa Air,BOM,Mumbai,RPR,Raipur,07:35,09:47,2h 12m,0,Economy,5052
+IN-8198,IndiGo,BOM,Mumbai,RNC,Ranchi,10:10,12:12,2h 2m,0,Economy,6767
+AK-5676,Akasa Air,BOM,Mumbai,RNC,Ranchi,08:45,11:14,2h 29m,0,Economy,5776
+AI-3230,AI Express,BOM,Mumbai,NAG,Nagpur,02:15,04:47,2h 32m,0,Economy,5774
+SP-7900,SpiceJet,BOM,Mumbai,IDR,Indore,20:55,22:57,2h 2m,0,Economy,3570
+AK-3730,Akasa Air,BLR,Bengaluru,DEL,Delhi,12:55,14:26,1h 31m,0,Economy,9264
+AK-7853,Akasa Air,BLR,Bengaluru,DEL,Delhi,17:40,19:24,1h 44m,0,Economy,9008
+AK-5864,Akasa Air,BLR,Bengaluru,DEL,Delhi,22:35,00:09,1h 34m,0,Economy,6388
+SP-3255,SpiceJet,BLR,Bengaluru,BOM,Mumbai,10:05,12:40,2h 35m,0,Economy,6016
+AI-3645,Air India,BLR,Bengaluru,BOM,Mumbai,23:35,01:10,1h 35m,0,Economy,8797
+AI-3645,Air India,BLR,Bengaluru,BOM,Mumbai,23:35,01:10,1h 35m,0,Business,29867
+IN-3280,IndiGo,BLR,Bengaluru,BOM,Mumbai,09:15,11:01,1h 46m,0,Economy,4615
+AK-845,Akasa Air,BLR,Bengaluru,CCU,Kolkata,01:40,03:17,1h 37m,0,Economy,5534
+SP-8142,SpiceJet,BLR,Bengaluru,CCU,Kolkata,03:00,05:13,2h 13m,0,Economy,8421
+VI-5682,Vistara,BLR,Bengaluru,CCU,Kolkata,05:00,06:32,1h 32m,0,Economy,8413
+VI-5682,Vistara,BLR,Bengaluru,CCU,Kolkata,05:00,06:32,1h 32m,0,Business,22472
+IN-6665,IndiGo,BLR,Bengaluru,CCU,Kolkata,15:05,17:18,2h 13m,0,Economy,4939
+AI-9321,Air India,BLR,Bengaluru,MAA,Chennai,09:05,10:36,4h 17m,1,Economy,10150
+AI-9321,Air India,BLR,Bengaluru,MAA,Chennai,09:05,10:36,4h 17m,1,Business,37414
+AI-8661,Air India,BLR,Bengaluru,MAA,Chennai,12:35,15:31,2h 56m,0,Economy,9321
+AI-8661,Air India,BLR,Bengaluru,MAA,Chennai,12:35,15:31,2h 56m,0,Business,37144
+AK-9416,Akasa Air,BLR,Bengaluru,MAA,Chennai,19:00,21:18,2h 18m,0,Economy,5312
+AI-3557,Air India,BLR,Bengaluru,MAA,Chennai,08:50,10:00,1h 10m,0,Economy,5923
+AI-3557,Air India,BLR,Bengaluru,MAA,Chennai,08:50,10:00,1h 10m,0,Business,19711
+IN-6793,IndiGo,BLR,Bengaluru,HYD,Hyderabad,14:55,17:11,2h 16m,0,Economy,4767
+AI-4820,Air India,BLR,Bengaluru,HYD,Hyderabad,22:20,00:49,2h 29m,0,Economy,5083
+AI-4820,Air India,BLR,Bengaluru,HYD,Hyderabad,22:20,00:49,2h 29m,0,Business,17948
+AK-9763,Akasa Air,BLR,Bengaluru,HYD,Hyderabad,21:15,23:09,3h 43m,1,Economy,8667
+AK-2430,Akasa Air,BLR,Bengaluru,HYD,Hyderabad,02:00,03:21,1h 21m,0,Economy,9374
+VI-2137,Vistara,BLR,Bengaluru,PNQ,Pune,14:55,16:33,1h 38m,0,Economy,7361
+VI-2137,Vistara,BLR,Bengaluru,PNQ,Pune,14:55,16:33,1h 38m,0,Business,21408
+AI-8190,AI Express,BLR,Bengaluru,PNQ,Pune,14:05,16:21,5h 3m,1,Economy,6929
+IN-1596,IndiGo,BLR,Bengaluru,AMD,Ahmedabad,07:50,10:37,2h 47m,0,Economy,5904
+IN-4515,IndiGo,BLR,Bengaluru,AMD,Ahmedabad,18:00,20:37,2h 37m,0,Economy,5427
+AK-3073,Akasa Air,BLR,Bengaluru,COK,Kochi,18:30,20:51,2h 21m,0,Economy,7469
+IN-7800,IndiGo,BLR,Bengaluru,COK,Kochi,11:30,13:12,1h 42m,0,Economy,3928
+AK-6844,Akasa Air,BLR,Bengaluru,GOI,Goa,22:35,00:11,1h 36m,0,Economy,5140
+VI-1542,Vistara,BLR,Bengaluru,JAI,Jaipur,10:20,12:01,4h 16m,1,Economy,8491
+VI-1542,Vistara,BLR,Bengaluru,JAI,Jaipur,10:20,12:01,4h 16m,1,Business,31734
+SP-8989,SpiceJet,BLR,Bengaluru,LKO,Lucknow,14:30,15:36,1h 6m,0,Economy,4981
+SP-7342,SpiceJet,BLR,Bengaluru,GAU,Guwahati,01:15,02:49,1h 34m,0,Economy,7299
+AK-7278,Akasa Air,BLR,Bengaluru,GAU,Guwahati,22:35,23:50,3h 15m,1,Economy,8326
+AK-9124,Akasa Air,BLR,Bengaluru,PAT,Patna,00:40,02:32,4h 21m,1,Economy,8178
+SP-2622,SpiceJet,BLR,Bengaluru,BBI,Bhubaneswar,15:55,17:32,1h 37m,0,Economy,4619
+VI-7836,Vistara,BLR,Bengaluru,TRV,Thiruvananthapuram,07:35,09:45,4h 45m,1,Economy,6507
+VI-7836,Vistara,BLR,Bengaluru,TRV,Thiruvananthapuram,07:35,09:45,4h 45m,1,Business,23551
+AI-1243,Air India,BLR,Bengaluru,TRV,Thiruvananthapuram,08:30,10:13,1h 43m,0,Economy,5579
+AI-1243,Air India,BLR,Bengaluru,TRV,Thiruvananthapuram,08:30,10:13,1h 43m,0,Business,16183
+AK-4991,Akasa Air,BLR,Bengaluru,IXC,Chandigarh,18:45,21:09,2h 24m,0,Economy,4108
+AI-8035,AI Express,BLR,Bengaluru,SXR,Srinagar,11:25,13:35,2h 10m,0,Economy,5045
+VI-5372,Vistara,BLR,Bengaluru,SXR,Srinagar,06:55,08:25,1h 30m,0,Economy,4456
+VI-5372,Vistara,BLR,Bengaluru,SXR,Srinagar,06:55,08:25,1h 30m,0,Business,16861
+IN-5313,IndiGo,BLR,Bengaluru,IXB,Bagdogra,23:35,02:05,2h 30m,0,Economy,5061
+VI-2592,Vistara,BLR,Bengaluru,IXB,Bagdogra,15:00,16:16,1h 16m,0,Economy,5917
+VI-2592,Vistara,BLR,Bengaluru,IXB,Bagdogra,15:00,16:16,1h 16m,0,Business,17739
+VI-1733,Vistara,BLR,Bengaluru,VNS,Varanasi,16:35,17:36,1h 1m,0,Economy,5179
+VI-1733,Vistara,BLR,Bengaluru,VNS,Varanasi,16:35,17:36,1h 1m,0,Business,19713
+IN-7792,IndiGo,BLR,Bengaluru,IXJ,Jammu,08:25,10:44,2h 19m,0,Economy,6161
+AK-8842,Akasa Air,BLR,Bengaluru,RPR,Raipur,12:25,14:45,2h 20m,0,Economy,6610
+AI-688,AI Express,BLR,Bengaluru,RNC,Ranchi,19:05,20:35,1h 30m,0,Economy,7272
+AK-3827,Akasa Air,BLR,Bengaluru,RNC,Ranchi,23:05,01:00,1h 55m,0,Economy,6614
+VI-2825,Vistara,BLR,Bengaluru,NAG,Nagpur,22:20,01:15,5h 2m,1,Economy,5942
+VI-2825,Vistara,BLR,Bengaluru,NAG,Nagpur,22:20,01:15,5h 2m,1,Business,18049
+AI-4100,Air India,BLR,Bengaluru,IDR,Indore,16:30,18:42,2h 12m,0,Economy,4237
+AI-4100,Air India,BLR,Bengaluru,IDR,Indore,16:30,18:42,2h 12m,0,Business,11672
+IN-6367,IndiGo,BLR,Bengaluru,IDR,Indore,19:50,21:20,1h 30m,0,Economy,5888
+AI-7655,Air India,CCU,Kolkata,DEL,Delhi,20:20,22:18,1h 58m,0,Economy,4576
+AI-7655,Air India,CCU,Kolkata,DEL,Delhi,20:20,22:18,1h 58m,0,Business,17610
+VI-4812,Vistara,CCU,Kolkata,DEL,Delhi,21:40,23:00,3h 28m,1,Economy,9533
+VI-4812,Vistara,CCU,Kolkata,DEL,Delhi,21:40,23:00,3h 28m,1,Business,32969
+VI-4197,Vistara,CCU,Kolkata,DEL,Delhi,14:20,15:45,1h 25m,0,Economy,8458
+VI-4197,Vistara,CCU,Kolkata,DEL,Delhi,14:20,15:45,1h 25m,0,Business,22498
+VI-9470,Vistara,CCU,Kolkata,DEL,Delhi,11:45,13:22,1h 37m,0,Economy,6918
+VI-9470,Vistara,CCU,Kolkata,DEL,Delhi,11:45,13:22,1h 37m,0,Business,17522
+AK-232,Akasa Air,CCU,Kolkata,BOM,Mumbai,18:50,21:29,2h 39m,0,Economy,4901
+AI-8238,AI Express,CCU,Kolkata,BOM,Mumbai,09:15,11:32,2h 17m,0,Economy,6294
+SP-3215,SpiceJet,CCU,Kolkata,BOM,Mumbai,19:20,21:46,2h 26m,0,Economy,5620
+SP-1691,SpiceJet,CCU,Kolkata,BOM,Mumbai,20:50,21:55,1h 5m,0,Economy,8111
+IN-9595,IndiGo,CCU,Kolkata,BOM,Mumbai,11:55,13:11,3h 39m,1,Economy,8586
+AI-3389,Air India,CCU,Kolkata,BOM,Mumbai,04:40,07:32,2h 52m,0,Economy,8848
+AI-3389,Air India,CCU,Kolkata,BOM,Mumbai,04:40,07:32,2h 52m,0,Business,28779
+AI-4310,Air India,CCU,Kolkata,BLR,Bengaluru,15:20,17:55,2h 35m,0,Economy,5443
+AI-4310,Air India,CCU,Kolkata,BLR,Bengaluru,15:20,17:55,2h 35m,0,Business,17431
+IN-2406,IndiGo,CCU,Kolkata,BLR,Bengaluru,07:50,10:22,2h 32m,0,Economy,7755
+AI-6092,AI Express,CCU,Kolkata,BLR,Bengaluru,02:30,03:31,1h 1m,0,Economy,5512
+VI-6138,Vistara,CCU,Kolkata,BLR,Bengaluru,21:55,00:21,2h 26m,0,Economy,7621
+VI-6138,Vistara,CCU,Kolkata,BLR,Bengaluru,21:55,00:21,2h 26m,0,Business,28453
+AK-1875,Akasa Air,CCU,Kolkata,BLR,Bengaluru,21:15,23:15,4h 48m,1,Economy,10770
+SP-1135,SpiceJet,CCU,Kolkata,MAA,Chennai,20:35,23:31,2h 56m,0,Economy,7844
+IN-2390,IndiGo,CCU,Kolkata,MAA,Chennai,01:00,02:38,1h 38m,0,Economy,5451
+IN-3946,IndiGo,CCU,Kolkata,MAA,Chennai,17:10,18:59,1h 49m,0,Economy,8925
+VI-9722,Vistara,CCU,Kolkata,MAA,Chennai,23:55,01:14,1h 19m,0,Economy,5311
+VI-9722,Vistara,CCU,Kolkata,MAA,Chennai,23:55,01:14,1h 19m,0,Business,19919
+AK-636,Akasa Air,CCU,Kolkata,HYD,Hyderabad,22:25,23:52,1h 27m,0,Economy,6434
+AK-1727,Akasa Air,CCU,Kolkata,HYD,Hyderabad,21:25,23:34,2h 9m,0,Economy,7438
+IN-6623,IndiGo,CCU,Kolkata,HYD,Hyderabad,08:15,09:30,1h 15m,0,Economy,8225
+IN-3575,IndiGo,CCU,Kolkata,HYD,Hyderabad,20:50,23:06,2h 16m,0,Economy,4914
+AK-4090,Akasa Air,CCU,Kolkata,HYD,Hyderabad,04:45,06:11,4h 11m,1,Economy,10464
+AI-3917,Air India,CCU,Kolkata,HYD,Hyderabad,10:10,12:50,2h 40m,0,Economy,4523
+AI-3917,Air India,CCU,Kolkata,HYD,Hyderabad,10:10,12:50,2h 40m,0,Business,13188
+AI-8950,Air India,CCU,Kolkata,PNQ,Pune,08:10,09:24,1h 14m,0,Economy,3605
+AI-8950,Air India,CCU,Kolkata,PNQ,Pune,08:10,09:24,1h 14m,0,Business,9725
+AI-9747,Air India,CCU,Kolkata,AMD,Ahmedabad,10:00,11:22,1h 22m,0,Economy,4019
+AI-9747,Air India,CCU,Kolkata,AMD,Ahmedabad,10:00,11:22,1h 22m,0,Business,14518
+AI-1962,AI Express,CCU,Kolkata,AMD,Ahmedabad,23:05,01:05,2h 0m,0,Economy,4982
+VI-8354,Vistara,CCU,Kolkata,COK,Kochi,07:45,08:50,1h 5m,0,Economy,7222
+VI-8354,Vistara,CCU,Kolkata,COK,Kochi,07:45,08:50,1h 5m,0,Business,27447
+VI-610,Vistara,CCU,Kolkata,GOI,Goa,01:35,04:23,2h 48m,0,Economy,6310
+VI-610,Vistara,CCU,Kolkata,GOI,Goa,01:35,04:23,2h 48m,0,Business,16796
+SP-7367,SpiceJet,CCU,Kolkata,GOI,Goa,02:05,03:46,1h 41m,0,Economy,3769
+AK-9690,Akasa Air,CCU,Kolkata,JAI,Jaipur,17:55,19:36,1h 41m,0,Economy,5946
+VI-8382,Vistara,CCU,Kolkata,LKO,Lucknow,19:30,20:42,1h 12m,0,Economy,3968
+VI-8382,Vistara,CCU,Kolkata,LKO,Lucknow,19:30,20:42,1h 12m,0,Business,14995
+SP-9133,SpiceJet,CCU,Kolkata,LKO,Lucknow,23:15,01:10,1h 55m,0,Economy,4435
+AK-7530,Akasa Air,CCU,Kolkata,GAU,Guwahati,12:30,15:03,5h 28m,1,Economy,6888
+AK-6232,Akasa Air,CCU,Kolkata,GAU,Guwahati,04:50,07:48,2h 58m,0,Economy,3873
+IN-7175,IndiGo,CCU,Kolkata,PAT,Patna,03:55,06:29,2h 34m,0,Economy,4032
+AI-9301,AI Express,CCU,Kolkata,BBI,Bhubaneswar,17:25,19:50,4h 49m,1,Economy,7310
+AK-9937,Akasa Air,CCU,Kolkata,TRV,Thiruvananthapuram,09:25,10:38,1h 13m,0,Economy,4371
+SP-8000,SpiceJet,CCU,Kolkata,IXC,Chandigarh,07:05,08:49,1h 44m,0,Economy,5005
+AK-9506,Akasa Air,CCU,Kolkata,SXR,Srinagar,07:30,10:18,2h 48m,0,Economy,6643
+AI-4481,AI Express,CCU,Kolkata,IXB,Bagdogra,00:10,01:44,1h 34m,0,Economy,4765
+AK-200,Akasa Air,CCU,Kolkata,VNS,Varanasi,05:10,07:22,2h 12m,0,Economy,3785
+AI-602,Air India,CCU,Kolkata,VNS,Varanasi,02:55,05:02,2h 7m,0,Economy,5219
+AI-602,Air India,CCU,Kolkata,VNS,Varanasi,02:55,05:02,2h 7m,0,Business,16598
+AK-5205,Akasa Air,CCU,Kolkata,IXJ,Jammu,23:25,02:04,2h 39m,0,Economy,5942
+IN-2649,IndiGo,CCU,Kolkata,RPR,Raipur,05:45,06:51,1h 6m,0,Economy,4614
+SP-7047,SpiceJet,CCU,Kolkata,RNC,Ranchi,15:45,17:41,1h 56m,0,Economy,4382
+AI-1964,AI Express,CCU,Kolkata,RNC,Ranchi,11:30,12:44,1h 14m,0,Economy,6279
+AI-5153,AI Express,CCU,Kolkata,NAG,Nagpur,01:15,03:05,1h 50m,0,Economy,3724
+IN-3449,IndiGo,CCU,Kolkata,NAG,Nagpur,09:15,11:53,4h 49m,1,Economy,6138
+IN-8249,IndiGo,CCU,Kolkata,IDR,Indore,23:30,00:52,3h 21m,1,Economy,8122
+IN-6605,IndiGo,MAA,Chennai,DEL,Delhi,23:00,00:55,4h 38m,1,Economy,6778
+VI-9494,Vistara,MAA,Chennai,DEL,Delhi,12:55,15:16,2h 21m,0,Economy,5443
+VI-9494,Vistara,MAA,Chennai,DEL,Delhi,12:55,15:16,2h 21m,0,Business,16914
+AK-2915,Akasa Air,MAA,Chennai,DEL,Delhi,19:35,22:21,2h 46m,0,Economy,7464
+IN-7255,IndiGo,MAA,Chennai,DEL,Delhi,03:15,05:10,1h 55m,0,Economy,8792
+IN-6584,IndiGo,MAA,Chennai,DEL,Delhi,09:55,11:38,1h 43m,0,Economy,5877
+AI-1968,AI Express,MAA,Chennai,BOM,Mumbai,16:40,18:04,1h 24m,0,Economy,7362
+AK-2519,Akasa Air,MAA,Chennai,BOM,Mumbai,07:05,08:23,1h 18m,0,Economy,5921
+AI-2604,AI Express,MAA,Chennai,BOM,Mumbai,20:05,21:27,1h 22m,0,Economy,8547
+AI-9594,AI Express,MAA,Chennai,BLR,Bengaluru,14:50,17:48,2h 58m,0,Economy,7147
+SP-5279,SpiceJet,MAA,Chennai,BLR,Bengaluru,04:35,05:43,1h 8m,0,Economy,6980
+AK-9789,Akasa Air,MAA,Chennai,BLR,Bengaluru,01:25,03:29,3h 38m,1,Economy,10207
+IN-6141,IndiGo,MAA,Chennai,BLR,Bengaluru,09:05,11:27,2h 22m,0,Economy,5239
+AI-9833,AI Express,MAA,Chennai,BLR,Bengaluru,16:30,18:29,1h 59m,0,Economy,4836
+VI-9466,Vistara,MAA,Chennai,BLR,Bengaluru,20:15,21:56,1h 41m,0,Economy,8607
+VI-9466,Vistara,MAA,Chennai,BLR,Bengaluru,20:15,21:56,1h 41m,0,Business,23465
+VI-1795,Vistara,MAA,Chennai,CCU,Kolkata,10:55,12:05,1h 10m,0,Economy,5913
+VI-1795,Vistara,MAA,Chennai,CCU,Kolkata,10:55,12:05,1h 10m,0,Business,15129
+SP-7272,SpiceJet,MAA,Chennai,CCU,Kolkata,14:40,16:46,2h 6m,0,Economy,7481
+AK-4734,Akasa Air,MAA,Chennai,CCU,Kolkata,12:30,15:09,2h 39m,0,Economy,9397
+SP-5582,SpiceJet,MAA,Chennai,HYD,Hyderabad,02:25,03:37,1h 12m,0,Economy,7666
+AK-4228,Akasa Air,MAA,Chennai,HYD,Hyderabad,23:50,02:46,2h 56m,0,Economy,5731
+AK-1435,Akasa Air,MAA,Chennai,HYD,Hyderabad,18:50,20:08,1h 18m,0,Economy,7041
+AI-9849,Air India,MAA,Chennai,PNQ,Pune,22:05,23:44,1h 39m,0,Economy,6135
+AI-9849,Air India,MAA,Chennai,PNQ,Pune,22:05,23:44,1h 39m,0,Business,22622
+AI-8724,Air India,MAA,Chennai,PNQ,Pune,02:50,05:15,2h 25m,0,Economy,4982
+AI-8724,Air India,MAA,Chennai,PNQ,Pune,02:50,05:15,2h 25m,0,Business,12591
+AI-3609,Air India,MAA,Chennai,AMD,Ahmedabad,10:35,11:59,1h 24m,0,Economy,4063
+AI-3609,Air India,MAA,Chennai,AMD,Ahmedabad,10:35,11:59,1h 24m,0,Business,11101
+AK-1757,Akasa Air,MAA,Chennai,AMD,Ahmedabad,16:40,19:26,2h 46m,0,Economy,5656
+SP-5617,SpiceJet,MAA,Chennai,COK,Kochi,19:10,21:26,2h 16m,0,Economy,4164
+SP-2812,SpiceJet,MAA,Chennai,GOI,Goa,23:35,00:40,1h 5m,0,Economy,6270
+VI-4768,Vistara,MAA,Chennai,JAI,Jaipur,23:35,01:04,1h 29m,0,Economy,4767
+VI-4768,Vistara,MAA,Chennai,JAI,Jaipur,23:35,01:04,1h 29m,0,Business,18821
+AI-6126,Air India,MAA,Chennai,LKO,Lucknow,21:45,23:41,1h 56m,0,Economy,4654
+AI-6126,Air India,MAA,Chennai,LKO,Lucknow,21:45,23:41,1h 56m,0,Business,17067
+AI-8741,AI Express,MAA,Chennai,LKO,Lucknow,13:10,15:54,2h 44m,0,Economy,5976
+AK-954,Akasa Air,MAA,Chennai,GAU,Guwahati,20:35,23:26,2h 51m,0,Economy,7326
+SP-8552,SpiceJet,MAA,Chennai,PAT,Patna,03:20,04:30,1h 10m,0,Economy,4617
+AI-2514,AI Express,MAA,Chennai,BBI,Bhubaneswar,13:05,16:01,2h 56m,0,Economy,5347
+AK-536,Akasa Air,MAA,Chennai,BBI,Bhubaneswar,13:00,14:50,1h 50m,0,Economy,4465
+IN-6242,IndiGo,MAA,Chennai,TRV,Thiruvananthapuram,07:00,08:40,1h 40m,0,Economy,6937
+SP-5593,SpiceJet,MAA,Chennai,TRV,Thiruvananthapuram,04:10,05:14,1h 4m,0,Economy,6898
+SP-2373,SpiceJet,MAA,Chennai,IXC,Chandigarh,22:35,00:32,1h 57m,0,Economy,7210
+IN-411,IndiGo,MAA,Chennai,IXC,Chandigarh,08:15,11:01,5h 33m,1,Economy,9840
+IN-4820,IndiGo,MAA,Chennai,SXR,Srinagar,07:20,08:35,4h 4m,1,Economy,7527
+VI-1129,Vistara,MAA,Chennai,SXR,Srinagar,03:35,05:51,2h 16m,0,Economy,6088
+VI-1129,Vistara,MAA,Chennai,SXR,Srinagar,03:35,05:51,2h 16m,0,Business,19926
+SP-2452,SpiceJet,MAA,Chennai,IXB,Bagdogra,09:30,10:30,1h 0m,0,Economy,4485
+AI-1502,Air India,MAA,Chennai,VNS,Varanasi,16:25,17:33,1h 8m,0,Economy,5728
+AI-1502,Air India,MAA,Chennai,VNS,Varanasi,16:25,17:33,1h 8m,0,Business,18678
+AI-9179,AI Express,MAA,Chennai,VNS,Varanasi,00:30,03:21,2h 51m,0,Economy,6103
+AK-4255,Akasa Air,MAA,Chennai,IXJ,Jammu,23:00,00:45,1h 45m,0,Economy,4912
+AI-1798,Air India,MAA,Chennai,IXJ,Jammu,18:55,21:31,2h 36m,0,Economy,3681
+AI-1798,Air India,MAA,Chennai,IXJ,Jammu,18:55,21:31,2h 36m,0,Business,11147
+SP-2968,SpiceJet,MAA,Chennai,RPR,Raipur,21:35,00:04,2h 29m,0,Economy,4246
+AI-1133,Air India,MAA,Chennai,RPR,Raipur,22:35,23:39,1h 4m,0,Economy,3679
+AI-1133,Air India,MAA,Chennai,RPR,Raipur,22:35,23:39,1h 4m,0,Business,13563
+AK-5180,Akasa Air,MAA,Chennai,RNC,Ranchi,16:30,19:14,2h 44m,0,Economy,4537
+SP-3231,SpiceJet,MAA,Chennai,NAG,Nagpur,09:25,12:15,2h 50m,0,Economy,7046
+AK-2139,Akasa Air,MAA,Chennai,IDR,Indore,11:30,14:23,2h 53m,0,Economy,5301
+VI-5654,Vistara,MAA,Chennai,IDR,Indore,05:35,08:03,2h 28m,0,Economy,7285
+VI-5654,Vistara,MAA,Chennai,IDR,Indore,05:35,08:03,2h 28m,0,Business,26924
+IN-7055,IndiGo,HYD,Hyderabad,DEL,Delhi,02:30,04:47,2h 17m,0,Economy,5978
+AI-4913,AI Express,HYD,Hyderabad,DEL,Delhi,10:05,11:15,1h 10m,0,Economy,6921
+AK-7405,Akasa Air,HYD,Hyderabad,DEL,Delhi,19:55,21:49,1h 54m,0,Economy,8136
+AK-7425,Akasa Air,HYD,Hyderabad,DEL,Delhi,01:55,04:46,2h 51m,0,Economy,8063
+AK-1039,Akasa Air,HYD,Hyderabad,DEL,Delhi,02:50,05:11,2h 21m,0,Economy,8703
+IN-2439,IndiGo,HYD,Hyderabad,BOM,Mumbai,19:50,22:30,2h 40m,0,Economy,5534
+IN-3966,IndiGo,HYD,Hyderabad,BOM,Mumbai,20:25,22:11,1h 46m,0,Economy,9146
+IN-2613,IndiGo,HYD,Hyderabad,BOM,Mumbai,21:35,23:22,1h 47m,0,Economy,5129
+AI-2355,AI Express,HYD,Hyderabad,BOM,Mumbai,16:25,18:15,1h 50m,0,Economy,6783
+IN-524,IndiGo,HYD,Hyderabad,BLR,Bengaluru,23:10,01:13,2h 3m,0,Economy,9101
+IN-4388,IndiGo,HYD,Hyderabad,BLR,Bengaluru,08:55,10:52,1h 57m,0,Economy,6839
+SP-8147,SpiceJet,HYD,Hyderabad,BLR,Bengaluru,06:05,07:22,1h 17m,0,Economy,8203
+AI-7392,Air India,HYD,Hyderabad,BLR,Bengaluru,02:50,05:38,2h 48m,0,Economy,7346
+AI-7392,Air India,HYD,Hyderabad,BLR,Bengaluru,02:50,05:38,2h 48m,0,Business,26183
+AK-2680,Akasa Air,HYD,Hyderabad,CCU,Kolkata,22:55,01:53,2h 58m,0,Economy,5926
+AK-8435,Akasa Air,HYD,Hyderabad,CCU,Kolkata,07:05,08:30,1h 25m,0,Economy,6439
+VI-530,Vistara,HYD,Hyderabad,CCU,Kolkata,11:40,13:53,2h 13m,0,Economy,9019
+VI-530,Vistara,HYD,Hyderabad,CCU,Kolkata,11:40,13:53,2h 13m,0,Business,24303
+IN-1177,IndiGo,HYD,Hyderabad,CCU,Kolkata,09:30,12:01,2h 31m,0,Economy,8806
+VI-6808,Vistara,HYD,Hyderabad,CCU,Kolkata,18:05,19:21,1h 16m,0,Economy,5107
+VI-6808,Vistara,HYD,Hyderabad,CCU,Kolkata,18:05,19:21,1h 16m,0,Business,16214
+AI-9132,Air India,HYD,Hyderabad,MAA,Chennai,20:45,22:08,1h 23m,0,Economy,5557
+AI-9132,Air India,HYD,Hyderabad,MAA,Chennai,20:45,22:08,1h 23m,0,Business,17498
+IN-2134,IndiGo,HYD,Hyderabad,MAA,Chennai,16:10,17:48,1h 38m,0,Economy,7143
+SP-3794,SpiceJet,HYD,Hyderabad,MAA,Chennai,11:40,14:34,2h 54m,0,Economy,5146
+AK-3316,Akasa Air,HYD,Hyderabad,MAA,Chennai,20:40,22:15,4h 13m,1,Economy,9238
+IN-8334,IndiGo,HYD,Hyderabad,MAA,Chennai,20:10,22:25,2h 15m,0,Economy,5763
+SP-5631,SpiceJet,HYD,Hyderabad,PNQ,Pune,18:00,20:45,2h 45m,0,Economy,3832
+SP-9549,SpiceJet,HYD,Hyderabad,AMD,Ahmedabad,08:50,10:16,1h 26m,0,Economy,5206
+VI-9038,Vistara,HYD,Hyderabad,COK,Kochi,09:50,11:28,1h 38m,0,Economy,6796
+VI-9038,Vistara,HYD,Hyderabad,COK,Kochi,09:50,11:28,1h 38m,0,Business,25220
+AK-7530,Akasa Air,HYD,Hyderabad,GOI,Goa,02:55,04:02,1h 7m,0,Economy,5202
+VI-7709,Vistara,HYD,Hyderabad,GOI,Goa,06:25,08:42,4h 27m,1,Economy,9499
+VI-7709,Vistara,HYD,Hyderabad,GOI,Goa,06:25,08:42,4h 27m,1,Business,34208
+VI-2242,Vistara,HYD,Hyderabad,JAI,Jaipur,11:40,13:51,3h 56m,1,Economy,6445
+VI-2242,Vistara,HYD,Hyderabad,JAI,Jaipur,11:40,13:51,3h 56m,1,Business,18698
+AI-2408,Air India,HYD,Hyderabad,JAI,Jaipur,03:00,04:37,1h 37m,0,Economy,7039
+AI-2408,Air India,HYD,Hyderabad,JAI,Jaipur,03:00,04:37,1h 37m,0,Business,24094
+AI-5464,Air India,HYD,Hyderabad,LKO,Lucknow,18:55,20:35,1h 40m,0,Economy,4152
+AI-5464,Air India,HYD,Hyderabad,LKO,Lucknow,18:55,20:35,1h 40m,0,Business,13483
+VI-5155,Vistara,HYD,Hyderabad,GAU,Guwahati,15:00,16:11,1h 11m,0,Economy,5570
+VI-5155,Vistara,HYD,Hyderabad,GAU,Guwahati,15:00,16:11,1h 11m,0,Business,17745
+AI-3624,Air India,HYD,Hyderabad,GAU,Guwahati,18:25,19:31,3h 59m,1,Economy,7750
+AI-3624,Air India,HYD,Hyderabad,GAU,Guwahati,18:25,19:31,3h 59m,1,Business,27193
+AI-233,AI Express,HYD,Hyderabad,PAT,Patna,03:30,04:47,1h 17m,0,Economy,6479
+AK-6706,Akasa Air,HYD,Hyderabad,PAT,Patna,11:00,12:51,4h 7m,1,Economy,7199
+IN-6429,IndiGo,HYD,Hyderabad,BBI,Bhubaneswar,16:35,19:12,2h 37m,0,Economy,6880
+AI-2046,AI Express,HYD,Hyderabad,BBI,Bhubaneswar,04:05,05:55,1h 50m,0,Economy,4888
+AI-3361,Air India,HYD,Hyderabad,TRV,Thiruvananthapuram,19:40,21:31,1h 51m,0,Economy,3685
+AI-3361,Air India,HYD,Hyderabad,TRV,Thiruvananthapuram,19:40,21:31,1h 51m,0,Business,9427
+SP-5556,SpiceJet,HYD,Hyderabad,TRV,Thiruvananthapuram,15:40,17:38,3h 45m,1,Economy,9213
+AI-5318,AI Express,HYD,Hyderabad,IXC,Chandigarh,05:30,07:48,2h 18m,0,Economy,4725
+AI-5611,AI Express,HYD,Hyderabad,IXC,Chandigarh,16:40,18:48,2h 8m,0,Economy,5805
+VI-372,Vistara,HYD,Hyderabad,SXR,Srinagar,11:25,13:51,4h 35m,1,Economy,7401
+VI-372,Vistara,HYD,Hyderabad,SXR,Srinagar,11:25,13:51,4h 35m,1,Business,27347
+SP-536,SpiceJet,HYD,Hyderabad,SXR,Srinagar,19:35,21:08,1h 33m,0,Economy,6706
+SP-941,SpiceJet,HYD,Hyderabad,IXB,Bagdogra,18:35,19:56,1h 21m,0,Economy,6453
+AI-4068,Air India,HYD,Hyderabad,VNS,Varanasi,01:45,04:14,4h 39m,1,Economy,5480
+AI-4068,Air India,HYD,Hyderabad,VNS,Varanasi,01:45,04:14,4h 39m,1,Business,17142
+VI-3440,Vistara,HYD,Hyderabad,VNS,Varanasi,13:40,16:19,2h 39m,0,Economy,5431
+VI-3440,Vistara,HYD,Hyderabad,VNS,Varanasi,13:40,16:19,2h 39m,0,Business,20687
+SP-2362,SpiceJet,HYD,Hyderabad,IXJ,Jammu,16:15,18:26,2h 11m,0,Economy,6212
+AI-6273,AI Express,HYD,Hyderabad,RPR,Raipur,10:10,12:08,1h 58m,0,Economy,4902
+AI-5904,AI Express,HYD,Hyderabad,RPR,Raipur,21:55,00:22,2h 27m,0,Economy,6339
+AI-8032,AI Express,HYD,Hyderabad,RNC,Ranchi,06:15,07:50,1h 35m,0,Economy,4421
+AK-4835,Akasa Air,HYD,Hyderabad,RNC,Ranchi,22:15,00:43,2h 28m,0,Economy,4798
+AK-9283,Akasa Air,HYD,Hyderabad,NAG,Nagpur,23:20,00:56,3h 54m,1,Economy,8383
+VI-5754,Vistara,HYD,Hyderabad,NAG,Nagpur,04:20,05:25,1h 5m,0,Economy,6425
+VI-5754,Vistara,HYD,Hyderabad,NAG,Nagpur,04:20,05:25,1h 5m,0,Business,16824
+SP-4301,SpiceJet,HYD,Hyderabad,IDR,Indore,23:35,01:02,1h 27m,0,Economy,5706
+AK-9308,Akasa Air,HYD,Hyderabad,IDR,Indore,22:20,23:37,3h 17m,1,Economy,8735
+IN-8800,IndiGo,PNQ,Pune,DEL,Delhi,07:50,09:19,3h 59m,1,Economy,6868
+SP-2352,SpiceJet,PNQ,Pune,BOM,Mumbai,00:40,03:38,2h 58m,0,Economy,6174
+VI-3367,Vistara,PNQ,Pune,BLR,Bengaluru,09:25,11:01,1h 36m,0,Economy,7218
+VI-3367,Vistara,PNQ,Pune,BLR,Bengaluru,09:25,11:01,1h 36m,0,Business,26367
+SP-9506,SpiceJet,PNQ,Pune,BLR,Bengaluru,07:40,10:14,2h 34m,0,Economy,7336
+AI-6946,Air India,PNQ,Pune,CCU,Kolkata,05:00,07:47,2h 47m,0,Economy,5529
+AI-6946,Air India,PNQ,Pune,CCU,Kolkata,05:00,07:47,2h 47m,0,Business,15367
+IN-251,IndiGo,PNQ,Pune,MAA,Chennai,09:45,12:02,4h 45m,1,Economy,6454
+SP-9001,SpiceJet,PNQ,Pune,MAA,Chennai,16:35,19:28,2h 53m,0,Economy,6985
+AK-3259,Akasa Air,PNQ,Pune,HYD,Hyderabad,03:25,04:45,1h 20m,0,Economy,6155
+AK-3150,Akasa Air,PNQ,Pune,HYD,Hyderabad,00:55,02:38,1h 43m,0,Economy,5825
+AI-6743,Air India,PNQ,Pune,AMD,Ahmedabad,13:40,15:21,3h 34m,1,Economy,7436
+AI-6743,Air India,PNQ,Pune,AMD,Ahmedabad,13:40,15:21,3h 34m,1,Business,29539
+AK-4164,Akasa Air,PNQ,Pune,COK,Kochi,00:20,02:09,1h 49m,0,Economy,6587
+AK-5500,Akasa Air,PNQ,Pune,COK,Kochi,09:45,12:17,2h 32m,0,Economy,4571
+SP-3971,SpiceJet,PNQ,Pune,GOI,Goa,01:50,03:05,1h 15m,0,Economy,4154
+VI-8333,Vistara,PNQ,Pune,GOI,Goa,22:20,00:48,4h 45m,1,Economy,8856
+VI-8333,Vistara,PNQ,Pune,GOI,Goa,22:20,00:48,4h 45m,1,Business,30304
+AI-7934,Air India,PNQ,Pune,JAI,Jaipur,04:35,07:10,2h 35m,0,Economy,5030
+AI-7934,Air India,PNQ,Pune,JAI,Jaipur,04:35,07:10,2h 35m,0,Business,15712
+AI-3678,AI Express,PNQ,Pune,LKO,Lucknow,07:50,10:26,2h 36m,0,Economy,6725
+IN-8709,IndiGo,PNQ,Pune,LKO,Lucknow,14:40,17:10,2h 30m,0,Economy,7257
+IN-9072,IndiGo,PNQ,Pune,GAU,Guwahati,16:15,18:28,2h 13m,0,Economy,4173
+AI-7339,AI Express,PNQ,Pune,PAT,Patna,03:50,05:16,1h 26m,0,Economy,5502
+IN-8461,IndiGo,PNQ,Pune,PAT,Patna,14:00,15:58,4h 40m,1,Economy,7136
+AI-7675,AI Express,PNQ,Pune,BBI,Bhubaneswar,21:20,23:52,4h 29m,1,Economy,5548
+IN-7041,IndiGo,PNQ,Pune,TRV,Thiruvananthapuram,11:55,13:03,1h 8m,0,Economy,3746
+VI-619,Vistara,PNQ,Pune,IXC,Chandigarh,09:30,10:53,1h 23m,0,Economy,6636
+VI-619,Vistara,PNQ,Pune,IXC,Chandigarh,09:30,10:53,1h 23m,0,Business,22975
+AK-6366,Akasa Air,PNQ,Pune,SXR,Srinagar,14:30,16:18,4h 27m,1,Economy,9804
+AI-5797,Air India,PNQ,Pune,SXR,Srinagar,03:10,05:18,2h 8m,0,Economy,4021
+AI-5797,Air India,PNQ,Pune,SXR,Srinagar,03:10,05:18,2h 8m,0,Business,14442
+IN-472,IndiGo,PNQ,Pune,IXB,Bagdogra,09:35,12:01,2h 26m,0,Economy,5237
+AI-4155,Air India,PNQ,Pune,VNS,Varanasi,14:25,15:44,1h 19m,0,Economy,7339
+AI-4155,Air India,PNQ,Pune,VNS,Varanasi,14:25,15:44,1h 19m,0,Business,27982
+IN-627,IndiGo,PNQ,Pune,VNS,Varanasi,21:30,23:48,2h 18m,0,Economy,7119
+AI-3476,Air India,PNQ,Pune,IXJ,Jammu,02:05,04:21,5h 16m,1,Economy,8324
+AI-3476,Air India,PNQ,Pune,IXJ,Jammu,02:05,04:21,5h 16m,1,Business,31700
+SP-824,SpiceJet,PNQ,Pune,RPR,Raipur,12:35,14:04,1h 29m,0,Economy,6589
+AI-8355,Air India,PNQ,Pune,RNC,Ranchi,09:15,11:59,2h 44m,0,Economy,5859
+AI-8355,Air India,PNQ,Pune,RNC,Ranchi,09:15,11:59,2h 44m,0,Business,17450
+AI-5044,Air India,PNQ,Pune,NAG,Nagpur,04:50,06:56,2h 6m,0,Economy,4730
+AI-5044,Air India,PNQ,Pune,NAG,Nagpur,04:50,06:56,2h 6m,0,Business,13777
+AI-9793,AI Express,PNQ,Pune,NAG,Nagpur,23:10,01:30,2h 20m,0,Economy,5776
+IN-5742,IndiGo,PNQ,Pune,IDR,Indore,20:50,22:38,1h 48m,0,Economy,4805
+SP-6921,SpiceJet,PNQ,Pune,IDR,Indore,13:10,14:48,1h 38m,0,Economy,6590
+AI-3792,Air India,AMD,Ahmedabad,DEL,Delhi,09:55,11:13,1h 18m,0,Economy,7246
+AI-3792,Air India,AMD,Ahmedabad,DEL,Delhi,09:55,11:13,1h 18m,0,Business,18741
+VI-6924,Vistara,AMD,Ahmedabad,DEL,Delhi,17:40,18:57,1h 17m,0,Economy,4544
+VI-6924,Vistara,AMD,Ahmedabad,DEL,Delhi,17:40,18:57,1h 17m,0,Business,12745
+VI-6179,Vistara,AMD,Ahmedabad,BOM,Mumbai,02:40,05:12,2h 32m,0,Economy,3711
+VI-6179,Vistara,AMD,Ahmedabad,BOM,Mumbai,02:40,05:12,2h 32m,0,Business,10771
+IN-3182,IndiGo,AMD,Ahmedabad,BLR,Bengaluru,18:55,21:20,2h 25m,0,Economy,5463
+AK-5067,Akasa Air,AMD,Ahmedabad,CCU,Kolkata,00:15,03:14,2h 59m,0,Economy,6537
+SP-7946,SpiceJet,AMD,Ahmedabad,MAA,Chennai,07:55,10:12,2h 17m,0,Economy,5124
+AI-5369,AI Express,AMD,Ahmedabad,HYD,Hyderabad,09:30,11:29,1h 59m,0,Economy,4971
+AK-5992,Akasa Air,AMD,Ahmedabad,PNQ,Pune,16:35,18:34,4h 9m,1,Economy,8420
+AI-6173,Air India,AMD,Ahmedabad,PNQ,Pune,10:30,11:35,1h 5m,0,Economy,4406
+AI-6173,Air India,AMD,Ahmedabad,PNQ,Pune,10:30,11:35,1h 5m,0,Business,15913
+AK-9165,Akasa Air,AMD,Ahmedabad,COK,Kochi,18:45,21:17,2h 32m,0,Economy,4124
+AK-3868,Akasa Air,AMD,Ahmedabad,GOI,Goa,12:45,15:31,2h 46m,0,Economy,5755
+AK-8105,Akasa Air,AMD,Ahmedabad,JAI,Jaipur,23:50,02:24,2h 34m,0,Economy,4189
+SP-5870,SpiceJet,AMD,Ahmedabad,JAI,Jaipur,05:10,07:42,2h 32m,0,Economy,4253
+AI-654,AI Express,AMD,Ahmedabad,LKO,Lucknow,02:50,03:56,1h 6m,0,Economy,5189
+SP-3891,SpiceJet,AMD,Ahmedabad,GAU,Guwahati,02:55,04:14,3h 36m,1,Economy,7504
+AI-8016,AI Express,AMD,Ahmedabad,PAT,Patna,21:35,22:37,2h 33m,1,Economy,7601
+AI-4601,AI Express,AMD,Ahmedabad,BBI,Bhubaneswar,17:20,18:22,1h 2m,0,Economy,6358
+AI-1853,Air India,AMD,Ahmedabad,TRV,Thiruvananthapuram,03:40,04:59,1h 19m,0,Economy,6038
+AI-1853,Air India,AMD,Ahmedabad,TRV,Thiruvananthapuram,03:40,04:59,1h 19m,0,Business,19863
+AK-4479,Akasa Air,AMD,Ahmedabad,TRV,Thiruvananthapuram,12:05,13:52,1h 47m,0,Economy,5380
+SP-3800,SpiceJet,AMD,Ahmedabad,IXC,Chandigarh,09:50,12:35,2h 45m,0,Economy,6177
+IN-6740,IndiGo,AMD,Ahmedabad,SXR,Srinagar,12:30,14:40,2h 10m,0,Economy,6108
+SP-2907,SpiceJet,AMD,Ahmedabad,IXB,Bagdogra,02:35,05:23,2h 48m,0,Economy,6712
+AI-1662,AI Express,AMD,Ahmedabad,VNS,Varanasi,16:00,17:29,1h 29m,0,Economy,7055
+SP-9386,SpiceJet,AMD,Ahmedabad,VNS,Varanasi,15:20,16:25,1h 5m,0,Economy,6303
+AI-9332,AI Express,AMD,Ahmedabad,IXJ,Jammu,21:00,22:22,1h 22m,0,Economy,4788
+IN-3494,IndiGo,AMD,Ahmedabad,IXJ,Jammu,18:10,20:46,2h 36m,0,Economy,6862
+IN-5003,IndiGo,AMD,Ahmedabad,RPR,Raipur,05:45,07:15,1h 30m,0,Economy,6979
+VI-8956,Vistara,AMD,Ahmedabad,RPR,Raipur,10:30,13:06,2h 36m,0,Economy,6737
+VI-8956,Vistara,AMD,Ahmedabad,RPR,Raipur,10:30,13:06,2h 36m,0,Business,26831
+AI-5766,AI Express,AMD,Ahmedabad,RNC,Ranchi,01:05,03:00,1h 55m,0,Economy,3811
+AI-9858,AI Express,AMD,Ahmedabad,NAG,Nagpur,12:25,13:28,1h 3m,0,Economy,6709
+VI-8138,Vistara,AMD,Ahmedabad,NAG,Nagpur,07:25,09:35,2h 10m,0,Economy,5268
+VI-8138,Vistara,AMD,Ahmedabad,NAG,Nagpur,07:25,09:35,2h 10m,0,Business,14637
+IN-4939,IndiGo,AMD,Ahmedabad,IDR,Indore,07:55,09:04,4h 0m,1,Economy,5909
+AI-6483,Air India,AMD,Ahmedabad,IDR,Indore,10:25,11:38,3h 39m,1,Economy,8993
+AI-6483,Air India,AMD,Ahmedabad,IDR,Indore,10:25,11:38,3h 39m,1,Business,27337
+IN-2270,IndiGo,COK,Kochi,DEL,Delhi,02:10,04:05,1h 55m,0,Economy,5772
+AI-6785,AI Express,COK,Kochi,DEL,Delhi,03:00,04:11,1h 11m,0,Economy,3881
+VI-302,Vistara,COK,Kochi,BOM,Mumbai,09:30,11:19,1h 49m,0,Economy,6468
+VI-302,Vistara,COK,Kochi,BOM,Mumbai,09:30,11:19,1h 49m,0,Business,24912
+AI-9470,Air India,COK,Kochi,BOM,Mumbai,16:10,18:37,2h 27m,0,Economy,4068
+AI-9470,Air India,COK,Kochi,BOM,Mumbai,16:10,18:37,2h 27m,0,Business,11810
+VI-2490,Vistara,COK,Kochi,BLR,Bengaluru,02:10,04:05,1h 55m,0,Economy,4727
+VI-2490,Vistara,COK,Kochi,BLR,Bengaluru,02:10,04:05,1h 55m,0,Business,15250
+IN-6016,IndiGo,COK,Kochi,BLR,Bengaluru,08:15,10:47,2h 32m,0,Economy,5932
+VI-1852,Vistara,COK,Kochi,CCU,Kolkata,04:20,05:20,1h 0m,0,Economy,4860
+VI-1852,Vistara,COK,Kochi,CCU,Kolkata,04:20,05:20,1h 0m,0,Business,18285
+AK-7312,Akasa Air,COK,Kochi,MAA,Chennai,10:30,13:14,2h 44m,0,Economy,6166
+AI-2330,AI Express,COK,Kochi,MAA,Chennai,09:25,11:42,2h 17m,0,Economy,4322
+AK-3010,Akasa Air,COK,Kochi,HYD,Hyderabad,12:25,14:02,1h 37m,0,Economy,6092
+VI-9535,Vistara,COK,Kochi,HYD,Hyderabad,07:25,09:13,1h 48m,0,Economy,6718
+VI-9535,Vistara,COK,Kochi,HYD,Hyderabad,07:25,09:13,1h 48m,0,Business,20754
+AI-3373,AI Express,COK,Kochi,PNQ,Pune,18:40,20:03,1h 23m,0,Economy,5753
+SP-7663,SpiceJet,COK,Kochi,AMD,Ahmedabad,22:15,00:11,1h 56m,0,Economy,6904
+VI-8280,Vistara,COK,Kochi,GOI,Goa,04:50,06:28,1h 38m,0,Economy,6197
+VI-8280,Vistara,COK,Kochi,GOI,Goa,04:50,06:28,1h 38m,0,Business,16925
+VI-1311,Vistara,COK,Kochi,JAI,Jaipur,14:45,16:46,2h 1m,0,Economy,5688
+VI-1311,Vistara,COK,Kochi,JAI,Jaipur,14:45,16:46,2h 1m,0,Business,18542
+SP-6953,SpiceJet,COK,Kochi,JAI,Jaipur,17:00,19:41,2h 41m,0,Economy,6373
+IN-4167,IndiGo,COK,Kochi,LKO,Lucknow,21:50,23:35,1h 45m,0,Economy,6009
+AI-6647,AI Express,COK,Kochi,GAU,Guwahati,10:30,11:43,3h 48m,1,Economy,6013
+VI-6229,Vistara,COK,Kochi,PAT,Patna,12:35,15:13,2h 38m,0,Economy,6328
+VI-6229,Vistara,COK,Kochi,PAT,Patna,12:35,15:13,2h 38m,0,Business,20570
+IN-8009,IndiGo,COK,Kochi,BBI,Bhubaneswar,03:20,05:13,1h 53m,0,Economy,3851
+IN-2421,IndiGo,COK,Kochi,BBI,Bhubaneswar,11:20,13:03,1h 43m,0,Economy,4347
+AK-7901,Akasa Air,COK,Kochi,TRV,Thiruvananthapuram,03:35,06:07,2h 32m,0,Economy,4806
+IN-5019,IndiGo,COK,Kochi,TRV,Thiruvananthapuram,01:55,03:09,2h 57m,1,Economy,7232
+SP-4096,SpiceJet,COK,Kochi,IXC,Chandigarh,16:10,18:20,2h 10m,0,Economy,5793
+VI-3898,Vistara,COK,Kochi,SXR,Srinagar,12:50,14:13,1h 23m,0,Economy,6192
+VI-3898,Vistara,COK,Kochi,SXR,Srinagar,12:50,14:13,1h 23m,0,Business,19493
+IN-3332,IndiGo,COK,Kochi,SXR,Srinagar,14:45,16:39,1h 54m,0,Economy,6386
+AI-4660,Air India,COK,Kochi,IXB,Bagdogra,22:05,00:18,4h 6m,1,Economy,9170
+AI-4660,Air India,COK,Kochi,IXB,Bagdogra,22:05,00:18,4h 6m,1,Business,27956
+VI-1967,Vistara,COK,Kochi,VNS,Varanasi,08:50,11:40,2h 50m,0,Economy,7456
+VI-1967,Vistara,COK,Kochi,VNS,Varanasi,08:50,11:40,2h 50m,0,Business,25787
+AI-6531,AI Express,COK,Kochi,IXJ,Jammu,18:05,19:49,1h 44m,0,Economy,5375
+AI-2926,AI Express,COK,Kochi,IXJ,Jammu,21:55,00:37,2h 42m,0,Economy,6016
+SP-2294,SpiceJet,COK,Kochi,RPR,Raipur,10:05,11:35,1h 30m,0,Economy,4249
+SP-2416,SpiceJet,COK,Kochi,RNC,Ranchi,16:30,18:23,1h 53m,0,Economy,5854
+VI-7031,Vistara,COK,Kochi,RNC,Ranchi,05:35,07:56,2h 21m,0,Economy,7264
+VI-7031,Vistara,COK,Kochi,RNC,Ranchi,05:35,07:56,2h 21m,0,Business,25190
+AI-2833,AI Express,COK,Kochi,NAG,Nagpur,15:20,16:37,1h 17m,0,Economy,6948
+AI-978,AI Express,COK,Kochi,IDR,Indore,11:00,13:02,4h 43m,1,Economy,8625
+AI-8209,AI Express,COK,Kochi,IDR,Indore,13:50,15:52,2h 2m,0,Economy,6940
+VI-2840,Vistara,GOI,Goa,DEL,Delhi,02:45,03:48,1h 3m,0,Economy,4403
+VI-2840,Vistara,GOI,Goa,DEL,Delhi,02:45,03:48,1h 3m,0,Business,12936
+AK-3783,Akasa Air,GOI,Goa,DEL,Delhi,17:20,18:41,1h 21m,0,Economy,5816
+AI-8469,AI Express,GOI,Goa,BOM,Mumbai,03:45,04:59,1h 14m,0,Economy,5724
+AK-8980,Akasa Air,GOI,Goa,BOM,Mumbai,01:55,03:51,1h 56m,0,Economy,5241
+SP-4155,SpiceJet,GOI,Goa,BLR,Bengaluru,09:00,10:57,1h 57m,0,Economy,7031
+VI-2023,Vistara,GOI,Goa,CCU,Kolkata,07:15,09:58,2h 43m,0,Economy,6322
+VI-2023,Vistara,GOI,Goa,CCU,Kolkata,07:15,09:58,2h 43m,0,Business,19130
+AI-2381,Air India,GOI,Goa,MAA,Chennai,06:15,08:58,4h 48m,1,Economy,7026
+AI-2381,Air India,GOI,Goa,MAA,Chennai,06:15,08:58,4h 48m,1,Business,23855
+AI-5402,Air India,GOI,Goa,MAA,Chennai,22:20,23:57,1h 37m,0,Economy,7401
+AI-5402,Air India,GOI,Goa,MAA,Chennai,22:20,23:57,1h 37m,0,Business,28027
+AI-6843,Air India,GOI,Goa,HYD,Hyderabad,01:20,04:10,2h 50m,0,Economy,6373
+AI-6843,Air India,GOI,Goa,HYD,Hyderabad,01:20,04:10,2h 50m,0,Business,24211
+AI-5377,Air India,GOI,Goa,PNQ,Pune,07:50,09:40,1h 50m,0,Economy,5865
+AI-5377,Air India,GOI,Goa,PNQ,Pune,07:50,09:40,1h 50m,0,Business,20226
+VI-7505,Vistara,GOI,Goa,AMD,Ahmedabad,02:50,05:31,2h 41m,0,Economy,3881
+VI-7505,Vistara,GOI,Goa,AMD,Ahmedabad,02:50,05:31,2h 41m,0,Business,12047
+SP-4658,SpiceJet,GOI,Goa,AMD,Ahmedabad,22:25,00:23,1h 58m,0,Economy,4840
+SP-1626,SpiceJet,GOI,Goa,COK,Kochi,23:35,01:56,2h 21m,0,Economy,4967
+AI-6616,AI Express,GOI,Goa,JAI,Jaipur,06:30,09:15,2h 45m,0,Economy,4599
+AK-5633,Akasa Air,GOI,Goa,LKO,Lucknow,17:45,19:01,1h 16m,0,Economy,5487
+AK-893,Akasa Air,GOI,Goa,LKO,Lucknow,01:05,03:25,2h 20m,0,Economy,5382
+IN-2688,IndiGo,GOI,Goa,GAU,Guwahati,14:35,15:35,1h 0m,0,Economy,5252
+SP-2261,SpiceJet,GOI,Goa,PAT,Patna,20:20,21:40,1h 20m,0,Economy,7090
+IN-6005,IndiGo,GOI,Goa,BBI,Bhubaneswar,08:05,09:52,1h 47m,0,Economy,6157
+AI-948,Air India,GOI,Goa,BBI,Bhubaneswar,12:50,14:29,1h 39m,0,Economy,6593
+AI-948,Air India,GOI,Goa,BBI,Bhubaneswar,12:50,14:29,1h 39m,0,Business,18798
+SP-1659,SpiceJet,GOI,Goa,TRV,Thiruvananthapuram,00:15,02:16,4h 37m,1,Economy,7394
+IN-232,IndiGo,GOI,Goa,IXC,Chandigarh,22:25,01:09,5h 42m,1,Economy,8887
+AI-7926,Air India,GOI,Goa,IXC,Chandigarh,02:15,04:04,3h 32m,1,Economy,8010
+AI-7926,Air India,GOI,Goa,IXC,Chandigarh,02:15,04:04,3h 32m,1,Business,23789
+AI-6370,Air India,GOI,Goa,SXR,Srinagar,04:50,07:16,3h 57m,1,Economy,7825
+AI-6370,Air India,GOI,Goa,SXR,Srinagar,04:50,07:16,3h 57m,1,Business,26726
+AI-7310,Air India,GOI,Goa,SXR,Srinagar,11:55,13:22,1h 27m,0,Economy,4120
+AI-7310,Air India,GOI,Goa,SXR,Srinagar,11:55,13:22,1h 27m,0,Business,15984
+AI-1520,Air India,GOI,Goa,IXB,Bagdogra,03:10,05:46,4h 50m,1,Economy,8276
+AI-1520,Air India,GOI,Goa,IXB,Bagdogra,03:10,05:46,4h 50m,1,Business,32647
+AK-2390,Akasa Air,GOI,Goa,IXB,Bagdogra,07:20,09:42,5h 8m,1,Economy,7996
+SP-539,SpiceJet,GOI,Goa,VNS,Varanasi,21:20,22:46,1h 26m,0,Economy,5587
+AI-6518,Air India,GOI,Goa,VNS,Varanasi,09:50,10:56,1h 6m,0,Economy,6751
+AI-6518,Air India,GOI,Goa,VNS,Varanasi,09:50,10:56,1h 6m,0,Business,26544
+VI-1947,Vistara,GOI,Goa,IXJ,Jammu,07:35,09:56,2h 21m,0,Economy,5663
+VI-1947,Vistara,GOI,Goa,IXJ,Jammu,07:35,09:56,2h 21m,0,Business,21706
+IN-6016,IndiGo,GOI,Goa,IXJ,Jammu,10:10,11:59,1h 49m,0,Economy,5828
+AK-9051,Akasa Air,GOI,Goa,RPR,Raipur,21:10,23:47,2h 37m,0,Economy,6655
+IN-373,IndiGo,GOI,Goa,RPR,Raipur,18:05,19:06,1h 1m,0,Economy,3663
+VI-8400,Vistara,GOI,Goa,RNC,Ranchi,09:50,12:21,2h 31m,0,Economy,5201
+VI-8400,Vistara,GOI,Goa,RNC,Ranchi,09:50,12:21,2h 31m,0,Business,16307
+IN-8891,IndiGo,GOI,Goa,NAG,Nagpur,17:45,19:04,1h 19m,0,Economy,4769
+IN-8477,IndiGo,GOI,Goa,NAG,Nagpur,06:10,08:18,2h 8m,0,Economy,5902
+AK-7267,Akasa Air,GOI,Goa,IDR,Indore,23:15,00:22,1h 7m,0,Economy,7287
+IN-7528,IndiGo,JAI,Jaipur,DEL,Delhi,19:45,20:52,1h 7m,0,Economy,6537
+SP-2977,SpiceJet,JAI,Jaipur,DEL,Delhi,03:00,05:30,5h 3m,1,Economy,4881
+AI-8574,AI Express,JAI,Jaipur,BOM,Mumbai,23:20,00:41,1h 21m,0,Economy,6571
+AK-2034,Akasa Air,JAI,Jaipur,BOM,Mumbai,00:25,03:08,2h 43m,0,Economy,5645
+AK-9547,Akasa Air,JAI,Jaipur,BLR,Bengaluru,20:05,22:08,2h 3m,0,Economy,4975
+VI-9387,Vistara,JAI,Jaipur,CCU,Kolkata,05:25,06:45,1h 20m,0,Economy,3921
+VI-9387,Vistara,JAI,Jaipur,CCU,Kolkata,05:25,06:45,1h 20m,0,Business,15062
+AI-8436,Air India,JAI,Jaipur,MAA,Chennai,00:00,02:49,2h 49m,0,Economy,4501
+AI-8436,Air India,JAI,Jaipur,MAA,Chennai,00:00,02:49,2h 49m,0,Business,11562
+VI-2558,Vistara,JAI,Jaipur,HYD,Hyderabad,05:00,07:10,2h 10m,0,Economy,6424
+VI-2558,Vistara,JAI,Jaipur,HYD,Hyderabad,05:00,07:10,2h 10m,0,Business,23197
+VI-3778,Vistara,JAI,Jaipur,HYD,Hyderabad,10:15,12:08,1h 53m,0,Economy,4810
+VI-3778,Vistara,JAI,Jaipur,HYD,Hyderabad,10:15,12:08,1h 53m,0,Business,13982
+AI-6208,AI Express,JAI,Jaipur,PNQ,Pune,03:40,06:06,2h 26m,0,Economy,4234
+AI-852,AI Express,JAI,Jaipur,AMD,Ahmedabad,12:05,14:57,2h 52m,0,Economy,4656
+AK-1515,Akasa Air,JAI,Jaipur,COK,Kochi,17:35,18:36,1h 1m,0,Economy,4694
+AI-5079,AI Express,JAI,Jaipur,COK,Kochi,23:45,01:16,1h 31m,0,Economy,5923
+AI-9054,Air India,JAI,Jaipur,GOI,Goa,07:10,08:10,1h 0m,0,Economy,3597
+AI-9054,Air India,JAI,Jaipur,GOI,Goa,07:10,08:10,1h 0m,0,Business,10249
+AK-257,Akasa Air,JAI,Jaipur,GOI,Goa,10:00,12:37,2h 37m,0,Economy,6977
+IN-3461,IndiGo,JAI,Jaipur,LKO,Lucknow,16:15,18:08,1h 53m,0,Economy,3745
+AI-4684,Air India,JAI,Jaipur,LKO,Lucknow,02:00,04:57,2h 57m,0,Economy,6963
+AI-4684,Air India,JAI,Jaipur,LKO,Lucknow,02:00,04:57,2h 57m,0,Business,22836
+VI-1491,Vistara,JAI,Jaipur,GAU,Guwahati,18:05,20:09,3h 43m,1,Economy,8665
+VI-1491,Vistara,JAI,Jaipur,GAU,Guwahati,18:05,20:09,3h 43m,1,Business,29355
+IN-7226,IndiGo,JAI,Jaipur,GAU,Guwahati,21:10,22:40,1h 30m,0,Economy,6985
+VI-5445,Vistara,JAI,Jaipur,PAT,Patna,10:35,12:09,1h 34m,0,Economy,7364
+VI-5445,Vistara,JAI,Jaipur,PAT,Patna,10:35,12:09,1h 34m,0,Business,20649
+AI-1885,AI Express,JAI,Jaipur,PAT,Patna,04:05,05:26,1h 21m,0,Economy,4786
+IN-8880,IndiGo,JAI,Jaipur,BBI,Bhubaneswar,11:15,13:12,1h 57m,0,Economy,4585
+IN-1581,IndiGo,JAI,Jaipur,BBI,Bhubaneswar,05:50,07:28,1h 38m,0,Economy,6354
+AI-5470,Air India,JAI,Jaipur,TRV,Thiruvananthapuram,04:05,06:36,2h 31m,0,Economy,4957
+AI-5470,Air India,JAI,Jaipur,TRV,Thiruvananthapuram,04:05,06:36,2h 31m,0,Business,15338
+SP-4996,SpiceJet,JAI,Jaipur,IXC,Chandigarh,08:10,09:13,1h 3m,0,Economy,7000
+AI-9113,AI Express,JAI,Jaipur,SXR,Srinagar,07:05,09:04,3h 44m,1,Economy,8037
+IN-1110,IndiGo,JAI,Jaipur,SXR,Srinagar,07:10,08:35,1h 25m,0,Economy,5024
+AI-9702,AI Express,JAI,Jaipur,IXB,Bagdogra,08:05,09:07,1h 2m,0,Economy,4309
+AI-1606,Air India,JAI,Jaipur,VNS,Varanasi,10:05,11:10,1h 5m,0,Economy,3707
+AI-1606,Air India,JAI,Jaipur,VNS,Varanasi,10:05,11:10,1h 5m,0,Business,10201
+AI-7196,AI Express,JAI,Jaipur,VNS,Varanasi,23:30,01:33,3h 55m,1,Economy,8171
+AI-3166,Air India,JAI,Jaipur,IXJ,Jammu,08:20,10:17,1h 57m,0,Economy,3641
+AI-3166,Air India,JAI,Jaipur,IXJ,Jammu,08:20,10:17,1h 57m,0,Business,12456
+AI-4126,AI Express,JAI,Jaipur,IXJ,Jammu,20:20,22:23,2h 3m,0,Economy,5755
+IN-1537,IndiGo,JAI,Jaipur,RPR,Raipur,08:30,09:47,1h 17m,0,Economy,6132
+AI-4182,AI Express,JAI,Jaipur,RPR,Raipur,20:40,23:21,4h 56m,1,Economy,7526
+AI-8040,AI Express,JAI,Jaipur,RNC,Ranchi,11:45,13:49,2h 4m,0,Economy,4607
+AI-527,Air India,JAI,Jaipur,RNC,Ranchi,10:45,12:13,3h 5m,1,Economy,8395
+AI-527,Air India,JAI,Jaipur,RNC,Ranchi,10:45,12:13,3h 5m,1,Business,31170
+AI-5956,AI Express,JAI,Jaipur,NAG,Nagpur,18:15,19:35,3h 24m,1,Economy,7683
+AI-1016,AI Express,JAI,Jaipur,NAG,Nagpur,07:45,10:33,2h 48m,0,Economy,5090
+AI-2985,Air India,JAI,Jaipur,IDR,Indore,07:45,09:25,1h 40m,0,Economy,6357
+AI-2985,Air India,JAI,Jaipur,IDR,Indore,07:45,09:25,1h 40m,0,Business,19313
+AI-562,AI Express,JAI,Jaipur,IDR,Indore,22:55,00:40,1h 45m,0,Economy,5808
+AI-3184,AI Express,LKO,Lucknow,DEL,Delhi,15:40,17:19,1h 39m,0,Economy,3655
+IN-3911,IndiGo,LKO,Lucknow,BOM,Mumbai,19:15,20:17,1h 2m,0,Economy,3502
+AI-3400,AI Express,LKO,Lucknow,BLR,Bengaluru,04:25,06:56,2h 31m,0,Economy,6786
+AK-1075,Akasa Air,LKO,Lucknow,BLR,Bengaluru,00:10,02:25,2h 15m,0,Economy,4080
+AI-6078,AI Express,LKO,Lucknow,CCU,Kolkata,02:25,04:55,2h 30m,0,Economy,5120
+AK-5044,Akasa Air,LKO,Lucknow,MAA,Chennai,10:10,11:30,1h 20m,0,Economy,5289
+SP-5298,SpiceJet,LKO,Lucknow,HYD,Hyderabad,05:55,08:06,2h 11m,0,Economy,7304
+AI-5946,AI Express,LKO,Lucknow,HYD,Hyderabad,07:50,10:05,2h 15m,0,Economy,5049
+SP-4925,SpiceJet,LKO,Lucknow,PNQ,Pune,04:10,06:43,4h 53m,1,Economy,8548
+AI-630,AI Express,LKO,Lucknow,PNQ,Pune,05:45,07:25,1h 40m,0,Economy,7463
+SP-9365,SpiceJet,LKO,Lucknow,AMD,Ahmedabad,03:35,04:53,1h 18m,0,Economy,3818
+AK-5334,Akasa Air,LKO,Lucknow,COK,Kochi,05:50,08:43,2h 53m,0,Economy,6865
+VI-286,Vistara,LKO,Lucknow,GOI,Goa,08:15,09:46,1h 31m,0,Economy,4935
+VI-286,Vistara,LKO,Lucknow,GOI,Goa,08:15,09:46,1h 31m,0,Business,14237
+IN-120,IndiGo,LKO,Lucknow,GOI,Goa,01:30,03:26,1h 56m,0,Economy,7469
+VI-8178,Vistara,LKO,Lucknow,JAI,Jaipur,12:25,14:34,2h 9m,0,Economy,6894
+VI-8178,Vistara,LKO,Lucknow,JAI,Jaipur,12:25,14:34,2h 9m,0,Business,22193
+AI-7493,Air India,LKO,Lucknow,GAU,Guwahati,02:00,03:37,3h 16m,1,Economy,5783
+AI-7493,Air India,LKO,Lucknow,GAU,Guwahati,02:00,03:37,3h 16m,1,Business,17422
+AI-1328,Air India,LKO,Lucknow,PAT,Patna,17:05,18:48,1h 43m,0,Economy,6013
+AI-1328,Air India,LKO,Lucknow,PAT,Patna,17:05,18:48,1h 43m,0,Business,23088
+SP-607,SpiceJet,LKO,Lucknow,PAT,Patna,13:50,15:11,1h 21m,0,Economy,5278
+IN-1759,IndiGo,LKO,Lucknow,BBI,Bhubaneswar,10:15,11:39,1h 24m,0,Economy,5769
+SP-4712,SpiceJet,LKO,Lucknow,TRV,Thiruvananthapuram,09:15,10:27,3h 44m,1,Economy,7966
+AI-993,Air India,LKO,Lucknow,TRV,Thiruvananthapuram,11:00,12:54,4h 44m,1,Economy,9229
+AI-993,Air India,LKO,Lucknow,TRV,Thiruvananthapuram,11:00,12:54,4h 44m,1,Business,31381
+IN-521,IndiGo,LKO,Lucknow,IXC,Chandigarh,06:10,08:31,2h 21m,0,Economy,3835
+IN-5152,IndiGo,LKO,Lucknow,SXR,Srinagar,12:35,14:37,2h 2m,0,Economy,4585
+IN-9014,IndiGo,LKO,Lucknow,SXR,Srinagar,12:10,13:57,1h 47m,0,Economy,5013
+VI-831,Vistara,LKO,Lucknow,IXB,Bagdogra,08:35,10:34,1h 59m,0,Economy,6928
+VI-831,Vistara,LKO,Lucknow,IXB,Bagdogra,08:35,10:34,1h 59m,0,Business,20110
+AI-1684,Air India,LKO,Lucknow,VNS,Varanasi,02:50,04:34,1h 44m,0,Economy,5195
+AI-1684,Air India,LKO,Lucknow,VNS,Varanasi,02:50,04:34,1h 44m,0,Business,20551
+AI-1099,AI Express,LKO,Lucknow,IXJ,Jammu,12:40,14:33,1h 53m,0,Economy,6314
+AI-3960,AI Express,LKO,Lucknow,RPR,Raipur,15:20,16:30,1h 10m,0,Economy,6997
+SP-668,SpiceJet,LKO,Lucknow,RPR,Raipur,16:45,19:40,2h 55m,0,Economy,5840
+IN-7457,IndiGo,LKO,Lucknow,RNC,Ranchi,05:10,06:37,1h 27m,0,Economy,4016
+VI-1383,Vistara,LKO,Lucknow,NAG,Nagpur,21:30,22:55,1h 25m,0,Economy,6069
+VI-1383,Vistara,LKO,Lucknow,NAG,Nagpur,21:30,22:55,1h 25m,0,Business,16518
+AK-1197,Akasa Air,LKO,Lucknow,IDR,Indore,02:30,04:41,2h 11m,0,Economy,4835
+AK-8614,Akasa Air,LKO,Lucknow,IDR,Indore,14:00,16:40,2h 40m,0,Economy,5906
+IN-6890,IndiGo,GAU,Guwahati,DEL,Delhi,04:10,06:22,2h 12m,0,Economy,6606
+IN-1830,IndiGo,GAU,Guwahati,DEL,Delhi,18:05,20:45,2h 40m,0,Economy,5693
+VI-4427,Vistara,GAU,Guwahati,BOM,Mumbai,12:50,14:52,2h 2m,0,Economy,5437
+VI-4427,Vistara,GAU,Guwahati,BOM,Mumbai,12:50,14:52,2h 2m,0,Business,13898
+AK-6702,Akasa Air,GAU,Guwahati,BOM,Mumbai,04:45,07:02,2h 17m,0,Economy,5145
+VI-5531,Vistara,GAU,Guwahati,BLR,Bengaluru,22:15,23:21,1h 6m,0,Economy,7271
+VI-5531,Vistara,GAU,Guwahati,BLR,Bengaluru,22:15,23:21,1h 6m,0,Business,21106
+IN-5635,IndiGo,GAU,Guwahati,CCU,Kolkata,09:20,10:55,1h 35m,0,Economy,7015
+SP-1709,SpiceJet,GAU,Guwahati,CCU,Kolkata,07:10,08:48,1h 38m,0,Economy,5314
+AK-6928,Akasa Air,GAU,Guwahati,MAA,Chennai,19:50,21:01,1h 11m,0,Economy,4365
+VI-8037,Vistara,GAU,Guwahati,MAA,Chennai,16:25,19:10,4h 23m,1,Economy,8066
+VI-8037,Vistara,GAU,Guwahati,MAA,Chennai,16:25,19:10,4h 23m,1,Business,23929
+AI-8689,Air India,GAU,Guwahati,HYD,Hyderabad,18:00,19:22,1h 22m,0,Economy,6911
+AI-8689,Air India,GAU,Guwahati,HYD,Hyderabad,18:00,19:22,1h 22m,0,Business,19358
+IN-4187,IndiGo,GAU,Guwahati,HYD,Hyderabad,01:35,02:41,1h 6m,0,Economy,6386
+AK-6135,Akasa Air,GAU,Guwahati,PNQ,Pune,14:40,16:30,1h 50m,0,Economy,4007
+AI-6202,Air India,GAU,Guwahati,AMD,Ahmedabad,15:45,17:42,1h 57m,0,Economy,7065
+AI-6202,Air India,GAU,Guwahati,AMD,Ahmedabad,15:45,17:42,1h 57m,0,Business,22691
+AK-2779,Akasa Air,GAU,Guwahati,COK,Kochi,08:55,11:41,2h 46m,0,Economy,4667
+IN-6433,IndiGo,GAU,Guwahati,COK,Kochi,01:10,03:59,2h 49m,0,Economy,7452
+AI-3788,Air India,GAU,Guwahati,GOI,Goa,21:15,22:49,1h 34m,0,Economy,5602
+AI-3788,Air India,GAU,Guwahati,GOI,Goa,21:15,22:49,1h 34m,0,Business,14173
+VI-2267,Vistara,GAU,Guwahati,JAI,Jaipur,20:10,22:26,2h 16m,0,Economy,4416
+VI-2267,Vistara,GAU,Guwahati,JAI,Jaipur,20:10,22:26,2h 16m,0,Business,12711
+SP-4611,SpiceJet,GAU,Guwahati,LKO,Lucknow,13:30,16:19,2h 49m,0,Economy,4532
+AI-7746,Air India,GAU,Guwahati,LKO,Lucknow,09:50,11:56,2h 6m,0,Economy,5126
+AI-7746,Air India,GAU,Guwahati,LKO,Lucknow,09:50,11:56,2h 6m,0,Business,17309
+AI-6231,AI Express,GAU,Guwahati,PAT,Patna,17:50,20:06,2h 16m,0,Economy,4722
+VI-1145,Vistara,GAU,Guwahati,BBI,Bhubaneswar,10:20,12:41,2h 21m,0,Economy,4634
+VI-1145,Vistara,GAU,Guwahati,BBI,Bhubaneswar,10:20,12:41,2h 21m,0,Business,13400
+AI-2556,Air India,GAU,Guwahati,TRV,Thiruvananthapuram,16:15,19:10,5h 16m,1,Economy,9239
+AI-2556,Air India,GAU,Guwahati,TRV,Thiruvananthapuram,16:15,19:10,5h 16m,1,Business,32251
+SP-2392,SpiceJet,GAU,Guwahati,TRV,Thiruvananthapuram,23:00,01:23,2h 23m,0,Economy,4710
+VI-6728,Vistara,GAU,Guwahati,IXC,Chandigarh,12:55,13:59,1h 4m,0,Economy,5843
+VI-6728,Vistara,GAU,Guwahati,IXC,Chandigarh,12:55,13:59,1h 4m,0,Business,21759
+AK-3743,Akasa Air,GAU,Guwahati,IXC,Chandigarh,21:40,00:01,2h 21m,0,Economy,7213
+AI-5018,AI Express,GAU,Guwahati,SXR,Srinagar,05:50,08:42,2h 52m,0,Economy,4703
+IN-7813,IndiGo,GAU,Guwahati,SXR,Srinagar,04:55,06:28,1h 33m,0,Economy,5789
+SP-5599,SpiceJet,GAU,Guwahati,IXB,Bagdogra,20:05,21:33,1h 28m,0,Economy,6548
+VI-5528,Vistara,GAU,Guwahati,VNS,Varanasi,11:20,13:34,2h 14m,0,Economy,6986
+VI-5528,Vistara,GAU,Guwahati,VNS,Varanasi,11:20,13:34,2h 14m,0,Business,18699
+IN-9661,IndiGo,GAU,Guwahati,VNS,Varanasi,18:45,19:54,1h 9m,0,Economy,4296
+SP-6353,SpiceJet,GAU,Guwahati,IXJ,Jammu,16:20,18:12,3h 39m,1,Economy,8306
+AK-6804,Akasa Air,GAU,Guwahati,RPR,Raipur,18:35,19:53,1h 18m,0,Economy,6431
+IN-8088,IndiGo,GAU,Guwahati,RNC,Ranchi,10:50,12:12,1h 22m,0,Economy,3737
+VI-4581,Vistara,GAU,Guwahati,NAG,Nagpur,06:10,08:23,2h 13m,0,Economy,5505
+VI-4581,Vistara,GAU,Guwahati,NAG,Nagpur,06:10,08:23,2h 13m,0,Business,20246
+AI-7205,Air India,GAU,Guwahati,IDR,Indore,20:30,22:21,1h 51m,0,Economy,5455
+AI-7205,Air India,GAU,Guwahati,IDR,Indore,20:30,22:21,1h 51m,0,Business,16773
+AI-3367,AI Express,PAT,Patna,DEL,Delhi,23:25,00:26,1h 1m,0,Economy,6600
+IN-167,IndiGo,PAT,Patna,BOM,Mumbai,20:55,22:26,1h 31m,0,Economy,7092
+AK-2212,Akasa Air,PAT,Patna,BLR,Bengaluru,03:30,05:34,2h 4m,0,Economy,4184
+IN-849,IndiGo,PAT,Patna,BLR,Bengaluru,09:20,11:18,1h 58m,0,Economy,5942
+VI-2292,Vistara,PAT,Patna,CCU,Kolkata,10:35,12:20,1h 45m,0,Economy,4175
+VI-2292,Vistara,PAT,Patna,CCU,Kolkata,10:35,12:20,1h 45m,0,Business,16374
+VI-413,Vistara,PAT,Patna,CCU,Kolkata,07:15,09:48,2h 33m,0,Economy,4365
+VI-413,Vistara,PAT,Patna,CCU,Kolkata,07:15,09:48,2h 33m,0,Business,15718
+IN-6106,IndiGo,PAT,Patna,MAA,Chennai,22:50,01:31,4h 43m,1,Economy,9401
+AI-885,AI Express,PAT,Patna,HYD,Hyderabad,21:05,23:28,2h 23m,0,Economy,3697
+VI-7379,Vistara,PAT,Patna,PNQ,Pune,12:05,14:15,2h 10m,0,Economy,6374
+VI-7379,Vistara,PAT,Patna,PNQ,Pune,12:05,14:15,2h 10m,0,Business,17399
+AK-6995,Akasa Air,PAT,Patna,AMD,Ahmedabad,21:05,23:29,2h 24m,0,Economy,6050
+VI-1818,Vistara,PAT,Patna,COK,Kochi,16:55,19:14,4h 52m,1,Economy,5183
+VI-1818,Vistara,PAT,Patna,COK,Kochi,16:55,19:14,4h 52m,1,Business,14501
+AK-8671,Akasa Air,PAT,Patna,GOI,Goa,06:25,08:55,2h 30m,0,Economy,4156
+AI-8232,AI Express,PAT,Patna,JAI,Jaipur,06:55,09:54,2h 59m,0,Economy,4460
+IN-1558,IndiGo,PAT,Patna,LKO,Lucknow,03:45,06:10,2h 25m,0,Economy,7388
+AI-1329,AI Express,PAT,Patna,GAU,Guwahati,23:55,01:07,1h 12m,0,Economy,6139
+VI-4950,Vistara,PAT,Patna,BBI,Bhubaneswar,08:35,09:41,3h 13m,1,Economy,5295
+VI-4950,Vistara,PAT,Patna,BBI,Bhubaneswar,08:35,09:41,3h 13m,1,Business,16098
+VI-1998,Vistara,PAT,Patna,TRV,Thiruvananthapuram,03:00,04:01,1h 1m,0,Economy,6217
+VI-1998,Vistara,PAT,Patna,TRV,Thiruvananthapuram,03:00,04:01,1h 1m,0,Business,21577
+AK-5957,Akasa Air,PAT,Patna,TRV,Thiruvananthapuram,14:45,16:19,1h 34m,0,Economy,3880
+AK-3096,Akasa Air,PAT,Patna,IXC,Chandigarh,03:30,05:21,1h 51m,0,Economy,4613
+VI-7935,Vistara,PAT,Patna,IXC,Chandigarh,13:50,16:43,2h 53m,0,Economy,3963
+VI-7935,Vistara,PAT,Patna,IXC,Chandigarh,13:50,16:43,2h 53m,0,Business,10695
+AI-1799,Air India,PAT,Patna,SXR,Srinagar,13:45,15:46,2h 1m,0,Economy,6278
+AI-1799,Air India,PAT,Patna,SXR,Srinagar,13:45,15:46,2h 1m,0,Business,19821
+AK-572,Akasa Air,PAT,Patna,IXB,Bagdogra,21:55,00:49,4h 38m,1,Economy,9268
+VI-7320,Vistara,PAT,Patna,IXB,Bagdogra,01:05,02:38,1h 33m,0,Economy,3550
+VI-7320,Vistara,PAT,Patna,IXB,Bagdogra,01:05,02:38,1h 33m,0,Business,12626
+SP-5642,SpiceJet,PAT,Patna,VNS,Varanasi,16:40,19:08,2h 28m,0,Economy,3890
+SP-4172,SpiceJet,PAT,Patna,IXJ,Jammu,15:25,17:49,2h 24m,0,Economy,5076
+AI-9247,Air India,PAT,Patna,IXJ,Jammu,19:00,20:01,1h 1m,0,Economy,4142
+AI-9247,Air India,PAT,Patna,IXJ,Jammu,19:00,20:01,1h 1m,0,Business,13496
+VI-2809,Vistara,PAT,Patna,RPR,Raipur,02:35,04:16,1h 41m,0,Economy,7473
+VI-2809,Vistara,PAT,Patna,RPR,Raipur,02:35,04:16,1h 41m,0,Business,21800
+AI-3748,AI Express,PAT,Patna,RPR,Raipur,17:50,19:38,1h 48m,0,Economy,4462
+VI-7377,Vistara,PAT,Patna,RNC,Ranchi,18:35,19:46,1h 11m,0,Economy,5331
+VI-7377,Vistara,PAT,Patna,RNC,Ranchi,18:35,19:46,1h 11m,0,Business,15854
+SP-391,SpiceJet,PAT,Patna,NAG,Nagpur,03:30,05:22,3h 33m,1,Economy,6749
+AI-5090,AI Express,PAT,Patna,NAG,Nagpur,16:40,18:06,1h 26m,0,Economy,5368
+AK-989,Akasa Air,PAT,Patna,IDR,Indore,07:35,09:17,1h 42m,0,Economy,6038
+AI-7851,AI Express,PAT,Patna,IDR,Indore,22:50,00:36,1h 46m,0,Economy,3967
+SP-3733,SpiceJet,BBI,Bhubaneswar,DEL,Delhi,00:25,02:10,1h 45m,0,Economy,7450
+AI-8652,AI Express,BBI,Bhubaneswar,BOM,Mumbai,11:55,13:08,3h 0m,1,Economy,6180
+SP-6804,SpiceJet,BBI,Bhubaneswar,BOM,Mumbai,03:20,05:38,2h 18m,0,Economy,3994
+AI-7588,Air India,BBI,Bhubaneswar,BLR,Bengaluru,06:55,08:38,4h 34m,1,Economy,6292
+AI-7588,Air India,BBI,Bhubaneswar,BLR,Bengaluru,06:55,08:38,4h 34m,1,Business,23634
+AI-2118,AI Express,BBI,Bhubaneswar,BLR,Bengaluru,14:35,16:59,2h 24m,0,Economy,5565
+VI-171,Vistara,BBI,Bhubaneswar,CCU,Kolkata,16:55,18:01,1h 6m,0,Economy,5272
+VI-171,Vistara,BBI,Bhubaneswar,CCU,Kolkata,16:55,18:01,1h 6m,0,Business,19813
+AI-3003,AI Express,BBI,Bhubaneswar,MAA,Chennai,22:45,00:07,1h 22m,0,Economy,4025
+IN-6447,IndiGo,BBI,Bhubaneswar,MAA,Chennai,21:45,00:02,2h 17m,0,Economy,5564
+VI-4167,Vistara,BBI,Bhubaneswar,HYD,Hyderabad,08:30,10:13,1h 43m,0,Economy,5354
+VI-4167,Vistara,BBI,Bhubaneswar,HYD,Hyderabad,08:30,10:13,1h 43m,0,Business,19848
+AI-6862,Air India,BBI,Bhubaneswar,HYD,Hyderabad,19:55,22:48,2h 53m,0,Economy,4724
+AI-6862,Air India,BBI,Bhubaneswar,HYD,Hyderabad,19:55,22:48,2h 53m,0,Business,17784
+SP-9169,SpiceJet,BBI,Bhubaneswar,PNQ,Pune,20:15,21:40,1h 25m,0,Economy,6426
+AK-5757,Akasa Air,BBI,Bhubaneswar,PNQ,Pune,21:10,23:40,2h 30m,0,Economy,7425
+AI-8988,AI Express,BBI,Bhubaneswar,AMD,Ahmedabad,22:50,00:31,1h 41m,0,Economy,6616
+AI-7970,AI Express,BBI,Bhubaneswar,COK,Kochi,18:45,21:45,3h 0m,0,Economy,5209
+SP-8847,SpiceJet,BBI,Bhubaneswar,COK,Kochi,09:30,12:13,5h 1m,1,Economy,4987
+IN-1027,IndiGo,BBI,Bhubaneswar,GOI,Goa,06:20,08:56,2h 36m,0,Economy,4673
+AI-1116,Air India,BBI,Bhubaneswar,JAI,Jaipur,22:20,23:46,1h 26m,0,Economy,3632
+AI-1116,Air India,BBI,Bhubaneswar,JAI,Jaipur,22:20,23:46,1h 26m,0,Business,11034
+VI-1779,Vistara,BBI,Bhubaneswar,JAI,Jaipur,19:50,22:24,2h 34m,0,Economy,4418
+VI-1779,Vistara,BBI,Bhubaneswar,JAI,Jaipur,19:50,22:24,2h 34m,0,Business,15964
+AI-8470,Air India,BBI,Bhubaneswar,LKO,Lucknow,22:20,00:48,2h 28m,0,Economy,7294
+AI-8470,Air India,BBI,Bhubaneswar,LKO,Lucknow,22:20,00:48,2h 28m,0,Business,22409
+VI-5222,Vistara,BBI,Bhubaneswar,LKO,Lucknow,17:00,18:01,1h 1m,0,Economy,4331
+VI-5222,Vistara,BBI,Bhubaneswar,LKO,Lucknow,17:00,18:01,1h 1m,0,Business,14858
+AI-6125,Air India,BBI,Bhubaneswar,GAU,Guwahati,18:40,21:14,2h 34m,0,Economy,6679
+AI-6125,Air India,BBI,Bhubaneswar,GAU,Guwahati,18:40,21:14,2h 34m,0,Business,23960
+AI-4919,Air India,BBI,Bhubaneswar,GAU,Guwahati,14:10,16:37,5h 2m,1,Economy,8797
+AI-4919,Air India,BBI,Bhubaneswar,GAU,Guwahati,14:10,16:37,5h 2m,1,Business,23567
+VI-4672,Vistara,BBI,Bhubaneswar,PAT,Patna,17:20,18:36,1h 16m,0,Economy,6965
+VI-4672,Vistara,BBI,Bhubaneswar,PAT,Patna,17:20,18:36,1h 16m,0,Business,20076
+VI-2636,Vistara,BBI,Bhubaneswar,TRV,Thiruvananthapuram,01:10,04:08,2h 58m,0,Economy,3708
+VI-2636,Vistara,BBI,Bhubaneswar,TRV,Thiruvananthapuram,01:10,04:08,2h 58m,0,Business,13573
+SP-5034,SpiceJet,BBI,Bhubaneswar,TRV,Thiruvananthapuram,15:45,17:55,2h 10m,0,Economy,6711
+AI-3703,AI Express,BBI,Bhubaneswar,IXC,Chandigarh,05:40,06:48,1h 8m,0,Economy,4152
+VI-8997,Vistara,BBI,Bhubaneswar,IXC,Chandigarh,17:30,18:41,1h 11m,0,Economy,7118
+VI-8997,Vistara,BBI,Bhubaneswar,IXC,Chandigarh,17:30,18:41,1h 11m,0,Business,20072
+AK-6011,Akasa Air,BBI,Bhubaneswar,SXR,Srinagar,09:15,11:51,2h 36m,0,Economy,5445
+AI-244,AI Express,BBI,Bhubaneswar,SXR,Srinagar,03:50,05:34,1h 44m,0,Economy,7204
+IN-5358,IndiGo,BBI,Bhubaneswar,IXB,Bagdogra,12:05,13:54,1h 49m,0,Economy,6465
+IN-8568,IndiGo,BBI,Bhubaneswar,VNS,Varanasi,11:40,14:22,2h 42m,0,Economy,5493
+IN-4956,IndiGo,BBI,Bhubaneswar,VNS,Varanasi,20:15,21:56,1h 41m,0,Economy,7383
+AI-8914,Air India,BBI,Bhubaneswar,IXJ,Jammu,17:00,19:20,4h 17m,1,Economy,8534
+AI-8914,Air India,BBI,Bhubaneswar,IXJ,Jammu,17:00,19:20,4h 17m,1,Business,32407
+IN-3468,IndiGo,BBI,Bhubaneswar,RPR,Raipur,17:55,20:47,2h 52m,0,Economy,6675
+VI-1281,Vistara,BBI,Bhubaneswar,RPR,Raipur,23:50,01:09,2h 53m,1,Economy,8115
+VI-1281,Vistara,BBI,Bhubaneswar,RPR,Raipur,23:50,01:09,2h 53m,1,Business,21352
+AI-4227,Air India,BBI,Bhubaneswar,RNC,Ranchi,17:05,19:18,2h 13m,0,Economy,7231
+AI-4227,Air India,BBI,Bhubaneswar,RNC,Ranchi,17:05,19:18,2h 13m,0,Business,20882
+VI-6726,Vistara,BBI,Bhubaneswar,NAG,Nagpur,13:25,14:27,1h 2m,0,Economy,3984
+VI-6726,Vistara,BBI,Bhubaneswar,NAG,Nagpur,13:25,14:27,1h 2m,0,Business,13156
+SP-1136,SpiceJet,BBI,Bhubaneswar,NAG,Nagpur,23:45,00:50,1h 5m,0,Economy,3797
+AI-1838,AI Express,BBI,Bhubaneswar,IDR,Indore,09:50,11:28,1h 38m,0,Economy,4653
+VI-6349,Vistara,BBI,Bhubaneswar,IDR,Indore,12:50,13:53,1h 3m,0,Economy,5685
+VI-6349,Vistara,BBI,Bhubaneswar,IDR,Indore,12:50,13:53,1h 3m,0,Business,16087
+AI-4932,AI Express,TRV,Thiruvananthapuram,DEL,Delhi,20:10,21:48,1h 38m,0,Economy,7244
+SP-6213,SpiceJet,TRV,Thiruvananthapuram,DEL,Delhi,00:40,03:31,2h 51m,0,Economy,4004
+IN-9483,IndiGo,TRV,Thiruvananthapuram,BOM,Mumbai,19:30,21:38,2h 8m,0,Economy,3848
+AI-5733,Air India,TRV,Thiruvananthapuram,BLR,Bengaluru,06:30,09:25,2h 55m,0,Economy,5599
+AI-5733,Air India,TRV,Thiruvananthapuram,BLR,Bengaluru,06:30,09:25,2h 55m,0,Business,15193
+AI-3717,Air India,TRV,Thiruvananthapuram,BLR,Bengaluru,19:20,20:44,3h 0m,1,Economy,8409
+AI-3717,Air India,TRV,Thiruvananthapuram,BLR,Bengaluru,19:20,20:44,3h 0m,1,Business,31761
+SP-9105,SpiceJet,TRV,Thiruvananthapuram,CCU,Kolkata,02:20,04:45,5h 9m,1,Economy,5306
+VI-5520,Vistara,TRV,Thiruvananthapuram,CCU,Kolkata,11:10,13:35,2h 25m,0,Economy,3909
+VI-5520,Vistara,TRV,Thiruvananthapuram,CCU,Kolkata,11:10,13:35,2h 25m,0,Business,11444
+AI-5306,Air India,TRV,Thiruvananthapuram,MAA,Chennai,15:35,17:17,1h 42m,0,Economy,4752
+AI-5306,Air India,TRV,Thiruvananthapuram,MAA,Chennai,15:35,17:17,1h 42m,0,Business,16822
+AI-9387,AI Express,TRV,Thiruvananthapuram,HYD,Hyderabad,11:25,13:19,1h 54m,0,Economy,4782
+AI-7245,Air India,TRV,Thiruvananthapuram,PNQ,Pune,08:25,09:42,1h 17m,0,Economy,4858
+AI-7245,Air India,TRV,Thiruvananthapuram,PNQ,Pune,08:25,09:42,1h 17m,0,Business,18542
+VI-5977,Vistara,TRV,Thiruvananthapuram,AMD,Ahmedabad,09:35,11:45,3h 50m,1,Economy,8386
+VI-5977,Vistara,TRV,Thiruvananthapuram,AMD,Ahmedabad,09:35,11:45,3h 50m,1,Business,31553
+AI-8924,Air India,TRV,Thiruvananthapuram,AMD,Ahmedabad,06:20,08:53,2h 33m,0,Economy,3813
+AI-8924,Air India,TRV,Thiruvananthapuram,AMD,Ahmedabad,06:20,08:53,2h 33m,0,Business,13693
+AI-611,AI Express,TRV,Thiruvananthapuram,COK,Kochi,18:45,20:36,1h 51m,0,Economy,4371
+AI-4369,AI Express,TRV,Thiruvananthapuram,GOI,Goa,17:40,19:40,2h 0m,0,Economy,4108
+VI-3758,Vistara,TRV,Thiruvananthapuram,JAI,Jaipur,18:55,21:44,2h 49m,0,Economy,5403
+VI-3758,Vistara,TRV,Thiruvananthapuram,JAI,Jaipur,18:55,21:44,2h 49m,0,Business,17568
+IN-6600,IndiGo,TRV,Thiruvananthapuram,JAI,Jaipur,11:40,12:41,1h 1m,0,Economy,6973
+AI-2399,AI Express,TRV,Thiruvananthapuram,LKO,Lucknow,14:10,15:32,1h 22m,0,Economy,5817
+SP-8021,SpiceJet,TRV,Thiruvananthapuram,GAU,Guwahati,11:00,12:28,1h 28m,0,Economy,4449
+AK-6152,Akasa Air,TRV,Thiruvananthapuram,PAT,Patna,07:00,09:25,2h 25m,0,Economy,7218
+VI-7795,Vistara,TRV,Thiruvananthapuram,BBI,Bhubaneswar,14:00,15:05,1h 5m,0,Economy,4827
+VI-7795,Vistara,TRV,Thiruvananthapuram,BBI,Bhubaneswar,14:00,15:05,1h 5m,0,Business,12814
+AI-4580,AI Express,TRV,Thiruvananthapuram,BBI,Bhubaneswar,23:20,01:34,2h 14m,0,Economy,4212
+SP-6301,SpiceJet,TRV,Thiruvananthapuram,IXC,Chandigarh,11:45,14:08,2h 23m,0,Economy,3818
+AI-4221,AI Express,TRV,Thiruvananthapuram,IXC,Chandigarh,12:15,14:21,2h 6m,0,Economy,6847
+VI-7998,Vistara,TRV,Thiruvananthapuram,SXR,Srinagar,19:00,21:04,2h 4m,0,Economy,5301
+VI-7998,Vistara,TRV,Thiruvananthapuram,SXR,Srinagar,19:00,21:04,2h 4m,0,Business,14569
+IN-8530,IndiGo,TRV,Thiruvananthapuram,SXR,Srinagar,20:20,21:47,1h 27m,0,Economy,4144
+AI-2038,AI Express,TRV,Thiruvananthapuram,IXB,Bagdogra,21:15,23:08,1h 53m,0,Economy,6450
+IN-7989,IndiGo,TRV,Thiruvananthapuram,IXB,Bagdogra,21:35,23:36,2h 1m,0,Economy,4160
+IN-4092,IndiGo,TRV,Thiruvananthapuram,VNS,Varanasi,01:10,03:23,2h 13m,0,Economy,4051
+SP-8499,SpiceJet,TRV,Thiruvananthapuram,VNS,Varanasi,01:45,03:03,3h 54m,1,Economy,5925
+AI-9334,AI Express,TRV,Thiruvananthapuram,IXJ,Jammu,20:00,22:52,2h 52m,0,Economy,6210
+AK-1504,Akasa Air,TRV,Thiruvananthapuram,IXJ,Jammu,06:35,08:52,2h 17m,0,Economy,7052
+AI-3694,Air India,TRV,Thiruvananthapuram,RPR,Raipur,13:45,15:03,1h 18m,0,Economy,6860
+AI-3694,Air India,TRV,Thiruvananthapuram,RPR,Raipur,13:45,15:03,1h 18m,0,Business,25047
+AI-8469,AI Express,TRV,Thiruvananthapuram,RPR,Raipur,08:10,10:42,2h 32m,0,Economy,7277
+AI-9776,AI Express,TRV,Thiruvananthapuram,RNC,Ranchi,02:15,04:03,1h 48m,0,Economy,3944
+IN-3415,IndiGo,TRV,Thiruvananthapuram,RNC,Ranchi,16:40,19:07,2h 27m,0,Economy,4112
+AI-7896,Air India,TRV,Thiruvananthapuram,NAG,Nagpur,19:45,20:49,1h 4m,0,Economy,5676
+AI-7896,Air India,TRV,Thiruvananthapuram,NAG,Nagpur,19:45,20:49,1h 4m,0,Business,18475
+IN-8001,IndiGo,TRV,Thiruvananthapuram,IDR,Indore,21:10,00:05,2h 55m,0,Economy,6889
+SP-7169,SpiceJet,IXC,Chandigarh,DEL,Delhi,16:30,18:17,1h 47m,0,Economy,6357
+AI-7999,Air India,IXC,Chandigarh,BOM,Mumbai,12:25,14:40,2h 15m,0,Economy,7218
+AI-7999,Air India,IXC,Chandigarh,BOM,Mumbai,12:25,14:40,2h 15m,0,Business,26290
+SP-9539,SpiceJet,IXC,Chandigarh,BOM,Mumbai,03:30,04:47,1h 17m,0,Economy,6636
+IN-4741,IndiGo,IXC,Chandigarh,BLR,Bengaluru,19:40,21:32,1h 52m,0,Economy,3522
+AI-8661,AI Express,IXC,Chandigarh,CCU,Kolkata,03:40,04:40,1h 0m,0,Economy,4341
+VI-6035,Vistara,IXC,Chandigarh,MAA,Chennai,03:10,05:04,1h 54m,0,Economy,4538
+VI-6035,Vistara,IXC,Chandigarh,MAA,Chennai,03:10,05:04,1h 54m,0,Business,13123
+AI-7039,AI Express,IXC,Chandigarh,MAA,Chennai,18:25,20:43,2h 18m,0,Economy,6287
+AI-6870,Air India,IXC,Chandigarh,HYD,Hyderabad,17:40,19:41,2h 1m,0,Economy,5790
+AI-6870,Air India,IXC,Chandigarh,HYD,Hyderabad,17:40,19:41,2h 1m,0,Business,19294
+AK-5124,Akasa Air,IXC,Chandigarh,HYD,Hyderabad,18:25,21:04,2h 39m,0,Economy,6513
+SP-2051,SpiceJet,IXC,Chandigarh,PNQ,Pune,23:15,01:12,1h 57m,0,Economy,7388
+IN-3613,IndiGo,IXC,Chandigarh,AMD,Ahmedabad,16:30,19:10,2h 40m,0,Economy,5755
+AI-6475,Air India,IXC,Chandigarh,COK,Kochi,20:00,22:42,5h 28m,1,Economy,6060
+AI-6475,Air India,IXC,Chandigarh,COK,Kochi,20:00,22:42,5h 28m,1,Business,19107
+AK-3733,Akasa Air,IXC,Chandigarh,GOI,Goa,11:05,13:22,5h 5m,1,Economy,6894
+SP-9888,SpiceJet,IXC,Chandigarh,JAI,Jaipur,01:10,03:31,2h 21m,0,Economy,3543
+AI-8589,Air India,IXC,Chandigarh,JAI,Jaipur,09:15,10:19,1h 4m,0,Economy,5591
+AI-8589,Air India,IXC,Chandigarh,JAI,Jaipur,09:15,10:19,1h 4m,0,Business,18303
+AI-2876,AI Express,IXC,Chandigarh,LKO,Lucknow,21:00,22:46,1h 46m,0,Economy,3501
+IN-4620,IndiGo,IXC,Chandigarh,GAU,Guwahati,12:25,14:50,2h 25m,0,Economy,5900
+AI-351,AI Express,IXC,Chandigarh,PAT,Patna,23:55,01:03,1h 8m,0,Economy,5751
+SP-9260,SpiceJet,IXC,Chandigarh,BBI,Bhubaneswar,18:25,20:09,1h 44m,0,Economy,4632
+AI-3287,Air India,IXC,Chandigarh,BBI,Bhubaneswar,14:30,16:43,4h 47m,1,Economy,6049
+AI-3287,Air India,IXC,Chandigarh,BBI,Bhubaneswar,14:30,16:43,4h 47m,1,Business,16088
+AI-4921,AI Express,IXC,Chandigarh,TRV,Thiruvananthapuram,10:05,12:47,2h 42m,0,Economy,4555
+SP-7354,SpiceJet,IXC,Chandigarh,SXR,Srinagar,12:45,14:46,2h 1m,0,Economy,6602
+AK-7617,Akasa Air,IXC,Chandigarh,SXR,Srinagar,21:35,00:29,2h 54m,0,Economy,3612
+IN-4324,IndiGo,IXC,Chandigarh,IXB,Bagdogra,02:30,04:51,2h 21m,0,Economy,4402
+SP-3867,SpiceJet,IXC,Chandigarh,IXB,Bagdogra,10:30,12:15,1h 45m,0,Economy,3539
+AI-4806,Air India,IXC,Chandigarh,VNS,Varanasi,02:30,04:56,2h 26m,0,Economy,4900
+AI-4806,Air India,IXC,Chandigarh,VNS,Varanasi,02:30,04:56,2h 26m,0,Business,12808
+AI-7907,Air India,IXC,Chandigarh,VNS,Varanasi,10:25,11:52,1h 27m,0,Economy,4602
+AI-7907,Air India,IXC,Chandigarh,VNS,Varanasi,10:25,11:52,1h 27m,0,Business,12766
+VI-3371,Vistara,IXC,Chandigarh,IXJ,Jammu,07:55,09:25,1h 30m,0,Economy,4346
+VI-3371,Vistara,IXC,Chandigarh,IXJ,Jammu,07:55,09:25,1h 30m,0,Business,12359
+AI-5933,AI Express,IXC,Chandigarh,RPR,Raipur,04:05,05:20,1h 15m,0,Economy,6268
+AI-208,AI Express,IXC,Chandigarh,RNC,Ranchi,17:00,19:48,2h 48m,0,Economy,6042
+AK-8166,Akasa Air,IXC,Chandigarh,RNC,Ranchi,18:20,20:22,2h 2m,0,Economy,6630
+VI-3738,Vistara,IXC,Chandigarh,NAG,Nagpur,18:10,19:16,1h 6m,0,Economy,5233
+VI-3738,Vistara,IXC,Chandigarh,NAG,Nagpur,18:10,19:16,1h 6m,0,Business,16837
+AI-633,AI Express,IXC,Chandigarh,NAG,Nagpur,16:25,18:15,1h 50m,0,Economy,6678
+VI-2072,Vistara,IXC,Chandigarh,IDR,Indore,22:40,00:38,1h 58m,0,Economy,3534
+VI-2072,Vistara,IXC,Chandigarh,IDR,Indore,22:40,00:38,1h 58m,0,Business,8897
+VI-9619,Vistara,SXR,Srinagar,DEL,Delhi,03:25,05:11,1h 46m,0,Economy,4563
+VI-9619,Vistara,SXR,Srinagar,DEL,Delhi,03:25,05:11,1h 46m,0,Business,12688
+AI-4513,Air India,SXR,Srinagar,BOM,Mumbai,15:45,17:28,1h 43m,0,Economy,5542
+AI-4513,Air India,SXR,Srinagar,BOM,Mumbai,15:45,17:28,1h 43m,0,Business,17379
+VI-6199,Vistara,SXR,Srinagar,BOM,Mumbai,11:30,13:05,1h 35m,0,Economy,5840
+VI-6199,Vistara,SXR,Srinagar,BOM,Mumbai,11:30,13:05,1h 35m,0,Business,15748
+IN-4522,IndiGo,SXR,Srinagar,BLR,Bengaluru,07:40,09:35,1h 55m,0,Economy,4303
+SP-2550,SpiceJet,SXR,Srinagar,CCU,Kolkata,15:00,16:22,1h 22m,0,Economy,4050
+VI-5015,Vistara,SXR,Srinagar,MAA,Chennai,08:40,11:29,2h 49m,0,Economy,5131
+VI-5015,Vistara,SXR,Srinagar,MAA,Chennai,08:40,11:29,2h 49m,0,Business,13589
+AI-1083,Air India,SXR,Srinagar,MAA,Chennai,06:20,08:20,2h 0m,0,Economy,3894
+AI-1083,Air India,SXR,Srinagar,MAA,Chennai,06:20,08:20,2h 0m,0,Business,12362
+AK-6014,Akasa Air,SXR,Srinagar,HYD,Hyderabad,11:40,13:51,2h 11m,0,Economy,4555
+AK-424,Akasa Air,SXR,Srinagar,HYD,Hyderabad,13:05,14:49,1h 44m,0,Economy,7444
+AI-9535,AI Express,SXR,Srinagar,PNQ,Pune,20:50,22:58,2h 8m,0,Economy,6696
+AK-5426,Akasa Air,SXR,Srinagar,AMD,Ahmedabad,21:40,23:42,2h 2m,0,Economy,5330
+IN-6343,IndiGo,SXR,Srinagar,AMD,Ahmedabad,19:20,21:19,1h 59m,0,Economy,4093
+SP-5627,SpiceJet,SXR,Srinagar,COK,Kochi,13:50,16:08,2h 18m,0,Economy,6977
+IN-2754,IndiGo,SXR,Srinagar,GOI,Goa,10:15,11:55,1h 40m,0,Economy,4693
+AI-6579,AI Express,SXR,Srinagar,JAI,Jaipur,08:35,11:14,2h 39m,0,Economy,4987
+SP-9716,SpiceJet,SXR,Srinagar,JAI,Jaipur,16:35,18:27,1h 52m,0,Economy,6998
+AI-3944,Air India,SXR,Srinagar,LKO,Lucknow,21:20,00:20,3h 0m,0,Economy,6570
+AI-3944,Air India,SXR,Srinagar,LKO,Lucknow,21:20,00:20,3h 0m,0,Business,17214
+VI-1787,Vistara,SXR,Srinagar,GAU,Guwahati,03:05,06:04,2h 59m,0,Economy,5746
+VI-1787,Vistara,SXR,Srinagar,GAU,Guwahati,03:05,06:04,2h 59m,0,Business,14828
+AI-1463,AI Express,SXR,Srinagar,PAT,Patna,03:20,05:39,2h 19m,0,Economy,6182
+VI-5168,Vistara,SXR,Srinagar,PAT,Patna,07:15,09:49,2h 34m,0,Economy,6066
+VI-5168,Vistara,SXR,Srinagar,PAT,Patna,07:15,09:49,2h 34m,0,Business,16315
+IN-675,IndiGo,SXR,Srinagar,BBI,Bhubaneswar,21:25,00:15,2h 50m,0,Economy,7039
+VI-8956,Vistara,SXR,Srinagar,TRV,Thiruvananthapuram,08:40,10:36,4h 35m,1,Economy,9812
+VI-8956,Vistara,SXR,Srinagar,TRV,Thiruvananthapuram,08:40,10:36,4h 35m,1,Business,27135
+AI-7580,AI Express,SXR,Srinagar,TRV,Thiruvananthapuram,20:55,23:16,2h 21m,0,Economy,5281
+AK-7991,Akasa Air,SXR,Srinagar,IXC,Chandigarh,17:15,19:58,5h 5m,1,Economy,6510
+AK-2651,Akasa Air,SXR,Srinagar,IXC,Chandigarh,09:00,10:00,1h 0m,0,Economy,6605
+AK-4798,Akasa Air,SXR,Srinagar,IXB,Bagdogra,15:40,16:41,1h 1m,0,Economy,5514
+AK-249,Akasa Air,SXR,Srinagar,VNS,Varanasi,13:20,15:36,2h 16m,0,Economy,3529
+AI-6221,AI Express,SXR,Srinagar,VNS,Varanasi,06:30,09:22,2h 52m,0,Economy,5116
+AI-6485,Air India,SXR,Srinagar,IXJ,Jammu,12:15,13:48,4h 9m,1,Economy,7551
+AI-6485,Air India,SXR,Srinagar,IXJ,Jammu,12:15,13:48,4h 9m,1,Business,27537
+AK-8815,Akasa Air,SXR,Srinagar,RPR,Raipur,08:30,09:54,1h 24m,0,Economy,4247
+AI-4844,Air India,SXR,Srinagar,RPR,Raipur,03:50,05:48,1h 58m,0,Economy,4614
+AI-4844,Air India,SXR,Srinagar,RPR,Raipur,03:50,05:48,1h 58m,0,Business,16382
+AI-5353,Air India,SXR,Srinagar,RNC,Ranchi,00:10,01:16,1h 6m,0,Economy,3590
+AI-5353,Air India,SXR,Srinagar,RNC,Ranchi,00:10,01:16,1h 6m,0,Business,9976
+IN-4722,IndiGo,SXR,Srinagar,RNC,Ranchi,08:10,10:41,2h 31m,0,Economy,3533
+IN-2568,IndiGo,SXR,Srinagar,NAG,Nagpur,00:35,02:02,1h 27m,0,Economy,4776
+AK-7697,Akasa Air,SXR,Srinagar,IDR,Indore,22:00,23:42,3h 19m,1,Economy,7873
+AK-6529,Akasa Air,SXR,Srinagar,IDR,Indore,02:40,04:40,2h 0m,0,Economy,7168
+VI-306,Vistara,IXB,Bagdogra,DEL,Delhi,03:55,05:26,1h 31m,0,Economy,7493
+VI-306,Vistara,IXB,Bagdogra,DEL,Delhi,03:55,05:26,1h 31m,0,Business,23711
+SP-649,SpiceJet,IXB,Bagdogra,DEL,Delhi,06:35,09:09,2h 34m,0,Economy,5634
+VI-6475,Vistara,IXB,Bagdogra,BOM,Mumbai,21:20,00:19,2h 59m,0,Economy,6077
+VI-6475,Vistara,IXB,Bagdogra,BOM,Mumbai,21:20,00:19,2h 59m,0,Business,21830
+AK-7984,Akasa Air,IXB,Bagdogra,BLR,Bengaluru,20:20,21:45,1h 25m,0,Economy,3713
+IN-3966,IndiGo,IXB,Bagdogra,CCU,Kolkata,20:30,22:11,4h 25m,1,Economy,8318
+VI-4082,Vistara,IXB,Bagdogra,MAA,Chennai,00:00,02:14,2h 14m,0,Economy,5446
+VI-4082,Vistara,IXB,Bagdogra,MAA,Chennai,00:00,02:14,2h 14m,0,Business,19238
+AK-1566,Akasa Air,IXB,Bagdogra,HYD,Hyderabad,07:10,09:13,4h 53m,1,Economy,7726
+IN-5924,IndiGo,IXB,Bagdogra,PNQ,Pune,20:10,22:39,2h 29m,0,Economy,3939
+VI-3912,Vistara,IXB,Bagdogra,AMD,Ahmedabad,10:40,13:20,2h 40m,0,Economy,4922
+VI-3912,Vistara,IXB,Bagdogra,AMD,Ahmedabad,10:40,13:20,2h 40m,0,Business,18252
+SP-3261,SpiceJet,IXB,Bagdogra,COK,Kochi,00:55,02:43,1h 48m,0,Economy,4051
+AK-746,Akasa Air,IXB,Bagdogra,COK,Kochi,15:55,17:51,1h 56m,0,Economy,5723
+AI-9384,Air India,IXB,Bagdogra,GOI,Goa,05:40,07:24,1h 44m,0,Economy,5418
+AI-9384,Air India,IXB,Bagdogra,GOI,Goa,05:40,07:24,1h 44m,0,Business,15782
+AI-9185,AI Express,IXB,Bagdogra,GOI,Goa,05:05,07:12,2h 7m,0,Economy,4711
+AI-6114,AI Express,IXB,Bagdogra,JAI,Jaipur,14:00,16:39,2h 39m,0,Economy,5052
+SP-3139,SpiceJet,IXB,Bagdogra,JAI,Jaipur,00:45,03:34,2h 49m,0,Economy,6040
+AK-1137,Akasa Air,IXB,Bagdogra,LKO,Lucknow,21:40,00:24,2h 44m,0,Economy,5646
+AI-2625,AI Express,IXB,Bagdogra,GAU,Guwahati,19:20,21:01,1h 41m,0,Economy,4819
+IN-1677,IndiGo,IXB,Bagdogra,GAU,Guwahati,16:50,17:58,3h 0m,1,Economy,8606
+AI-1853,Air India,IXB,Bagdogra,PAT,Patna,15:15,16:27,4h 6m,1,Economy,7923
+AI-1853,Air India,IXB,Bagdogra,PAT,Patna,15:15,16:27,4h 6m,1,Business,25629
+IN-6102,IndiGo,IXB,Bagdogra,BBI,Bhubaneswar,07:45,10:16,5h 24m,1,Economy,8737
+VI-1410,Vistara,IXB,Bagdogra,BBI,Bhubaneswar,14:50,15:57,1h 7m,0,Economy,6545
+VI-1410,Vistara,IXB,Bagdogra,BBI,Bhubaneswar,14:50,15:57,1h 7m,0,Business,25573
+AK-1055,Akasa Air,IXB,Bagdogra,TRV,Thiruvananthapuram,19:20,21:27,3h 46m,1,Economy,5410
+AI-8611,Air India,IXB,Bagdogra,TRV,Thiruvananthapuram,03:05,05:37,2h 32m,0,Economy,5078
+AI-8611,Air India,IXB,Bagdogra,TRV,Thiruvananthapuram,03:05,05:37,2h 32m,0,Business,14138
+AI-3031,AI Express,IXB,Bagdogra,IXC,Chandigarh,17:55,20:06,2h 11m,0,Economy,3932
+SP-7615,SpiceJet,IXB,Bagdogra,SXR,Srinagar,22:50,00:44,1h 54m,0,Economy,4183
+AI-9110,Air India,IXB,Bagdogra,SXR,Srinagar,12:40,14:23,1h 43m,0,Economy,5686
+AI-9110,Air India,IXB,Bagdogra,SXR,Srinagar,12:40,14:23,1h 43m,0,Business,22730
+AK-5263,Akasa Air,IXB,Bagdogra,VNS,Varanasi,17:25,20:13,2h 48m,0,Economy,6630
+SP-7154,SpiceJet,IXB,Bagdogra,VNS,Varanasi,23:25,01:42,2h 17m,0,Economy,5734
+VI-9115,Vistara,IXB,Bagdogra,IXJ,Jammu,23:20,01:06,1h 46m,0,Economy,5332
+VI-9115,Vistara,IXB,Bagdogra,IXJ,Jammu,23:20,01:06,1h 46m,0,Business,21006
+SP-667,SpiceJet,IXB,Bagdogra,RPR,Raipur,09:45,10:47,1h 2m,0,Economy,7146
+IN-5020,IndiGo,IXB,Bagdogra,RNC,Ranchi,07:15,10:04,2h 49m,0,Economy,6660
+SP-4621,SpiceJet,IXB,Bagdogra,RNC,Ranchi,17:40,19:51,2h 11m,0,Economy,5841
+IN-718,IndiGo,IXB,Bagdogra,NAG,Nagpur,14:25,15:44,3h 20m,1,Economy,7195
+AK-5020,Akasa Air,IXB,Bagdogra,IDR,Indore,02:45,04:36,1h 51m,0,Economy,4390
+SP-5419,SpiceJet,VNS,Varanasi,DEL,Delhi,15:10,17:12,2h 2m,0,Economy,6324
+AI-5021,AI Express,VNS,Varanasi,BOM,Mumbai,01:55,04:38,2h 43m,0,Economy,3821
+AK-5800,Akasa Air,VNS,Varanasi,BLR,Bengaluru,13:30,16:29,2h 59m,0,Economy,7062
+SP-9968,SpiceJet,VNS,Varanasi,CCU,Kolkata,00:50,03:29,2h 39m,0,Economy,3721
+AI-774,AI Express,VNS,Varanasi,MAA,Chennai,10:40,12:52,4h 10m,1,Economy,7986
+AI-927,Air India,VNS,Varanasi,MAA,Chennai,21:55,23:45,1h 50m,0,Economy,6583
+AI-927,Air India,VNS,Varanasi,MAA,Chennai,21:55,23:45,1h 50m,0,Business,22334
+AI-7176,Air India,VNS,Varanasi,HYD,Hyderabad,09:30,10:48,4h 1m,1,Economy,5812
+AI-7176,Air India,VNS,Varanasi,HYD,Hyderabad,09:30,10:48,4h 1m,1,Business,21027
+AK-1493,Akasa Air,VNS,Varanasi,PNQ,Pune,12:40,14:35,1h 55m,0,Economy,4034
+AI-7979,Air India,VNS,Varanasi,PNQ,Pune,17:15,19:17,2h 2m,0,Economy,5840
+AI-7979,Air India,VNS,Varanasi,PNQ,Pune,17:15,19:17,2h 2m,0,Business,16317
+AI-1273,Air India,VNS,Varanasi,AMD,Ahmedabad,08:30,10:11,1h 41m,0,Economy,5859
+AI-1273,Air India,VNS,Varanasi,AMD,Ahmedabad,08:30,10:11,1h 41m,0,Business,15434
+VI-6084,Vistara,VNS,Varanasi,COK,Kochi,11:15,12:56,1h 41m,0,Economy,6184
+VI-6084,Vistara,VNS,Varanasi,COK,Kochi,11:15,12:56,1h 41m,0,Business,15684
+AK-2873,Akasa Air,VNS,Varanasi,COK,Kochi,11:45,14:30,2h 45m,0,Economy,5311
+VI-835,Vistara,VNS,Varanasi,GOI,Goa,07:15,09:42,2h 27m,0,Economy,6603
+VI-835,Vistara,VNS,Varanasi,GOI,Goa,07:15,09:42,2h 27m,0,Business,23722
+IN-993,IndiGo,VNS,Varanasi,JAI,Jaipur,07:45,10:43,4h 29m,1,Economy,8498
+SP-1923,SpiceJet,VNS,Varanasi,LKO,Lucknow,09:35,11:35,3h 57m,1,Economy,6457
+AI-9052,Air India,VNS,Varanasi,LKO,Lucknow,16:20,18:30,2h 10m,0,Economy,6489
+AI-9052,Air India,VNS,Varanasi,LKO,Lucknow,16:20,18:30,2h 10m,0,Business,25881
+VI-9651,Vistara,VNS,Varanasi,GAU,Guwahati,21:40,22:45,1h 5m,0,Economy,3746
+VI-9651,Vistara,VNS,Varanasi,GAU,Guwahati,21:40,22:45,1h 5m,0,Business,10960
+IN-7717,IndiGo,VNS,Varanasi,PAT,Patna,20:00,21:08,1h 8m,0,Economy,4611
+SP-6001,SpiceJet,VNS,Varanasi,PAT,Patna,03:00,04:37,1h 37m,0,Economy,6159
+AI-6337,Air India,VNS,Varanasi,BBI,Bhubaneswar,16:55,18:07,1h 12m,0,Economy,5485
+AI-6337,Air India,VNS,Varanasi,BBI,Bhubaneswar,16:55,18:07,1h 12m,0,Business,20843
+AI-1542,AI Express,VNS,Varanasi,BBI,Bhubaneswar,05:15,07:19,2h 4m,0,Economy,5796
+IN-4153,IndiGo,VNS,Varanasi,TRV,Thiruvananthapuram,16:20,18:02,1h 42m,0,Economy,6549
+IN-5781,IndiGo,VNS,Varanasi,IXC,Chandigarh,21:25,23:10,1h 45m,0,Economy,4467
+IN-4321,IndiGo,VNS,Varanasi,SXR,Srinagar,12:00,15:00,3h 0m,0,Economy,4647
+AI-2585,Air India,VNS,Varanasi,SXR,Srinagar,10:30,12:54,5h 0m,1,Economy,8271
+AI-2585,Air India,VNS,Varanasi,SXR,Srinagar,10:30,12:54,5h 0m,1,Business,32595
+VI-4038,Vistara,VNS,Varanasi,IXB,Bagdogra,18:10,20:04,1h 54m,0,Economy,7226
+VI-4038,Vistara,VNS,Varanasi,IXB,Bagdogra,18:10,20:04,1h 54m,0,Business,24626
+AI-2258,AI Express,VNS,Varanasi,IXJ,Jammu,06:50,08:07,1h 17m,0,Economy,6301
+AI-2362,Air India,VNS,Varanasi,IXJ,Jammu,09:55,12:25,2h 30m,0,Economy,7225
+AI-2362,Air India,VNS,Varanasi,IXJ,Jammu,09:55,12:25,2h 30m,0,Business,19528
+SP-9354,SpiceJet,VNS,Varanasi,RPR,Raipur,05:25,06:33,1h 8m,0,Economy,7385
+AI-5303,Air India,VNS,Varanasi,RNC,Ranchi,04:55,05:58,1h 3m,0,Economy,7105
+AI-5303,Air India,VNS,Varanasi,RNC,Ranchi,04:55,05:58,1h 3m,0,Business,28131
+AK-7358,Akasa Air,VNS,Varanasi,NAG,Nagpur,23:50,02:49,2h 59m,0,Economy,4122
+AI-1849,Air India,VNS,Varanasi,NAG,Nagpur,04:10,05:13,1h 3m,0,Economy,6006
+AI-1849,Air India,VNS,Varanasi,NAG,Nagpur,04:10,05:13,1h 3m,0,Business,20573
+AI-3904,AI Express,VNS,Varanasi,IDR,Indore,07:50,08:53,1h 3m,0,Economy,6318
+AI-8330,Air India,IXJ,Jammu,DEL,Delhi,19:35,22:06,2h 31m,0,Economy,4253
+AI-8330,Air India,IXJ,Jammu,DEL,Delhi,19:35,22:06,2h 31m,0,Business,16068
+VI-7863,Vistara,IXJ,Jammu,DEL,Delhi,04:10,05:34,1h 24m,0,Economy,5173
+VI-7863,Vistara,IXJ,Jammu,DEL,Delhi,04:10,05:34,1h 24m,0,Business,18864
+AK-6867,Akasa Air,IXJ,Jammu,BOM,Mumbai,07:55,10:20,2h 25m,0,Economy,6603
+IN-3001,IndiGo,IXJ,Jammu,BLR,Bengaluru,14:45,16:47,2h 2m,0,Economy,7050
+AI-7105,Air India,IXJ,Jammu,CCU,Kolkata,12:00,14:17,2h 17m,0,Economy,5058
+AI-7105,Air India,IXJ,Jammu,CCU,Kolkata,12:00,14:17,2h 17m,0,Business,18109
+VI-9470,Vistara,IXJ,Jammu,CCU,Kolkata,19:40,21:47,2h 7m,0,Economy,6384
+VI-9470,Vistara,IXJ,Jammu,CCU,Kolkata,19:40,21:47,2h 7m,0,Business,23495
+VI-7585,Vistara,IXJ,Jammu,MAA,Chennai,01:15,03:21,2h 6m,0,Economy,6511
+VI-7585,Vistara,IXJ,Jammu,MAA,Chennai,01:15,03:21,2h 6m,0,Business,16660
+AI-907,AI Express,IXJ,Jammu,HYD,Hyderabad,06:20,08:16,1h 56m,0,Economy,4747
+AK-7658,Akasa Air,IXJ,Jammu,HYD,Hyderabad,05:30,07:07,1h 37m,0,Economy,3723
+VI-7500,Vistara,IXJ,Jammu,PNQ,Pune,02:55,04:59,5h 3m,1,Economy,8887
+VI-7500,Vistara,IXJ,Jammu,PNQ,Pune,02:55,04:59,5h 3m,1,Business,29501
+VI-5399,Vistara,IXJ,Jammu,AMD,Ahmedabad,14:00,15:22,1h 22m,0,Economy,7172
+VI-5399,Vistara,IXJ,Jammu,AMD,Ahmedabad,14:00,15:22,1h 22m,0,Business,25596
+AI-7549,Air India,IXJ,Jammu,AMD,Ahmedabad,02:20,04:01,1h 41m,0,Economy,7215
+AI-7549,Air India,IXJ,Jammu,AMD,Ahmedabad,02:20,04:01,1h 41m,0,Business,25737
+SP-2124,SpiceJet,IXJ,Jammu,COK,Kochi,02:05,04:35,2h 30m,0,Economy,4986
+AI-6392,AI Express,IXJ,Jammu,GOI,Goa,23:40,01:58,2h 18m,0,Economy,5051
+IN-2899,IndiGo,IXJ,Jammu,JAI,Jaipur,10:45,13:36,2h 51m,0,Economy,4114
+AI-2469,Air India,IXJ,Jammu,JAI,Jaipur,05:55,07:01,1h 6m,0,Economy,4767
+AI-2469,Air India,IXJ,Jammu,JAI,Jaipur,05:55,07:01,1h 6m,0,Business,17138
+AK-3060,Akasa Air,IXJ,Jammu,LKO,Lucknow,03:10,04:35,2h 56m,1,Economy,8153
+VI-8253,Vistara,IXJ,Jammu,LKO,Lucknow,15:40,18:23,4h 43m,1,Economy,9125
+VI-8253,Vistara,IXJ,Jammu,LKO,Lucknow,15:40,18:23,4h 43m,1,Business,25780
+VI-6819,Vistara,IXJ,Jammu,GAU,Guwahati,14:05,16:21,2h 16m,0,Economy,4502
+VI-6819,Vistara,IXJ,Jammu,GAU,Guwahati,14:05,16:21,2h 16m,0,Business,17212
+AK-9234,Akasa Air,IXJ,Jammu,GAU,Guwahati,06:00,07:23,2h 57m,1,Economy,7889
+IN-9571,IndiGo,IXJ,Jammu,PAT,Patna,19:20,21:02,1h 42m,0,Economy,3700
+VI-3020,Vistara,IXJ,Jammu,BBI,Bhubaneswar,05:50,07:26,1h 36m,0,Economy,6332
+VI-3020,Vistara,IXJ,Jammu,BBI,Bhubaneswar,05:50,07:26,1h 36m,0,Business,22477
+VI-9585,Vistara,IXJ,Jammu,TRV,Thiruvananthapuram,11:00,12:11,1h 11m,0,Economy,4822
+VI-9585,Vistara,IXJ,Jammu,TRV,Thiruvananthapuram,11:00,12:11,1h 11m,0,Business,14720
+IN-7101,IndiGo,IXJ,Jammu,IXC,Chandigarh,17:05,18:42,1h 37m,0,Economy,3999
+SP-4596,SpiceJet,IXJ,Jammu,IXC,Chandigarh,10:40,12:32,1h 52m,0,Economy,6350
+AI-1053,AI Express,IXJ,Jammu,SXR,Srinagar,03:45,06:18,2h 33m,0,Economy,5666
+VI-4805,Vistara,IXJ,Jammu,IXB,Bagdogra,13:45,16:33,2h 48m,0,Economy,5652
+VI-4805,Vistara,IXJ,Jammu,IXB,Bagdogra,13:45,16:33,2h 48m,0,Business,19006
+AI-9318,Air India,IXJ,Jammu,VNS,Varanasi,15:40,18:13,2h 33m,0,Economy,5517
+AI-9318,Air India,IXJ,Jammu,VNS,Varanasi,15:40,18:13,2h 33m,0,Business,20478
+AI-3912,AI Express,IXJ,Jammu,VNS,Varanasi,22:20,23:44,4h 14m,1,Economy,5550
+SP-3496,SpiceJet,IXJ,Jammu,RPR,Raipur,19:30,21:22,4h 43m,1,Economy,7079
+IN-3396,IndiGo,IXJ,Jammu,RNC,Ranchi,22:20,23:52,1h 32m,0,Economy,4760
+AI-9111,AI Express,IXJ,Jammu,NAG,Nagpur,10:00,11:14,1h 14m,0,Economy,4898
+VI-9421,Vistara,IXJ,Jammu,NAG,Nagpur,19:00,21:46,2h 46m,0,Economy,4853
+VI-9421,Vistara,IXJ,Jammu,NAG,Nagpur,19:00,21:46,2h 46m,0,Business,18202
+VI-682,Vistara,IXJ,Jammu,IDR,Indore,20:10,22:11,2h 1m,0,Economy,5386
+VI-682,Vistara,IXJ,Jammu,IDR,Indore,20:10,22:11,2h 1m,0,Business,20671
+AI-5590,AI Express,IXJ,Jammu,IDR,Indore,14:30,17:28,2h 58m,0,Economy,6920
+AI-5269,AI Express,RPR,Raipur,DEL,Delhi,17:40,18:42,1h 2m,0,Economy,6307
+AK-5893,Akasa Air,RPR,Raipur,DEL,Delhi,02:10,03:45,1h 35m,0,Economy,4889
+SP-8853,SpiceJet,RPR,Raipur,BOM,Mumbai,05:45,08:02,2h 17m,0,Economy,5937
+IN-5150,IndiGo,RPR,Raipur,BOM,Mumbai,22:25,00:55,5h 3m,1,Economy,6372
+AK-7504,Akasa Air,RPR,Raipur,BLR,Bengaluru,09:15,11:22,2h 7m,0,Economy,3959
+IN-3411,IndiGo,RPR,Raipur,CCU,Kolkata,02:35,04:39,3h 53m,1,Economy,7500
+AI-5672,Air India,RPR,Raipur,CCU,Kolkata,15:55,18:46,2h 51m,0,Economy,6676
+AI-5672,Air India,RPR,Raipur,CCU,Kolkata,15:55,18:46,2h 51m,0,Business,19967
+AI-2274,AI Express,RPR,Raipur,MAA,Chennai,06:55,07:59,1h 4m,0,Economy,6423
+IN-5195,IndiGo,RPR,Raipur,HYD,Hyderabad,01:50,04:38,2h 48m,0,Economy,3856
+VI-855,Vistara,RPR,Raipur,PNQ,Pune,03:40,06:18,2h 38m,0,Economy,4779
+VI-855,Vistara,RPR,Raipur,PNQ,Pune,03:40,06:18,2h 38m,0,Business,12108
+AK-3538,Akasa Air,RPR,Raipur,PNQ,Pune,10:15,11:39,1h 24m,0,Economy,5680
+VI-2027,Vistara,RPR,Raipur,AMD,Ahmedabad,08:10,09:30,1h 20m,0,Economy,3562
+VI-2027,Vistara,RPR,Raipur,AMD,Ahmedabad,08:10,09:30,1h 20m,0,Business,14025
+AI-8522,AI Express,RPR,Raipur,AMD,Ahmedabad,03:15,05:24,2h 9m,0,Economy,4804
+AI-4741,Air India,RPR,Raipur,COK,Kochi,18:15,19:36,4h 0m,1,Economy,7704
+AI-4741,Air India,RPR,Raipur,COK,Kochi,18:15,19:36,4h 0m,1,Business,24386
+AI-575,Air India,RPR,Raipur,COK,Kochi,15:50,16:56,3h 30m,1,Economy,4896
+AI-575,Air India,RPR,Raipur,COK,Kochi,15:50,16:56,3h 30m,1,Business,15118
+AI-5926,AI Express,RPR,Raipur,GOI,Goa,09:25,12:09,2h 44m,0,Economy,6606
+SP-8840,SpiceJet,RPR,Raipur,GOI,Goa,02:35,04:47,4h 41m,1,Economy,9259
+VI-5185,Vistara,RPR,Raipur,JAI,Jaipur,21:50,00:20,2h 30m,0,Economy,5427
+VI-5185,Vistara,RPR,Raipur,JAI,Jaipur,21:50,00:20,2h 30m,0,Business,15453
+AI-4327,Air India,RPR,Raipur,LKO,Lucknow,11:30,12:53,1h 23m,0,Economy,6224
+AI-4327,Air India,RPR,Raipur,LKO,Lucknow,11:30,12:53,1h 23m,0,Business,18643
+VI-8087,Vistara,RPR,Raipur,GAU,Guwahati,00:05,02:05,3h 51m,1,Economy,7404
+VI-8087,Vistara,RPR,Raipur,GAU,Guwahati,00:05,02:05,3h 51m,1,Business,21644
+AK-9515,Akasa Air,RPR,Raipur,GAU,Guwahati,04:40,05:53,1h 13m,0,Economy,6425
+AK-9211,Akasa Air,RPR,Raipur,PAT,Patna,20:05,22:46,2h 41m,0,Economy,5388
+AI-6873,AI Express,RPR,Raipur,BBI,Bhubaneswar,07:45,09:16,1h 31m,0,Economy,7489
+VI-6388,Vistara,RPR,Raipur,BBI,Bhubaneswar,02:25,03:51,1h 26m,0,Economy,5920
+VI-6388,Vistara,RPR,Raipur,BBI,Bhubaneswar,02:25,03:51,1h 26m,0,Business,18628
+AI-5706,AI Express,RPR,Raipur,TRV,Thiruvananthapuram,17:55,19:25,1h 30m,0,Economy,6242
+IN-9507,IndiGo,RPR,Raipur,TRV,Thiruvananthapuram,15:05,17:20,2h 15m,0,Economy,4832
+VI-2986,Vistara,RPR,Raipur,IXC,Chandigarh,09:30,10:38,1h 8m,0,Economy,6307
+VI-2986,Vistara,RPR,Raipur,IXC,Chandigarh,09:30,10:38,1h 8m,0,Business,23468
+AK-8198,Akasa Air,RPR,Raipur,SXR,Srinagar,20:50,21:57,3h 51m,1,Economy,8130
+SP-103,SpiceJet,RPR,Raipur,SXR,Srinagar,04:50,06:09,1h 19m,0,Economy,4693
+AI-9568,AI Express,RPR,Raipur,IXB,Bagdogra,14:15,15:41,1h 26m,0,Economy,4796
+AK-9443,Akasa Air,RPR,Raipur,IXB,Bagdogra,21:20,00:17,2h 57m,0,Economy,5280
+IN-9647,IndiGo,RPR,Raipur,VNS,Varanasi,00:45,02:50,2h 5m,0,Economy,4022
+AK-1122,Akasa Air,RPR,Raipur,VNS,Varanasi,11:40,12:46,2h 50m,1,Economy,7528
+IN-3954,IndiGo,RPR,Raipur,IXJ,Jammu,13:55,16:10,2h 15m,0,Economy,4803
+SP-6371,SpiceJet,RPR,Raipur,IXJ,Jammu,12:30,14:25,1h 55m,0,Economy,6213
+VI-2378,Vistara,RPR,Raipur,RNC,Ranchi,06:40,08:29,1h 49m,0,Economy,4975
+VI-2378,Vistara,RPR,Raipur,RNC,Ranchi,06:40,08:29,1h 49m,0,Business,18705
+AK-2156,Akasa Air,RPR,Raipur,NAG,Nagpur,04:00,05:09,1h 9m,0,Economy,4089
+SP-7255,SpiceJet,RPR,Raipur,IDR,Indore,04:05,05:22,1h 17m,0,Economy,5203
+VI-7074,Vistara,RPR,Raipur,IDR,Indore,19:10,21:08,1h 58m,0,Economy,5761
+VI-7074,Vistara,RPR,Raipur,IDR,Indore,19:10,21:08,1h 58m,0,Business,21489
+AK-3798,Akasa Air,RNC,Ranchi,DEL,Delhi,05:30,07:47,4h 17m,1,Economy,8036
+SP-8320,SpiceJet,RNC,Ranchi,DEL,Delhi,08:30,11:28,2h 58m,0,Economy,5003
+IN-9408,IndiGo,RNC,Ranchi,BOM,Mumbai,15:55,17:42,3h 27m,1,Economy,7886
+SP-8724,SpiceJet,RNC,Ranchi,BLR,Bengaluru,08:35,10:41,3h 47m,1,Economy,9394
+VI-1379,Vistara,RNC,Ranchi,CCU,Kolkata,21:50,23:59,2h 9m,0,Economy,4779
+VI-1379,Vistara,RNC,Ranchi,CCU,Kolkata,21:50,23:59,2h 9m,0,Business,16342
+AI-276,AI Express,RNC,Ranchi,MAA,Chennai,15:35,17:40,2h 5m,0,Economy,5850
+SP-5531,SpiceJet,RNC,Ranchi,MAA,Chennai,13:25,16:07,2h 42m,0,Economy,4186
+SP-9891,SpiceJet,RNC,Ranchi,HYD,Hyderabad,23:20,01:53,2h 33m,0,Economy,4566
+SP-7852,SpiceJet,RNC,Ranchi,PNQ,Pune,18:10,20:23,3h 46m,1,Economy,6973
+VI-1451,Vistara,RNC,Ranchi,AMD,Ahmedabad,04:40,05:49,1h 9m,0,Economy,4638
+VI-1451,Vistara,RNC,Ranchi,AMD,Ahmedabad,04:40,05:49,1h 9m,0,Business,13348
+AI-4703,AI Express,RNC,Ranchi,AMD,Ahmedabad,08:20,09:21,1h 1m,0,Economy,5973
+AI-2576,AI Express,RNC,Ranchi,COK,Kochi,21:35,23:22,1h 47m,0,Economy,4570
+VI-3062,Vistara,RNC,Ranchi,GOI,Goa,16:00,17:43,1h 43m,0,Economy,7462
+VI-3062,Vistara,RNC,Ranchi,GOI,Goa,16:00,17:43,1h 43m,0,Business,20278
+VI-6865,Vistara,RNC,Ranchi,JAI,Jaipur,12:15,14:39,2h 24m,0,Economy,6111
+VI-6865,Vistara,RNC,Ranchi,JAI,Jaipur,12:15,14:39,2h 24m,0,Business,16810
+IN-4431,IndiGo,RNC,Ranchi,LKO,Lucknow,03:00,04:21,1h 21m,0,Economy,5450
+AK-7903,Akasa Air,RNC,Ranchi,LKO,Lucknow,23:40,01:09,1h 29m,0,Economy,6390
+VI-4402,Vistara,RNC,Ranchi,GAU,Guwahati,04:40,07:31,2h 51m,0,Economy,4682
+VI-4402,Vistara,RNC,Ranchi,GAU,Guwahati,04:40,07:31,2h 51m,0,Business,18216
+VI-6358,Vistara,RNC,Ranchi,GAU,Guwahati,21:25,23:32,2h 7m,0,Economy,3668
+VI-6358,Vistara,RNC,Ranchi,GAU,Guwahati,21:25,23:32,2h 7m,0,Business,9705
+VI-4566,Vistara,RNC,Ranchi,PAT,Patna,10:20,11:54,1h 34m,0,Economy,4545
+VI-4566,Vistara,RNC,Ranchi,PAT,Patna,10:20,11:54,1h 34m,0,Business,15823
+VI-7654,Vistara,RNC,Ranchi,PAT,Patna,21:55,23:25,1h 30m,0,Economy,5911
+VI-7654,Vistara,RNC,Ranchi,PAT,Patna,21:55,23:25,1h 30m,0,Business,21609
+SP-3047,SpiceJet,RNC,Ranchi,BBI,Bhubaneswar,10:40,11:41,1h 1m,0,Economy,6906
+IN-295,IndiGo,RNC,Ranchi,BBI,Bhubaneswar,13:05,15:12,4h 5m,1,Economy,7045
+AK-3263,Akasa Air,RNC,Ranchi,TRV,Thiruvananthapuram,01:00,03:19,5h 13m,1,Economy,9560
+AI-9920,Air India,RNC,Ranchi,TRV,Thiruvananthapuram,20:05,22:35,2h 30m,0,Economy,3853
+AI-9920,Air India,RNC,Ranchi,TRV,Thiruvananthapuram,20:05,22:35,2h 30m,0,Business,14582
+VI-9374,Vistara,RNC,Ranchi,IXC,Chandigarh,05:05,07:34,2h 29m,0,Economy,4706
+VI-9374,Vistara,RNC,Ranchi,IXC,Chandigarh,05:05,07:34,2h 29m,0,Business,15061
+SP-7529,SpiceJet,RNC,Ranchi,SXR,Srinagar,08:30,10:58,2h 28m,0,Economy,6653
+AK-2753,Akasa Air,RNC,Ranchi,IXB,Bagdogra,02:20,04:59,4h 16m,1,Economy,6772
+AK-4436,Akasa Air,RNC,Ranchi,IXB,Bagdogra,05:35,06:43,1h 8m,0,Economy,7303
+AI-6532,AI Express,RNC,Ranchi,VNS,Varanasi,05:50,07:52,3h 59m,1,Economy,7597
+VI-4343,Vistara,RNC,Ranchi,IXJ,Jammu,03:00,04:09,3h 36m,1,Economy,7993
+VI-4343,Vistara,RNC,Ranchi,IXJ,Jammu,03:00,04:09,3h 36m,1,Business,20207
+AI-114,Air India,RNC,Ranchi,RPR,Raipur,01:50,03:39,1h 49m,0,Economy,6367
+AI-114,Air India,RNC,Ranchi,RPR,Raipur,01:50,03:39,1h 49m,0,Business,19067
+VI-9514,Vistara,RNC,Ranchi,RPR,Raipur,00:40,03:10,2h 30m,0,Economy,5509
+VI-9514,Vistara,RNC,Ranchi,RPR,Raipur,00:40,03:10,2h 30m,0,Business,17723
+SP-1248,SpiceJet,RNC,Ranchi,NAG,Nagpur,17:15,18:15,1h 0m,0,Economy,6323
+VI-2085,Vistara,RNC,Ranchi,NAG,Nagpur,18:40,21:39,2h 59m,0,Economy,4865
+VI-2085,Vistara,RNC,Ranchi,NAG,Nagpur,18:40,21:39,2h 59m,0,Business,17138
+IN-1585,IndiGo,RNC,Ranchi,IDR,Indore,11:40,14:29,2h 49m,0,Economy,3829
+VI-4850,Vistara,RNC,Ranchi,IDR,Indore,20:15,21:37,1h 22m,0,Economy,7462
+VI-4850,Vistara,RNC,Ranchi,IDR,Indore,20:15,21:37,1h 22m,0,Business,22954
+AK-6491,Akasa Air,NAG,Nagpur,DEL,Delhi,03:50,06:18,2h 28m,0,Economy,3847
+SP-3204,SpiceJet,NAG,Nagpur,BOM,Mumbai,04:00,05:24,3h 56m,1,Economy,7416
+VI-1132,Vistara,NAG,Nagpur,BOM,Mumbai,17:50,19:29,1h 39m,0,Economy,7452
+VI-1132,Vistara,NAG,Nagpur,BOM,Mumbai,17:50,19:29,1h 39m,0,Business,27955
+IN-706,IndiGo,NAG,Nagpur,BLR,Bengaluru,10:00,11:43,1h 43m,0,Economy,3675
+VI-2036,Vistara,NAG,Nagpur,BLR,Bengaluru,06:50,09:15,2h 25m,0,Economy,7350
+VI-2036,Vistara,NAG,Nagpur,BLR,Bengaluru,06:50,09:15,2h 25m,0,Business,25850
+SP-9592,SpiceJet,NAG,Nagpur,CCU,Kolkata,07:05,08:09,1h 4m,0,Economy,5502
+VI-850,Vistara,NAG,Nagpur,MAA,Chennai,07:55,10:18,3h 59m,1,Economy,6500
+VI-850,Vistara,NAG,Nagpur,MAA,Chennai,07:55,10:18,3h 59m,1,Business,25070
+VI-2896,Vistara,NAG,Nagpur,HYD,Hyderabad,18:05,20:49,2h 44m,0,Economy,3967
+VI-2896,Vistara,NAG,Nagpur,HYD,Hyderabad,18:05,20:49,2h 44m,0,Business,12875
+IN-3420,IndiGo,NAG,Nagpur,PNQ,Pune,13:25,16:08,2h 43m,0,Economy,6522
+AK-2079,Akasa Air,NAG,Nagpur,AMD,Ahmedabad,21:45,23:54,3h 44m,1,Economy,8362
+AI-2941,AI Express,NAG,Nagpur,AMD,Ahmedabad,10:05,11:20,1h 15m,0,Economy,6602
+AI-6160,Air India,NAG,Nagpur,COK,Kochi,17:10,19:06,1h 56m,0,Economy,5883
+AI-6160,Air India,NAG,Nagpur,COK,Kochi,17:10,19:06,1h 56m,0,Business,15066
+IN-6262,IndiGo,NAG,Nagpur,COK,Kochi,05:00,07:52,2h 52m,0,Economy,3526
+AI-1560,Air India,NAG,Nagpur,GOI,Goa,22:50,01:05,2h 15m,0,Economy,5204
+AI-1560,Air India,NAG,Nagpur,GOI,Goa,22:50,01:05,2h 15m,0,Business,18423
+SP-2179,SpiceJet,NAG,Nagpur,JAI,Jaipur,06:10,08:31,2h 21m,0,Economy,5344
+VI-4019,Vistara,NAG,Nagpur,JAI,Jaipur,05:45,08:13,5h 1m,1,Economy,6705
+VI-4019,Vistara,NAG,Nagpur,JAI,Jaipur,05:45,08:13,5h 1m,1,Business,22918
+SP-5034,SpiceJet,NAG,Nagpur,LKO,Lucknow,11:30,12:30,1h 0m,0,Economy,4286
+AI-1667,AI Express,NAG,Nagpur,GAU,Guwahati,19:25,22:15,2h 50m,0,Economy,5710
+VI-3509,Vistara,NAG,Nagpur,PAT,Patna,08:00,09:24,3h 54m,1,Economy,6514
+VI-3509,Vistara,NAG,Nagpur,PAT,Patna,08:00,09:24,3h 54m,1,Business,21146
+SP-806,SpiceJet,NAG,Nagpur,BBI,Bhubaneswar,01:50,03:36,1h 46m,0,Economy,5280
+AK-7524,Akasa Air,NAG,Nagpur,TRV,Thiruvananthapuram,01:05,03:39,4h 24m,1,Economy,7061
+IN-8047,IndiGo,NAG,Nagpur,TRV,Thiruvananthapuram,16:05,17:14,1h 9m,0,Economy,6454
+AI-9598,AI Express,NAG,Nagpur,IXC,Chandigarh,10:30,11:55,1h 25m,0,Economy,7179
+AK-3869,Akasa Air,NAG,Nagpur,IXC,Chandigarh,03:25,04:54,3h 24m,1,Economy,8365
+AI-1304,Air India,NAG,Nagpur,SXR,Srinagar,15:45,17:47,3h 59m,1,Economy,6581
+AI-1304,Air India,NAG,Nagpur,SXR,Srinagar,15:45,17:47,3h 59m,1,Business,25612
+VI-3017,Vistara,NAG,Nagpur,SXR,Srinagar,12:25,13:42,1h 17m,0,Economy,4295
+VI-3017,Vistara,NAG,Nagpur,SXR,Srinagar,12:25,13:42,1h 17m,0,Business,14809
+AI-5603,Air India,NAG,Nagpur,IXB,Bagdogra,04:00,06:28,2h 28m,0,Economy,4649
+AI-5603,Air India,NAG,Nagpur,IXB,Bagdogra,04:00,06:28,2h 28m,0,Business,12574
+VI-7613,Vistara,NAG,Nagpur,IXB,Bagdogra,13:10,15:47,2h 37m,0,Economy,7130
+VI-7613,Vistara,NAG,Nagpur,IXB,Bagdogra,13:10,15:47,2h 37m,0,Business,20981
+SP-2884,SpiceJet,NAG,Nagpur,VNS,Varanasi,18:40,21:29,2h 49m,0,Economy,5186
+AI-9792,Air India,NAG,Nagpur,IXJ,Jammu,15:35,17:10,3h 36m,1,Economy,6758
+AI-9792,Air India,NAG,Nagpur,IXJ,Jammu,15:35,17:10,3h 36m,1,Business,20212
+AI-3743,AI Express,NAG,Nagpur,IXJ,Jammu,18:10,21:06,2h 56m,0,Economy,3520
+IN-756,IndiGo,NAG,Nagpur,RPR,Raipur,15:55,18:33,2h 38m,0,Economy,5243
+AI-6560,AI Express,NAG,Nagpur,RPR,Raipur,15:55,18:40,4h 25m,1,Economy,7020
+SP-6762,SpiceJet,NAG,Nagpur,RNC,Ranchi,06:10,07:55,1h 45m,0,Economy,6152
+IN-7960,IndiGo,NAG,Nagpur,IDR,Indore,21:20,22:40,1h 20m,0,Economy,7014
+VI-7698,Vistara,IDR,Indore,DEL,Delhi,04:55,06:46,1h 51m,0,Economy,7069
+VI-7698,Vistara,IDR,Indore,DEL,Delhi,04:55,06:46,1h 51m,0,Business,21600
+SP-122,SpiceJet,IDR,Indore,BOM,Mumbai,20:05,21:54,1h 49m,0,Economy,4863
+AI-635,AI Express,IDR,Indore,BOM,Mumbai,09:30,12:06,2h 36m,0,Economy,7375
+SP-1426,SpiceJet,IDR,Indore,BLR,Bengaluru,19:25,21:59,2h 34m,0,Economy,5608
+IN-1918,IndiGo,IDR,Indore,CCU,Kolkata,12:25,14:24,1h 59m,0,Economy,4997
+AK-2971,Akasa Air,IDR,Indore,CCU,Kolkata,20:40,23:10,4h 17m,1,Economy,7824
+AI-8941,Air India,IDR,Indore,MAA,Chennai,03:50,05:51,2h 1m,0,Economy,6581
+AI-8941,Air India,IDR,Indore,MAA,Chennai,03:50,05:51,2h 1m,0,Business,22179
+SP-3537,SpiceJet,IDR,Indore,MAA,Chennai,23:15,00:56,1h 41m,0,Economy,4595
+AK-992,Akasa Air,IDR,Indore,HYD,Hyderabad,02:25,04:09,1h 44m,0,Economy,5553
+AI-2110,AI Express,IDR,Indore,HYD,Hyderabad,15:55,18:03,2h 8m,0,Economy,5682
+VI-6131,Vistara,IDR,Indore,PNQ,Pune,21:55,00:38,2h 43m,0,Economy,7117
+VI-6131,Vistara,IDR,Indore,PNQ,Pune,21:55,00:38,2h 43m,0,Business,18493
+VI-1530,Vistara,IDR,Indore,PNQ,Pune,02:30,05:24,2h 54m,0,Economy,7425
+VI-1530,Vistara,IDR,Indore,PNQ,Pune,02:30,05:24,2h 54m,0,Business,29216
+AI-4621,Air India,IDR,Indore,AMD,Ahmedabad,03:55,05:13,1h 18m,0,Economy,7083
+AI-4621,Air India,IDR,Indore,AMD,Ahmedabad,03:55,05:13,1h 18m,0,Business,19877
+AK-6924,Akasa Air,IDR,Indore,COK,Kochi,21:40,00:39,5h 25m,1,Economy,6780
+AK-3197,Akasa Air,IDR,Indore,GOI,Goa,02:00,04:51,2h 51m,0,Economy,6919
+VI-9581,Vistara,IDR,Indore,JAI,Jaipur,10:50,13:12,2h 22m,0,Economy,5491
+VI-9581,Vistara,IDR,Indore,JAI,Jaipur,10:50,13:12,2h 22m,0,Business,18614
+SP-8786,SpiceJet,IDR,Indore,JAI,Jaipur,17:35,19:33,1h 58m,0,Economy,4040
+AI-4359,Air India,IDR,Indore,LKO,Lucknow,07:35,09:22,1h 47m,0,Economy,6652
+AI-4359,Air India,IDR,Indore,LKO,Lucknow,07:35,09:22,1h 47m,0,Business,25066
+AI-5885,Air India,IDR,Indore,LKO,Lucknow,09:35,10:56,1h 21m,0,Economy,4158
+AI-5885,Air India,IDR,Indore,LKO,Lucknow,09:35,10:56,1h 21m,0,Business,14834
+AI-2973,Air India,IDR,Indore,GAU,Guwahati,22:55,01:50,2h 55m,0,Economy,4128
+AI-2973,Air India,IDR,Indore,GAU,Guwahati,22:55,01:50,2h 55m,0,Business,11318
+IN-774,IndiGo,IDR,Indore,GAU,Guwahati,10:45,12:01,1h 16m,0,Economy,5014
+AI-9315,Air India,IDR,Indore,PAT,Patna,22:00,00:25,2h 25m,0,Economy,4908
+AI-9315,Air India,IDR,Indore,PAT,Patna,22:00,00:25,2h 25m,0,Business,13359
+AI-2763,AI Express,IDR,Indore,BBI,Bhubaneswar,17:20,18:35,1h 15m,0,Economy,5157
+VI-2481,Vistara,IDR,Indore,BBI,Bhubaneswar,14:25,15:44,3h 53m,1,Economy,8642
+VI-2481,Vistara,IDR,Indore,BBI,Bhubaneswar,14:25,15:44,3h 53m,1,Business,25899
+VI-4848,Vistara,IDR,Indore,TRV,Thiruvananthapuram,18:50,20:08,1h 18m,0,Economy,6484
+VI-4848,Vistara,IDR,Indore,TRV,Thiruvananthapuram,18:50,20:08,1h 18m,0,Business,25030
+VI-5649,Vistara,IDR,Indore,TRV,Thiruvananthapuram,22:05,00:38,2h 33m,0,Economy,3664
+VI-5649,Vistara,IDR,Indore,TRV,Thiruvananthapuram,22:05,00:38,2h 33m,0,Business,9926
+AK-506,Akasa Air,IDR,Indore,IXC,Chandigarh,12:45,15:32,2h 47m,0,Economy,4963
+AK-1001,Akasa Air,IDR,Indore,SXR,Srinagar,19:50,21:14,1h 24m,0,Economy,4409
+AI-469,Air India,IDR,Indore,IXB,Bagdogra,02:40,05:28,2h 48m,0,Economy,6250
+AI-469,Air India,IDR,Indore,IXB,Bagdogra,02:40,05:28,2h 48m,0,Business,24602
+AI-6562,AI Express,IDR,Indore,IXB,Bagdogra,06:35,08:15,1h 40m,0,Economy,5595
+SP-6015,SpiceJet,IDR,Indore,VNS,Varanasi,12:10,14:41,2h 31m,0,Economy,5014
+AK-299,Akasa Air,IDR,Indore,IXJ,Jammu,09:25,11:09,1h 44m,0,Economy,5325
+AI-1535,AI Express,IDR,Indore,IXJ,Jammu,06:55,09:48,2h 53m,0,Economy,5202
+AK-2783,Akasa Air,IDR,Indore,RPR,Raipur,23:30,02:03,2h 33m,0,Economy,4071
+AI-9896,AI Express,IDR,Indore,RPR,Raipur,02:10,03:36,1h 26m,0,Economy,7053
+IN-9777,IndiGo,IDR,Indore,RNC,Ranchi,12:05,13:05,1h 0m,0,Economy,7245
+AK-6891,Akasa Air,IDR,Indore,RNC,Ranchi,05:40,07:39,1h 59m,0,Economy,6593
+AI-3147,Air India,IDR,Indore,NAG,Nagpur,12:20,14:30,2h 10m,0,Economy,6870
+AI-3147,Air India,IDR,Indore,NAG,Nagpur,12:20,14:30,2h 10m,0,Business,25689

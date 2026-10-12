@@ -1,0 +1,89 @@
+hotel_name,area,zone,stars,category,price_per_night_inr,amenities,latitude,longitude,rating,near_landmark,distance_to_landmark_km,check_in_time,check_out_time,room_capacity,nearest_metro_station,distance_to_metro_km
+ITC Grand Chola,Guindy,South Chennai,5,Luxury,18000,"WiFi,Pool,Spa,Gym,Restaurant,Bar,Valet",13.0103,80.221,4.8,Guindy Station,0.5,14:00,12:00,3,Little Mount,0.69
+Taj Connemara,Binny Road,Central Chennai,5,Luxury,15000,"WiFi,Pool,Spa,Heritage,Restaurant,Bar",13.0608,80.2582,4.7,Express Avenue Mall,0.3,14:00,12:00,3,LIC,0.69
+The Leela Palace,Adyar,South Chennai,5,Luxury,22000,"WiFi,Pool,Spa,Gym,Restaurant,Bar,Butler",13.0062,80.2558,4.9,Adyar Gate,0.2,14:00,12:00,3,Nandanam,3.32
+Taj Club House,Anna Salai,Central Chennai,5,Luxury,12000,"WiFi,Pool,Gym,Restaurant,Bar,Rooftop",13.0595,80.2618,4.6,Spencer Plaza,0.4,14:00,12:00,3,LIC,0.37
+Hyatt Regency Chennai,Teynampet,Central Chennai,5,Luxury,14000,"WiFi,Pool,Spa,Gym,Restaurant,Bar",13.0458,80.2498,4.7,Semmozhi Poonga,0.3,14:00,12:00,3,AG-DMS,0.33
+Hilton Chennai,Guindy,South Chennai,5,Luxury,11000,"WiFi,Pool,Gym,Restaurant,Bar",13.0085,80.2145,4.5,Guindy National Park,0.8,14:00,12:00,3,Guindy,0.13
+The Park Chennai,Anna Salai,Central Chennai,5,Luxury,9500,"WiFi,Pool,Gym,Restaurant,Nightclub",13.0612,80.2605,4.5,Thousand Lights,0.2,14:00,12:00,3,LIC,0.43
+Crowne Plaza Chennai Adyar Park,TTK Road,T. Nagar & Alwarpet,5,Luxury,10000,"WiFi,Pool,Gym,Restaurant,Bar",13.0382,80.2498,4.5,Music Academy,0.3,14:00,12:00,3,Teynampet,0.77
+Radisson Blu Hotel GRT,Kodambakkam,West Chennai,4,Premium,8000,"WiFi,Pool,Gym,Restaurant",13.0528,80.2278,4.4,Vadapalani Temple,1.0,12:00,11:00,2,Vadapalani,1.6
+Novotel Chennai OMR,Sholinganallur,OMR IT Corridor,4,Premium,7500,"WiFi,Pool,Gym,Restaurant,Bar",12.9012,80.2278,4.4,SIPCOT IT Park,0.5,12:00,11:00,2,Meenambakkam,10.89
+Novotel Chennai Chamiers Road,Nandanam,Central Chennai,4,Premium,8500,"WiFi,Pool,Gym,Restaurant",13.0285,80.2388,4.5,Kalakshetra,2.0,12:00,11:00,2,Nandanam,0.34
+Ambassador Pallava,Montieth Road,Central Chennai,4,Premium,6500,"WiFi,Restaurant,Bar,Parking",13.0578,80.2625,4.3,Express Avenue,0.5,12:00,11:00,2,LIC,0.46
+GRT Grand,T. Nagar,T. Nagar & Alwarpet,4,Premium,7000,"WiFi,Pool,Gym,Restaurant,Banquet",13.0402,80.2348,4.4,Pondy Bazaar,0.3,12:00,11:00,2,Teynampet,0.95
+Residency Towers,T. Nagar,T. Nagar & Alwarpet,4,Premium,6000,"WiFi,Pool,Restaurant,Bar",13.0388,80.2362,4.3,T. Nagar Bus Stand,0.2,12:00,11:00,2,Teynampet,0.85
+Hotel Savera,RK Salai,Central Chennai,4,Premium,5500,"WiFi,Pool,Restaurant,Bar",13.0485,80.2595,4.2,Music Academy,0.5,12:00,11:00,2,Thousand Lights,1.04
+Rain Tree Hotel,Alwarpet,T. Nagar & Alwarpet,4,Premium,6500,"WiFi,Pool,Restaurant,Bar,Garden",13.0365,80.2505,4.5,Alwarpet Junction,0.2,12:00,11:00,2,Teynampet,0.94
+Feathers Hotel,Mount Poonamallee Road,West Chennai,4,Premium,5000,"WiFi,Pool,Gym,Restaurant",13.0285,80.1885,4.3,Ramachandra Hospital,1.0,12:00,11:00,2,Ekkattuthangal,2.1
+Courtyard by Marriott,Teynampet,Central Chennai,4,Premium,7500,"WiFi,Pool,Gym,Restaurant,Bar",13.0435,80.2475,4.5,US Consulate,0.3,12:00,11:00,2,Teynampet,0.49
+Lemon Tree Premier,OMR,OMR IT Corridor,4,Premium,5500,"WiFi,Pool,Gym,Restaurant",12.9285,80.2312,4.3,Tidel Park,1.5,12:00,11:00,2,Nanganallur Road,8.56
+Fortune Select Grand,Cathedral Road,Central Chennai,4,Premium,5000,"WiFi,Pool,Restaurant",13.0505,80.2498,4.2,Semmozhi Poonga,0.4,12:00,11:00,2,AG-DMS,0.26
+Hotel Vestin Park,Egmore,Central Chennai,3,Standard,3500,"WiFi,Restaurant,Parking",13.0748,80.2598,4.1,Egmore Museum,0.3,12:00,11:00,2,Egmore,0.13
+Comfort Inn Marina Towers,Triplicane,Central Chennai,3,Standard,3000,"WiFi,Restaurant,AC",13.0545,80.2762,4.0,Parthasarathy Temple,0.3,12:00,11:00,2,LIC,1.49
+Hotel Ashoka,Egmore,Central Chennai,3,Standard,2800,"WiFi,Restaurant,Parking",13.0738,80.2585,4.0,Egmore Station,0.2,12:00,11:00,2,Egmore,0.22
+Hotel Pandian,Egmore,Central Chennai,3,Standard,2500,"WiFi,Restaurant",13.0755,80.2605,3.9,Egmore Station,0.1,12:00,11:00,2,Egmore,0.19
+Hotel Deccan Plaza,RK Salai,Central Chennai,3,Standard,3200,"WiFi,Restaurant,AC",13.0492,80.2602,4.1,Music Academy,0.4,12:00,11:00,2,Thousand Lights,1.03
+Raj Park Hotel,Teynampet,Central Chennai,3,Standard,3500,"WiFi,Pool,Restaurant",13.0415,80.2502,4.2,Nungambakkam Station,0.5,12:00,11:00,2,Teynampet,0.73
+Hotel Kanchi,Egmore,Central Chennai,3,Standard,2200,"WiFi,Restaurant",13.0725,80.2578,3.8,Government Museum,0.2,12:00,11:00,2,Egmore,0.33
+Breeze Hotel,Kodambakkam,West Chennai,3,Standard,2800,"WiFi,Restaurant,AC",13.0522,80.2248,4.0,Kodambakkam Station,0.3,12:00,11:00,2,Vadapalani,1.28
+Crystal Suites,T. Nagar,T. Nagar & Alwarpet,3,Standard,3200,"WiFi,Restaurant,AC",13.0395,80.2332,4.1,Ranganathan Street,0.2,12:00,11:00,2,Nandanam,1.12
+Hotel Ranjith,Nungambakkam,Central Chennai,3,Standard,2500,"WiFi,Restaurant",13.0612,80.2448,3.9,Nungambakkam Station,0.3,12:00,11:00,2,Thousand Lights,1.12
+Hotel Chenthur Park,Nungambakkam,Central Chennai,3,Standard,2800,"WiFi,AC,Restaurant",13.0625,80.2435,4.0,Sterling Road,0.3,12:00,11:00,2,Thousand Lights,1.31
+Hotel Shelter,Triplicane,Central Chennai,3,Standard,2200,"WiFi,Restaurant",13.0528,80.2748,3.8,Marina Beach,0.5,12:00,11:00,2,LIC,1.48
+Green Park Hotel,Vadapalani,West Chennai,3,Standard,2500,"WiFi,Restaurant,AC",13.0505,80.2142,4.0,Vadapalani Temple,0.3,12:00,11:00,2,Vadapalani,0.38
+ABM Grand,Mylapore,Mylapore & Mandaveli,3,Standard,2800,"WiFi,Restaurant,AC",13.0342,80.2672,4.1,Kapaleeshwarar Temple,0.2,12:00,11:00,2,AG-DMS,2.58
+JC Residency Madurai,Besant Nagar,South Chennai,3,Standard,3000,"WiFi,Restaurant",13.0005,80.2655,4.0,Elliot's Beach,0.5,12:00,11:00,2,Nandanam,4.45
+Pride Hotel,Anna Salai,Central Chennai,3,Standard,3200,"WiFi,Restaurant,AC",13.0632,80.2655,4.1,Anna Salai,0.1,12:00,11:00,2,LIC,0.22
+Royal Kourt Hotel,Kilpauk,Central Chennai,3,Standard,2500,"WiFi,Restaurant",13.0852,80.2422,3.9,Kilpauk Medical,0.3,12:00,11:00,2,Kilpauk Medical College (Kilpauk),0.67
+Classic Diplomat,Chetpet,Central Chennai,3,Standard,2800,"WiFi,Restaurant,AC",13.0698,80.2412,4.0,Chetpet Ecopark,0.4,12:00,11:00,2,Kilpauk Medical College (Kilpauk),1.05
+FabHotel Prime Egmore,Egmore,Central Chennai,2,Budget,1200,"WiFi,AC",13.0742,80.2592,3.8,Egmore Station,0.3,12:00,11:00,2,Egmore,0.15
+FabHotel Royal Park,Teynampet,Central Chennai,2,Budget,1400,"WiFi,AC",13.0425,80.2488,3.7,Teynampet Junction,0.2,12:00,11:00,2,Teynampet,0.58
+FabHotel Nest OMR,Sholinganallur,OMR IT Corridor,2,Budget,1100,"WiFi,AC",12.9045,80.2295,3.8,OMR Signal,0.5,12:00,11:00,2,Meenambakkam,10.66
+Treebo Trip Shelton,T. Nagar,T. Nagar & Alwarpet,2,Budget,1300,"WiFi,AC",13.0385,80.2345,3.9,T. Nagar Bus Stand,0.3,12:00,11:00,2,Nandanam,0.95
+Treebo Trend Ruby Arena,Anna Nagar,West Chennai,2,Budget,1200,"WiFi,AC",13.0855,80.2125,3.8,Anna Nagar Tower,0.4,12:00,11:00,2,Anna Nagar Tower,0.23
+OYO Townhouse Nungambakkam,Nungambakkam,Central Chennai,2,Budget,1000,"WiFi,AC",13.0618,80.2455,3.7,Nungambakkam Station,0.2,12:00,11:00,2,Thousand Lights,1.09
+OYO Rooms Mylapore,Mylapore,Mylapore & Mandaveli,2,Budget,900,"WiFi,AC",13.0335,80.2688,3.6,Kapaleeshwarar Temple,0.2,12:00,11:00,2,AG-DMS,2.76
+OYO Flagship Mount Road,Anna Salai,Central Chennai,2,Budget,1100,"WiFi,AC",13.0625,80.2678,3.7,Higginbothams,0.2,12:00,11:00,2,LIC,0.37
+OYO Rooms Velachery,Velachery,South Chennai,2,Budget,850,"WiFi,AC",12.9825,80.2185,3.6,Phoenix Mall,0.5,12:00,11:00,2,Guindy,2.86
+Hotel Mass Triplicane,Triplicane,Central Chennai,2,Budget,800,"WiFi,Fan",13.0552,80.2748,3.5,Parthasarathy Temple,0.3,12:00,11:00,2,LIC,1.32
+Hotel Ganga,Egmore,Central Chennai,2,Budget,950,"WiFi,AC",13.0732,80.2575,3.6,Egmore Station,0.2,12:00,11:00,2,Egmore,0.33
+Chennai Gate Hotel,Meenambakkam,South Chennai,2,Budget,1200,"WiFi,AC,Airport Shuttle",12.9862,80.1685,3.8,Chennai Airport,1.0,12:00,11:00,2,Chennai International Airport,0.68
+Hotel Surguru,Egmore,Central Chennai,2,Budget,1100,"WiFi,Restaurant",13.0745,80.2598,3.9,Egmore Station,0.1,12:00,11:00,2,Egmore,0.11
+New Victoria Hotel,Kennet Lane,Central Chennai,2,Budget,1000,"WiFi,AC",13.0728,80.2612,3.7,Egmore Museum,0.3,12:00,11:00,2,Egmore,0.13
+Hotel Le Duplex,Alwarpet,T. Nagar & Alwarpet,2,Budget,1400,"WiFi,AC",13.0355,80.2528,3.9,Alwarpet Junction,0.1,12:00,11:00,2,Teynampet,1.21
+Royal Inn Tambaram,Tambaram,Outer Suburbs,2,Budget,850,"WiFi,AC",12.9262,80.1268,3.6,Tambaram Station,0.3,12:00,11:00,2,Chennai International Airport,7.38
+Hotel Alankar Inn,Perambur,North Chennai,2,Budget,750,"WiFi,AC",13.1085,80.2345,3.5,Perambur Station,0.3,12:00,11:00,2,Anna Nagar East,3.09
+Stay Inn,Chromepet,Outer Suburbs,2,Budget,800,"WiFi,AC",12.9512,80.1388,3.6,Chromepet Station,0.2,12:00,11:00,2,Chennai International Airport,4.37
+Zostel Chennai,Nungambakkam,Central Chennai,1,Backpacker Hostel,499,"WiFi,Locker,CommonArea,Kitchen",13.0605,80.2442,4.2,Express Avenue,1.0,12:00,10:00,1,Thousand Lights,1.13
+Backpackers Hostel,Mylapore,Mylapore & Mandaveli,1,Backpacker Hostel,450,"WiFi,Locker,CommonArea",13.0325,80.2692,4.0,Kapaleeshwarar Temple,0.3,12:00,10:00,1,AG-DMS,2.86
+The Madras Hostel,Nungambakkam,Central Chennai,1,Backpacker Hostel,550,"WiFi,Locker,CommonArea,Cafe",13.0628,80.2448,4.3,Nungambakkam Station,0.2,12:00,10:00,1,Thousand Lights,1.22
+goSTOPS Chennai,T. Nagar,T. Nagar & Alwarpet,1,Backpacker Hostel,500,"WiFi,Locker,CommonArea,Rooftop",13.0398,80.2355,4.1,Pondy Bazaar,0.3,12:00,10:00,1,Teynampet,0.89
+Tribe Hostel,Besant Nagar,South Chennai,1,Backpacker Hostel,600,"WiFi,Locker,CommonArea,Beach",12.9998,80.2665,4.2,Elliot's Beach,0.4,12:00,10:00,1,Nandanam,4.58
+Social Hostel,Egmore,Central Chennai,1,Backpacker Hostel,400,"WiFi,Locker,CommonArea",13.0748,80.2592,3.9,Egmore Station,0.2,12:00,10:00,1,Egmore,0.18
+Clock Tower Hostel,George Town,Central Chennai,1,Backpacker Hostel,350,"WiFi,Locker",13.0885,80.2852,3.8,Fort St George,0.5,12:00,10:00,1,High Court,0.21
+The Raintree Anna Salai,Anna Salai,Central Chennai,4,Premium,6000,"WiFi,Pool,Restaurant,Bar",13.0565,80.2605,4.4,Anna Salai,0.1,12:00,11:00,2,LIC,0.7
+Accord Metropolitan,Cathedral Road,Central Chennai,4,Premium,5500,"WiFi,Restaurant,Pool",13.0508,80.2512,4.3,Cathedral Road,0.1,12:00,11:00,2,AG-DMS,0.39
+My Fortune Chennai,Cathedral Road,Central Chennai,4,Premium,5000,"WiFi,Pool,Restaurant",13.0498,80.2505,4.2,Semmozhi Poonga,0.3,12:00,11:00,2,AG-DMS,0.26
+Holiday Inn Express,OMR,OMR IT Corridor,3,Standard,4000,"WiFi,Breakfast,AC",12.9125,80.2285,4.1,OMR IT Hub,0.5,12:00,11:00,2,Meenambakkam,9.85
+Keys Select by Lemon Tree,Kattupakkam,West Chennai,3,Standard,3200,"WiFi,Restaurant,AC",13.0365,80.1725,3.9,Porur Junction,1.0,12:00,11:00,2,Ekkattuthangal,4.04
+Hotel Vijay Park,Guindy,South Chennai,3,Standard,2800,"WiFi,Restaurant",13.0078,80.2168,4.0,Guindy Station,0.3,12:00,11:00,2,Guindy,0.36
+Green Coconut Resort,ECR,ECR & Coastal Corridor,3,Standard,3500,"WiFi,Pool,Beach,Restaurant",12.8225,80.2418,4.2,Muttukadu,0.5,12:00,11:00,2,Meenambakkam,19.48
+Ideal Beach Resort,Mahabalipuram,Mahabalipuram,3,Standard,4000,"WiFi,Pool,Beach,Restaurant",12.6185,80.1945,4.3,Shore Temple,0.5,12:00,11:00,2,Chennai International Airport,40.49
+Radisson BLU Temple Bay,Mahabalipuram,Mahabalipuram,5,Luxury,12000,"WiFi,Pool,Spa,Beach,Restaurant,Bar",12.6125,80.1922,4.7,Shore Temple,0.8,14:00,12:00,3,Chennai International Airport,41.14
+Taj Fishermans Cove,Covelong,ECR & Coastal Corridor,5,Luxury,16000,"WiFi,Pool,Spa,Beach,Surfing,Restaurant",12.7942,80.2525,4.8,Covelong Beach,0.1,14:00,12:00,3,Meenambakkam,22.84
+Chariot Beach Resort,Mahabalipuram,Mahabalipuram,4,Premium,6000,"WiFi,Pool,Beach,Restaurant",12.6095,80.1912,4.4,Pancha Rathas,0.3,12:00,11:00,2,Chennai International Airport,41.47
+Hanu Reddy Residences,Wallace Garden,Central Chennai,3,Standard,3000,"WiFi,Kitchen,Parking",13.0472,80.2538,4.3,Cathedral Road,0.3,12:00,11:00,2,AG-DMS,0.59
+Grand Chennai by GRT,Mount Road,Central Chennai,4,Premium,5500,"WiFi,Pool,Restaurant,Bar",13.0598,80.2622,4.4,Anna Salai,0.1,12:00,11:00,2,LIC,0.31
+MGM Beach Resort,ECR,ECR & Coastal Corridor,3,Standard,3800,"WiFi,Pool,Beach",12.8295,80.2425,4.1,MGM Dizzee World,0.2,12:00,11:00,2,Meenambakkam,18.79
+Hotel Kannan,Tambaram,Outer Suburbs,2,Budget,900,"WiFi,AC",12.9248,80.1262,3.5,Tambaram Station,0.2,12:00,11:00,2,Chennai International Airport,7.55
+YWCA International Guest House,Nandanam,Central Chennai,2,Budget,1200,"WiFi,AC,Canteen",13.0308,80.2405,3.9,Nandanam Signal,0.2,12:00,11:00,2,Nandanam,0.13
+Hotel Sabari Classic,Kodambakkam,West Chennai,3,Standard,2500,"WiFi,Restaurant",13.0518,80.2262,3.9,Kodambakkam Bridge,0.3,12:00,11:00,2,Vadapalani,1.43
+Turyaa Chennai,OMR Perungudi,OMR IT Corridor,4,Premium,6500,"WiFi,Pool,Gym,Restaurant,Bar",12.9568,80.2368,4.5,Perungudi Junction,0.5,12:00,11:00,2,Guindy,6.21
+Hablis Hotel,Guindy,South Chennai,4,Premium,5500,"WiFi,Pool,Gym,Restaurant,Eco",13.0045,80.2122,4.5,Guindy Industrial Estate,0.5,12:00,11:00,2,Guindy,0.39
+The Residency,Anna Salai,Central Chennai,4,Premium,5000,"WiFi,Pool,Restaurant",13.0622,80.2612,4.2,Anna Salai,0.1,12:00,11:00,2,LIC,0.37
+Hotel Palmgrove,Kodambakkam,West Chennai,3,Standard,2800,"WiFi,Pool,Restaurant",13.0535,80.2252,4.0,Kodambakkam,0.2,12:00,11:00,2,Vadapalani,1.31
+Vivanta Chennai IT Expressway,OMR,OMR IT Corridor,5,Luxury,9000,"WiFi,Pool,Spa,Gym,Restaurant,Bar",12.8785,80.2265,4.6,Siruseri IT Park,0.5,14:00,12:00,3,Meenambakkam,13.09
+Trident Chennai,GST Road,South Chennai,5,Luxury,8500,"WiFi,Pool,Spa,Restaurant",12.9862,80.1718,4.5,Chennai Airport,2.0,14:00,12:00,3,Meenambakkam,0.73
+Ibis Chennai City Centre,Wall Tax Road,Central Chennai,3,Standard,3200,"WiFi,Restaurant,AC",13.0842,80.2728,4.1,Central Station,0.5,12:00,11:00,2,Puratchi Thalaivar Dr. M.G.R Central (Chennai Central),0.34
+Ibis Chennai OMR,OMR,OMR IT Corridor,3,Standard,3000,"WiFi,Restaurant",12.9342,80.2325,4.0,OMR Signal,0.3,12:00,11:00,2,Nanganallur Road,8.1
