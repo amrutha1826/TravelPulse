@@ -13,9 +13,10 @@ import sqlite3
 import pandas as pd
 import random
 
-DB_PATH = "d:/drl_project/travel_platform.db"
-CHENNAI_CSV = "d:/drl_project/hotels/chennai_hotels.csv"
-TRIPADVISOR_CSV = "d:/drl_project/hotels/tripadvisor_hotel_reviews.csv"
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DB_PATH = os.path.join(BASE_DIR, "travel_platform.db")
+CHENNAI_CSV = os.path.join(BASE_DIR, "hotels", "chennai_hotels.csv")
+TRIPADVISOR_CSV = os.path.join(BASE_DIR, "hotels", "tripadvisor_hotel_reviews.csv")
 
 def clean_review_text(text):
     if not isinstance(text, str):

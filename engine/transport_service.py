@@ -6,16 +6,44 @@ Implements the Strict 4-Stage Pipeline:
   Stage 3: Graph Router (Direct 1-hop + Multi-Hop mode-agnostic journey synthesis up to 3 hops)
   Stage 4: Grounded Review-Summary (Verified traveler feedback & pros/cons per carrier and per leg)
 """
+import os
+import json
+import numpy as np
 from database.db_manager import DatabaseManager
 from engine.rag_service import RAGService
 from engine.graph_router import GraphRouter
-import json
+
+try:
+    from stable_baselines3 import DQN
+    HAS_SB3 = True
+except ImportError:
+    DQN = None
+    HAS_SB3 = False
 
 class TransportSearchService:
-    def __init__(self, db_manager=None, rag_service=None):
+    def __init__(self, db_manager=None, rag_service=None, model_path=None):
         self.db = db_manager or DatabaseManager()
         self.rag = rag_service or RAGService(self.db)
         self.router = GraphRouter(self.db)
+
+        # -------------------------------------------------------------
+        # Load Trained DRL DQN Policy for Route Value Estimation
+        # -------------------------------------------------------------
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        default_model_path = os.path.join(base_dir, "agents", "models", "route_dqn_best.zip")
+        self.model_path = model_path or default_model_path
+        self.dqn_model = None
+        self.drl_loaded = False
+
+        if HAS_SB3 and os.path.exists(self.model_path):
+            try:
+                self.dqn_model = DQN.load(self.model_path)
+                self.drl_loaded = True
+                print(f"[DRL SUCCESS] Route DQN Policy successfully loaded from {self.model_path}")
+            except Exception as e:
+                print(f"[DRL WARNING] Could not load DQN model ({e}). Falling back to multi-criteria utility.")
+        else:
+            print(f"[DRL INFO] DQN model not found at {self.model_path}.")
 
     def search_routes(
         self,
@@ -176,6 +204,7 @@ class TransportSearchService:
         best_score = -float('inf')
         best_route = None
         best_metrics = {}
+        drl_policy_used = "DQN-SB3" if (self.drl_loaded and self.dqn_model) else "MultiCriteria-Utility"
 
         for r in candidates:
             fare = r.get("total_fare_inr", r.get("price", 1000.0))
@@ -184,25 +213,55 @@ class TransportSearchService:
             hop_count = len(r.get("legs", [])) or 1
             op_rating = r.get("operator_rating", 4.0)
 
-            # DRL normalized factors
+            # Base multi-criteria utility
             cost_efficiency = (max_fare - fare) / fare_range
             time_efficiency = (max_dur - dur) / dur_range
             transfer_score = 1.0 if is_direct else (0.75 if hop_count == 2 else 0.45)
             quality_score = min(1.0, op_rating / 5.0)
 
-            # Weighted utility matching MultiModalRouteEnv rewards
-            score = (
+            base_utility = (
                 0.40 * cost_efficiency +
                 0.35 * time_efficiency +
                 0.15 * transfer_score +
                 0.10 * quality_score
             )
 
+            # DRL DQN State-Action Q-Evaluation:
+            # Observation: [city_idx/N, mode_idx/3, elapsed_hours/48, cost/25000, transfers/5, dist/3000, step/max_steps]
+            dqn_q_val = 0.0
+            if self.drl_loaded and self.dqn_model is not None:
+                try:
+                    mode_str = str(r.get("mode", "train")).lower()
+                    m_idx = 1.0 if "flight" in mode_str else (2.0 if "train" in mode_str else 3.0)
+                    dist_val = float(r.get("distance_km", 300.0))
+                    obs_route = np.array([
+                        0.5, # normalized city idx
+                        m_idx / 3.0,
+                        min(1.0, dur / 48.0),
+                        min(1.0, fare / 25000.0),
+                        min(1.0, (hop_count - 1) / 5.0),
+                        min(1.0, dist_val / 3000.0),
+                        min(1.0, float(hop_count) / 5.0)
+                    ], dtype=np.float32)
+                    # Query policy Q-network
+                    obs_tensor = self.dqn_model.policy.obs_to_tensor(obs_route)[0]
+                    q_values = self.dqn_model.policy.q_net(obs_tensor).detach().cpu().numpy()[0]
+                    # Direct route selects action 0, multi-hop actions correspond to connection index
+                    act_idx = min(len(q_values) - 1, max(0, hop_count - 1))
+                    dqn_q_val = float(q_values[act_idx])
+                except Exception as q_err:
+                    dqn_q_val = 0.0
+
+            # Composite final score: blend base utility with DRL Q-value
+            score = (base_utility * 0.7) + (float(np.tanh(dqn_q_val)) * 0.3) if self.drl_loaded else base_utility
+
             if score > best_score:
                 best_score = score
                 best_route = r
                 best_metrics = {
                     "score": round(score, 3),
+                    "base_utility": round(base_utility, 3),
+                    "dqn_q_value": round(dqn_q_val, 3),
                     "fare": fare,
                     "duration": dur,
                     "is_direct": is_direct,
@@ -271,5 +330,12 @@ class TransportSearchService:
             "hop_count": hops,
             "is_direct": best_metrics["is_direct"],
             "drl_utility_score": best_metrics["score"],
-            "chosen_route": best_route
+            "chosen_route": best_route,
+            "drl_metadata": {
+                "model_family": "DQN (Deep Q-Network)",
+                "framework": "stable-baselines3",
+                "policy_type": "MlpPolicy",
+                "dqn_q_value": best_metrics.get("dqn_q_value", 0.0),
+                "is_live_drl": (self.drl_loaded and self.dqn_model is not None)
+            }
         }

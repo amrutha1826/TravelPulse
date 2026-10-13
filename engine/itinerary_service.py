@@ -6,11 +6,20 @@ Implements the Strict 4-Stage Pipeline:
   Stage 3: DRL Policy (PPO/DQN Sequential Decision Maker: balances time, cost, distance, diversity)
   Stage 4: RAG Review-Summary (Grounded Pros/Cons synthesized from verified user reviews)
 """
+import os
 import math
 import random
 import json
+import numpy as np
 from database.db_manager import DatabaseManager
 from engine.rag_service import RAGService
+
+try:
+    from stable_baselines3 import PPO
+    HAS_SB3 = True
+except ImportError:
+    PPO = None
+    HAS_SB3 = False
 
 def haversine_dist(lat1, lon1, lat2, lon2):
     R = 6371.0
@@ -50,11 +59,30 @@ def format_minutes_to_time(minutes):
     return f"{h:02d}:{m:02d}"
 
 class ItineraryPlanningService:
-    def __init__(self, db_manager=None, rag_service=None):
+    def __init__(self, db_manager=None, rag_service=None, model_path=None):
         self.db = db_manager or DatabaseManager()
         self.rag = rag_service or RAGService(self.db)
         from engine.transport_service import TransportSearchService
         self.transport_service = TransportSearchService(self.db, self.rag)
+
+        # -------------------------------------------------------------
+        # STAGE 3: Load Trained DRL PPO Policy for Sequential POI Dispatch
+        # -------------------------------------------------------------
+        base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+        default_model_path = os.path.join(base_dir, "agents", "models", "itinerary_ppo_best.zip")
+        self.model_path = model_path or default_model_path
+        self.ppo_model = None
+        self.drl_loaded = False
+        
+        if HAS_SB3 and os.path.exists(self.model_path):
+            try:
+                self.ppo_model = PPO.load(self.model_path)
+                self.drl_loaded = True
+                print(f"[DRL SUCCESS] Itinerary PPO Policy successfully loaded from {self.model_path}")
+            except Exception as e:
+                print(f"[DRL WARNING] Could not load PPO model ({e}). Falling back to Q-reward heuristic.")
+        else:
+            print(f"[DRL INFO] PPO model not found at {self.model_path}. Using Q-reward heuristic.")
 
     def plan_itinerary(
         self,
@@ -265,19 +293,60 @@ class ItineraryPlanningService:
                 if not unvisited:
                     break
 
-                # DRL Reward / Q-Score evaluation for selecting next POI
-                def evaluate_candidate(p):
-                    dist = haversine_dist(curr_lat, curr_lon, p["latitude"], p["longitude"])
-                    fee = float(p.get("entry_fee_inr", 0))
-                    rating = float(p.get("rating", 4.5))
-                    is_new_cat = 1.0 if p.get("category") not in categories_visited else 0.2
-                    vec_score = float(p.get("vector_sim_score", 0.5))
-                    
-                    # DRL Objective: Maximize rating & diversity, minimize travel distance & cost
-                    score = (rating * 2.0) + (is_new_cat * 3.0) + (vec_score * 2.5) - (dist * 0.4) - (fee * 0.005)
-                    return score
+                # -------------------------------------------------------------
+                # DRL PPO Inference: Construct 8-dim Observation Vector
+                # [lat_norm, lon_norm, hour_norm, rem_time_norm, day_norm, budget_norm, div_score, visited_norm]
+                # -------------------------------------------------------------
+                # Normalize candidates relative to current location
+                candidates_sorted = sorted(
+                    unvisited,
+                    key=lambda p: haversine_dist(curr_lat, curr_lon, p["latitude"], p["longitude"])
+                )[:11] # Top 11 candidate actions matching ChennaiItineraryEnv.max_candidate_actions=12
 
-                best_poi = max(unvisited, key=evaluate_candidate)
+                # Compute observation features exactly as in ChennaiItineraryEnv
+                # Chennai bounds: lat 12.6-13.3, lon 79.9-80.35
+                lat_norm = float(np.clip((curr_lat - 12.6) / 0.7, 0.0, 1.0))
+                lon_norm = float(np.clip((curr_lon - 79.9) / 0.45, 0.0, 1.0))
+                curr_hour = (slot["start_min"]) / 60.0
+                hour_norm = float(np.clip((curr_hour - 6.0) / 16.0, 0.0, 1.0))
+                rem_hours = max(0.0, (end_m - slot["start_min"]) / 60.0)
+                rem_time_norm = float(np.clip(rem_hours / 12.0, 0.0, 1.0))
+                day_norm = float(d - 1) / max(1.0, float(num_days - 1))
+                budget_norm = float(np.clip(total_trip_budget_left / max(1.0, float(num_days * budget_per_day)), 0.0, 1.0))
+                div_score = float(len(categories_visited)) / max(1.0, 15.0)
+                visited_norm = min(1.0, float(len(used_ids)) / float(num_days * 6.0))
+
+                obs = np.array([
+                    lat_norm, lon_norm, hour_norm, rem_time_norm,
+                    day_norm, budget_norm, div_score, visited_norm
+                ], dtype=np.float32)
+
+                selected_action_idx = None
+                drl_policy_used = "PPO-SB3" if (self.drl_loaded and self.ppo_model) else "Q-Reward-Heuristic"
+
+                if self.drl_loaded and self.ppo_model is not None:
+                    try:
+                        action, _states = self.ppo_model.predict(obs, deterministic=True)
+                        action_int = int(action)
+                        if 0 <= action_int < len(candidates_sorted):
+                            selected_action_idx = action_int
+                            best_poi = candidates_sorted[action_int]
+                    except Exception as err:
+                        print(f"⚠️ [DRL] Inference error ({err}), using Q-scoring.")
+
+                if selected_action_idx is None:
+                    # Q-Score fallback / deterministic reward evaluation
+                    def evaluate_candidate(p):
+                        dist = haversine_dist(curr_lat, curr_lon, p["latitude"], p["longitude"])
+                        fee = float(p.get("entry_fee_inr", 0))
+                        rating = float(p.get("rating", 4.5))
+                        is_new_cat = 1.0 if p.get("category") not in categories_visited else 0.2
+                        vec_score = float(p.get("vector_sim_score", 0.5))
+                        score = (rating * 2.0) + (is_new_cat * 3.0) + (vec_score * 2.5) - (dist * 0.4) - (fee * 0.005)
+                        return score
+
+                    best_poi = max(unvisited, key=evaluate_candidate)
+
                 used_ids.add(best_poi["id"])
                 categories_visited.add(best_poi.get("category"))
                 
@@ -311,7 +380,13 @@ class ItineraryPlanningService:
                         "suggested_mode": transit_mode,
                         "transit_fare_est_inr": transit_cost
                     },
-                    "estimated_activity_cost_inr": act_cost
+                    "estimated_activity_cost_inr": act_cost,
+                    "drl_telemetry": {
+                        "policy": drl_policy_used,
+                        "action_idx": selected_action_idx,
+                        "observation_vector": [round(float(v), 3) for v in obs.tolist()],
+                        "is_drl_active": (self.drl_loaded and self.ppo_model is not None)
+                    }
                 })
                 
                 curr_lat = best_poi["latitude"]
@@ -331,7 +406,15 @@ class ItineraryPlanningService:
                 "activities": day_activities,
                 "total_day_distance_km": round(day_dist, 1),
                 "estimated_day_cost_inr": round(day_cost, 2),
-                "hotel_base": hotel_name
+                "hotel_base": hotel_name,
+                "drl_metadata": {
+                    "model_family": "PPO (Proximal Policy Optimization)",
+                    "framework": "stable-baselines3",
+                    "policy_type": "MlpPolicy",
+                    "observation_dim": 8,
+                    "action_dim": 12,
+                    "is_live_drl": (self.drl_loaded and self.ppo_model is not None)
+                }
             }
 
         # -------------------------------------------------------------

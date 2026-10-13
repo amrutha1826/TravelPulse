@@ -420,8 +420,17 @@ def seed_database():
 
     conn.commit()
     conn.close()
+
+    # Step 7: Guarantee All District Headquarters Transit Corridors (Kadapa, Tirupati, Chennai, etc.)
+    try:
+        from database.seed_all_districts_transit import main as seed_transit_districts
+        seed_transit_districts()
+        print("Guaranteed all district corridor transit links (Kadapa, Tirupati, Chennai, etc.).")
+    except Exception as d_err:
+        print(f"Note on district transit seeding: {d_err}")
+
     print("\n=======================================================")
-    print(f"✅ DATABASE SEEDING COMPLETED SUCCESSFULLY IN {DB_PATH}")
+    print(f"DATABASE SEEDING COMPLETED SUCCESSFULLY IN {DB_PATH}")
     print(f"   - Cities: {len(city_tuples)}")
     print(f"   - Operators: {len(op_tuples)}")
     print(f"   - Places/Attractions: {len(place_tuples)}")

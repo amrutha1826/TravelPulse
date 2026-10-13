@@ -40,7 +40,18 @@ STATE_ANCHOR_DATA = {
             ("Thoothukudi", 8.7642, 78.1348, 1, 56, "Pearl City, Major Sea Port, Airport"),
             ("Kumbakonam", 10.9602, 79.3845, 0, 42, "Temple Town, Mahamaham Tank"),
             ("Hosur", 12.7409, 77.8253, 0, 52, "Automobile & Tech Corridor"),
-            ("Karaikudi", 10.0735, 78.7732, 0, 66, "Chettinad Heritage Mansions, Cuisine")
+            ("Karaikudi", 10.0735, 78.7732, 0, 66, "Chettinad Heritage Mansions, Cuisine"),
+            ("Dharmapuri", 12.1211, 78.1582, 0, 52, "District HQ, Hogenakkal Waterfalls, Mango Capital"),
+            ("Namakkal", 11.2189, 78.1674, 0, 50, "District HQ, Rock Fort, Anjaneyar Temple, Poultry Hub"),
+            ("Karur", 10.9601, 78.0766, 0, 52, "District HQ, Textile & Handloom Capital, Amaravathi River"),
+            ("Pudukkottai", 10.3833, 78.8001, 0, 54, "District HQ, Sittanavasal Cave Paintings, Royal Heritage"),
+            ("Virudhunagar", 9.5872, 77.9514, 0, 52, "District HQ, Gateway to Western Ghats, Pepper & Spices"),
+            ("Tenkasi", 8.9594, 77.3150, 0, 48, "District HQ, Courtallam Waterfalls, Kasi Viswanathar Temple"),
+            ("Theni", 10.0104, 77.4768, 0, 48, "District HQ, Suruli Falls, Cardamom Hills Gateway"),
+            ("Nagapattinam", 10.7656, 79.8424, 0, 52, "District HQ, Velankanni Basilica, Coastal Heritage"),
+            ("Tiruvarur", 10.7725, 79.6365, 0, 50, "District HQ, Thyagaraja Temple, Chariot & Carnatic Roots"),
+            ("Viluppuram", 11.9401, 79.4861, 0, 48, "District HQ, Gingee Fort, Major Rail Junction"),
+            ("Tiruvallur", 13.1437, 79.9079, 0, 46, "District HQ, Veeraraghava Swamy Temple, Poondi Reservoir")
         ]
     },
     "Maharashtra": {
@@ -184,9 +195,19 @@ STATE_ANCHOR_DATA = {
             ("Visakhapatnam", 17.6868, 83.2185, 1, 15, "City of Destiny, Port, Beaches, Araku"),
             ("Vijayawada", 16.5062, 80.6480, 1, 21, "Kanaka Durga Temple, Krishna River"),
             ("Tirupati", 13.6288, 79.4192, 1, 14, "Tirumala Venkateswara Temple, Pilgrimage"),
+            ("Kadapa", 14.4673, 78.8242, 0, 48, "YSR District HQ, Ameen Peer Dargah, Gandikota"),
+            ("Anantapur", 14.6819, 77.6006, 0, 46, "District HQ, Clock Tower, Lepakshi Temple Gateway"),
+            ("Chittoor", 13.2172, 79.1003, 0, 45, "District HQ, Horsley Hills Gateway, Mango Corridor"),
+            ("Nellore", 14.4426, 79.9865, 0, 50, "Ranganathaswamy Temple, Coastal Aquaculture"),
+            ("Ongole", 15.5057, 80.0499, 0, 52, "Prakasam District HQ, Kothapatnam Beach"),
+            ("Eluru", 16.7107, 81.0952, 0, 50, "District HQ, Kolleru Lake Bird Sanctuary"),
             ("Guntur", 16.3067, 80.4365, 0, 42, "Chilli Capital, Amaravati Buddhist Heritage"),
             ("Kurnool", 15.8281, 78.0373, 0, 48, "Gateway of Rayalaseema, Belum Caves"),
-            ("Nellore", 14.4426, 79.9865, 0, 50, "Ranganathaswamy Temple, Coastal Aquaculture"),
+            ("Nandyal", 15.4886, 78.4836, 0, 52, "District HQ, Mahanandi Temple, Nallamala Forest"),
+            ("Machilipatnam", 16.1875, 81.1389, 0, 54, "Krishna District HQ, Manginapudi Beach"),
+            ("Bhimavaram", 16.5449, 81.5212, 0, 52, "West Godavari Hub, Somaramam Temple"),
+            ("Srikakulam", 18.2949, 83.8938, 0, 55, "District HQ, Arasavalli Sun Temple"),
+            ("Vizianagaram", 18.1067, 83.3956, 0, 53, "District HQ, Vizianagaram Fort, Music Heritage"),
             ("Rajahmundry", 17.0005, 81.8040, 1, 38, "Godavari Ghats, Paper & Cultural Capital"),
             ("Kakinada", 16.9891, 82.2475, 1, 45, "Deepwater Port, Coringa Wildlife Sanctuary"),
             ("Araku Valley", 18.3273, 82.8775, 0, 27, "Coffee Plantations, Borra Caves")
@@ -452,9 +473,9 @@ STATE_ANCHOR_DATA = {
     }
 }
 
+# Legitimate Census Town & Urban Taluk Suffixes (strictly excluding village/hamlet noise like Patti, Pattinam, Cheri, Gaon, Kheda)
 SUBDIVISION_SUFFIXES = [
-    "Nagar", "Puram", "Ganj", "Patti", "Kheda", "Bazaar", "Gaon", "Chowk", "Palli",
-    "Giri", "Katte", "Vadi", "Halli", "Palayam", "Pattinam", "Kottai", "Cheri", "Peta"
+    "Town", "Cantonment", "City", "Industrial Area", "Junction", "Extension"
 ]
 
 def generate_10k_cities():

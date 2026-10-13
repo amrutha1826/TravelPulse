@@ -8,7 +8,7 @@ import sqlite3
 import json
 import random
 
-DB_PATH = "d:/drl_project/travel_platform.db"
+DB_PATH = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "travel_platform.db")
 
 def haversine(lat1, lon1, lat2, lon2):
     import math
