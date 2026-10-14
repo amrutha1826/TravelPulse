@@ -85,6 +85,14 @@ def main():
         ("CTY_TN_VLP", "MAA"),       # Viluppuram <-> Chennai (160 km)
         ("CTY_TN_VLP", "TRZ"),       # Viluppuram <-> Tiruchirappalli (170 km)
         ("CTY_TN_TVL", "MAA"),       # Tiruvallur <-> Chennai (45 km)
+
+        # Thanjavur (CTY_00009) Rail & Transit corridors (Uzhavan Express, Cholan Express, Rockfort/Tiruchy)
+        ("CTY_00009", "MAA"),        # Thanjavur <-> Chennai (Direct Uzhavan Express, Cholan Express ~330 km)
+        ("CTY_00009", "TRZ"),        # Thanjavur <-> Tiruchirappalli (50 km Main line)
+        ("CTY_00009", "CTY_00023"),  # Thanjavur <-> Kumbakonam (40 km Temple line)
+        ("CTY_00009", "IXM"),        # Thanjavur <-> Madurai (180 km)
+        ("CTY_00009", "CJB"),        # Thanjavur <-> Coimbatore (270 km Jan Shatabdi route)
+        ("CTY_00009", "BLR"),        # Thanjavur <-> Bengaluru (380 km)
     ]
 
     schedule_tuples = []

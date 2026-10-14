@@ -397,9 +397,14 @@ class ItineraryPlanningService:
             return_dist = round(haversine_dist(curr_lat, curr_lon, hotel_lat, hotel_lon), 1)
             day_dist += return_dist
             
+            if day_activities:
+                theme_title = f"Day {d}: {day_activities[0]['poi']['category']} & {day_activities[-1]['poi']['category']}"
+            else:
+                theme_title = f"Day {d}: Free Exploration & Leisure"
+
             day_plans[d] = {
                 "day_number": d,
-                "theme_title": f"Day {d}: {day_activities[0]['poi']['category']} & {day_activities[-1]['poi']['category']}",
+                "theme_title": theme_title,
                 "available_start_time": d_start_str,
                 "available_end_time": d_end_str,
                 "available_hours": round((end_m - start_m) / 60.0, 1),
@@ -487,7 +492,11 @@ class ItineraryPlanningService:
         updated_itinerary = dict(current_itinerary)
         updated_itinerary[day_num] = new_plan[1]
         updated_itinerary[day_num]["day_number"] = day_num
-        updated_itinerary[day_num]["theme_title"] = f"Day {day_num} (Regenerated): {new_plan[1]['activities'][0]['poi']['category']}"
+        day1_acts = new_plan[1].get("activities", [])
+        if day1_acts:
+            updated_itinerary[day_num]["theme_title"] = f"Day {day_num} (Regenerated): {day1_acts[0]['poi']['category']}"
+        else:
+            updated_itinerary[day_num]["theme_title"] = f"Day {day_num} (Regenerated): Free Exploration & Leisure"
         return updated_itinerary
 
     def swap_activity(self, current_itinerary, day_num, activity_idx, new_place_id):
