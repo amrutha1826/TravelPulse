@@ -148,7 +148,7 @@ class RAGService:
         return res
 
 
-    def generate_grounded_review_summary(self, entity_type, entity_id, entity_name):
+    def generate_grounded_review_summary(self, entity_type, entity_id, entity_name, offset=0):
         """
         Stage 4 RAG Review-Summary:
         Retrieves real/indexed reviews from the database and generates a strictly grounded pros/cons summary.
@@ -168,7 +168,7 @@ class RAGService:
                 "is_grounded": True
             }
 
-        reviews = self.db.get_reviews_for_entity(entity_type, entity_id, limit=6)
+        reviews = self.db.get_reviews_for_entity(entity_type, entity_id, limit=6, offset=offset)
         if not reviews:
             return {
                 "entity_name": entity_name,

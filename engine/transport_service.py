@@ -135,10 +135,14 @@ class TransportSearchService:
         for r in direct_routes:
             op_id = r.get("operator_id")
             op_name = r.get("operator_name", "Carrier")
+            # Rotate reviews deterministically per train/bus service number so different services show distinct feedback
+            srv_key = str(r.get("service_number") or r.get("id") or "")
+            rot_offset = (abs(hash(srv_key)) % 10) * 3
             r["review_summary"] = self.rag.generate_grounded_review_summary(
                 entity_type="operator",
                 entity_id=op_id,
-                entity_name=op_name
+                entity_name=op_name,
+                offset=rot_offset
             )
             r["operator_review_summary"] = r["review_summary"]
 
@@ -147,10 +151,13 @@ class TransportSearchService:
             for leg in mr.get("legs", []):
                 leg_op_id = leg.get("operator_id")
                 leg_op_name = leg.get("carrier_name", "Carrier")
+                leg_srv = str(leg.get("service_number") or leg.get("schedule_id") or "")
+                leg_rot_offset = (abs(hash(leg_srv)) % 10) * 3
                 leg["review_summary"] = self.rag.generate_grounded_review_summary(
                     entity_type="operator",
                     entity_id=leg_op_id,
-                    entity_name=leg_op_name
+                    entity_name=leg_op_name,
+                    offset=leg_rot_offset
                 )
             
             # Primary summary for route preview card

@@ -425,16 +425,24 @@ class DatabaseManager:
 
 
 
-    def get_reviews_for_entity(self, entity_type, entity_id, limit=5):
+    def get_reviews_for_entity(self, entity_type, entity_id, limit=5, offset=0):
         """Retrieves verified ground-truth reviews for a specific place, operator, or hotel."""
         with get_db_connection(self.db_path) as conn:
             cursor = conn.cursor()
             cursor.execute("""
                 SELECT * FROM reviews 
                 WHERE entity_type = ? AND entity_id = ? 
-                ORDER BY rating DESC LIMIT ?
-            """, (entity_type, entity_id, limit))
-            return [dict(row) for row in cursor.fetchall()]
+                ORDER BY rating DESC, id ASC LIMIT ? OFFSET ?
+            """, (entity_type, entity_id, limit, offset))
+            rows = [dict(row) for row in cursor.fetchall()]
+            if not rows and offset > 0:
+                cursor.execute("""
+                    SELECT * FROM reviews 
+                    WHERE entity_type = ? AND entity_id = ? 
+                    ORDER BY rating DESC, id ASC LIMIT ? OFFSET 0
+                """, (entity_type, entity_id, limit))
+                rows = [dict(row) for row in cursor.fetchall()]
+            return rows
 
     def get_reviews_for_entities(self, entity_ids, limit_per_entity=3):
         """Retrieves reviews for a batch of place/operator IDs."""
